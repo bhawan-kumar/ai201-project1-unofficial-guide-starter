@@ -1,0 +1,276 @@
+Professor: Ashish Gulati
+Department: Data_Science
+Overall Rating: 1.2/5
+Would Take Again: 4%
+Total Reviews: 25
+========================================
+
+Course: N/A
+Date: Mar 8th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: GET READY TO READ
+Comment: He did not teach or lecture, you were forced to read hundreds of pages of coding textbook to learn a new coding language for the first time. During finals week I had a house fire and was unable to take the final until 12hrs after it ended, he would not give any grace and said "class is closed". My grade dropped from a 98 to a 82.
+---
+Course: IFT300
+Date: Mar 8th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: D
+Textbook: Yes
+Tags: TOUGH GRADER, TEST HEAVY, GRADED BY FEW THINGS
+Comment: Be prepared for final exam, its nothing provided for it and its broad.
+---
+Course: IFT300
+Date: Mar 3rd, 2026
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: B
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ
+Comment: This has got to be the absolute worst class I have ever taken. The final has literally nothing to do with the course. The course goes over basic and some intermediate SQL, but then the final is on advanced SQL. For the love of all that is holy avoid this professor like the plague.
+---
+Course: IFT300
+Date: Dec 18th, 2025
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Comment: He is quite literally the worst professor I have ever had. The final exam completely deviated from the material that was taught, it also was different from what was listed in the syllabus. Class average for the final was a 33. He refused to meet with anyone to discuss grades. 0/10, do not recommend.
+---
+Course: IFT300
+Date: Dec 14th, 2025
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: CARING, RESPECTED, ONLINE SAVVY
+Comment: He is very caring and passionate, responds to emails fast!
+---
+Course: IFT300
+Date: Dec 11th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: N/A
+Tags: TEST HEAVY
+Comment: this guy made half the class fail, genuinely one of the worst professors in asu
+---
+Course: N/A
+Date: Nov 29th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: C
+Textbook: N/A
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: Hello! I don't give reviews on professors often or if at all but I think this is one of the worst professors I've ever taken at ASU. This guy is nearly nonexistent. Anemic learning modules. You're only learning from Zybooks and nothing else. I had to go gather my resources to actually learn Java. Stay away from this professor.
+---
+Course: N/A
+Date: Jul 16th, 2025
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: Took a lower-level course w/ him in '23 & it was awful then...no better in 2025. No other professors offered IFT 300 so I had to take him again. You use Murach's SQL Server 2022 & that's literally all you get--no lectures, no slides, no interaction & he barely responds. Paid another $2K to teach myself using a $45 book. Really disappointing.
+---
+Course: N/A
+Date: May 4th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Comment: This teacher was non-existent in the course. The TAS did all of the grading and were weeks behind on completing it. Went into final with 99% A+, final was way harder than the rest of the course and there was no information as to what was going to be on it or what to study. Final is heavily weighted 20% of the grade.
+---
+Course: IFT210
+Date: Apr 29th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Tags: GET READY TO READ, PARTICIPATION MATTERS, LECTURE HEAVY
+Comment: IFT 300: I've never been so frustrated at how deceiving a class can be. The assignments and lectures are extremely straight forward. I had a 100% in the class up until the final. Then out of nowhere this final takes the difficulty of the class to another level. The lecture slides are never covered during the actual lectures. Lack of transparency.
+---
+Course: N/A
+Date: Mar 4th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: B+
+Textbook: Yes
+Tags: TEST HEAVY, GRADED BY FEW THINGS
+Comment: IFT 300 - we had assignments due every week that were pretty easy and sometimes formatting the assignment took longer than the assignment itself. PowerPoints weren't super helpful, you need the book to explain. The final was NOTHING like any homework and EXPONENTIALLY harder. Still passed with a B+, but only because I had 100 on all assignments
+---
+Course: N/A
+Date: Oct 14th, 2024
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Comment: IFT 300 - This “professor” did not engage once with the class. Unclear grading criteria, errors throughout the syllabus and modules. Provided zero feedback - had a TA grade assignments weeks late. Completely self taught, cannot believe I paid for this course. The final had material that was NEVER covered. Worst delivery since I started. Wow.
+---
+Course: N/A
+Date: Sep 29th, 2024
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: Yes
+Tags: TOUGH GRADER, LECTURE HEAVY, GRADED BY FEW THINGS
+Comment: Had to take IFT 210: Intro To Java Tech. as part of my IT major requirement. He not only assigns loads of Zybook chapters and multiple choice quizzes alongside them, he doesn't teach the basics of Java. Zybooks does all the grading for you, and I learned little to nothing from this class. Stiff and rude in emails, 10/10 do not recommend taking.
+---
+Course: N/A
+Date: Jul 28th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: GET READY TO READ, GRADED BY FEW THINGS
+Comment: IFT210+IFT300: 100% self-taught. 210 was easier thanks to zybooks. 300 was harder thanks to terribly-written book. No lectures, not even what pages to read. 300 final: the hws give a false sense of security. A+ up until I took the final, which had things I'd never seen before. Failed final and got a B in the class because of it. Avoid if you can.
+---
+Course: IFT210
+Date: Jul 10th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: LOTS OF HOMEWORK
+Comment: I've never felt the need to leave a review for a professor before, but if you have to take IFT 210, then I strongly recommend taking it with another professor. The workload was bad; I often spent 20-30 hours a week on assignments. Quizzes were frustrating, they didn't follow course material or study guides, and often had multiple correct answers.
+---
+Course: N/A
+Date: Jun 5th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK
+Comment: I have never been so annoyed with a professor that I had to write a review for them. The reviews are all accurate, the professor just stamped his name on this class just to get paid to do nothing. His TA's don't answer, all of the class was an e-learning. If you can wait to take this class with another professor, WAIT.
+---
+Course: N/A
+Date: Dec 3rd, 2023
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: TOUGH GRADER
+Comment: I wish I could give him a rating of ZERO. He was that bad. He was completely absent from the learning experience. This is basically a self-guided e-learning course with reading, coding assignments and multiple choice quizzes. If you really want to learn Java, avoid this instructor like the plague.
+---
+Course: N/A
+Date: Sep 4th, 2023
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, LECTURE HEAVY, TEST HEAVY
+Comment: Not even finished with the class and I felt the need to rate this professor. Where do I start, tons of homework multiple sections of zybooks every week plus labs PLUS quizs, 2.5 weeks of homework in 1 week. Basically learning from a textbook with the instructor name slapped on it. If you work or take more than 1 class with this class GOOD LUCK.
+---
+Course: N/A
+Date: Sep 4th, 2023
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, LECTURE HEAVY, TEST HEAVY
+Comment: Not even finished with the class and I felt the need to rate this professor. Where do I start...tons of homework multiple sections of zybooks every week plus labs PLUS quizs, 2.5 weeks of homework in 1 week. Basically learning from a textbook with the instructor name slapped on it. If you work or take more than 1 class with this class GOOD LUCK.
+---
+Course: N/A
+Date: Feb 15th, 2023
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: Yes
+Comment: No professor would've been better. Python-intensive course meant for newbies. All work was done on an online workbook w/HARD assignments compared to the near-useless readings. He rarely responded to emails or gave guidance & seemed to open the course & let the workbook do his job. If he did respond, it was with annoyance & was generally unhelpful.
+---
+Course: N/A
+Date: Feb 24th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GET READY TO READ
+Comment: I had to ask a friend to help me with the homework and tutor me with Python because the professor was gone for the entire semester. Also the book didn't exactly help us learn. It's very self taught.
+---
+Course: N/A
+Date: Feb 7th, 2022
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ
+Comment: Considered this a self taught course. Assigned readings with participation points tied to them every weel. Could have been an easy class if there was some clarity in the videos and text. Highly recommend a tutor or study group!
+---
+Course: IFT210
+Date: Dec 30th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Tags: GET READY TO READ, SKIP CLASS? YOU WON'T PASS.
+Comment: I barely passed this class. Professor Gulati was AWOL throughout the entire class. Just an instructor who stamps his name, and that is the extent of his participation. -1/10 would not recommend.
+---
+Course: N/A
+Date: Oct 14th, 2021
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, GRADED BY FEW THINGS
+Comment: Be prepared to self teach. Course had chapter readings and at most 2 videos and a few quizzes(only 4/5 questions). Only reason I got a good grade is that you could submit your answers to the homework unlimited amount of times and the quizzes were open book/notes. If you take this class, I recommend using a tutoring service or forming a study group.
+---
+Course: N/A
+Date: Sep 29th, 2020
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Comment: Didnt produce any lectures and only stated to read certain chapters out of class books, to read PDFs and gave assignments to be graded. Gave little to no feedback on incorrect assignments. The things I learned were self-taught from the books.
+---

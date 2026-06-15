@@ -1,0 +1,391 @@
+Professor: Mohamed Sarwat
+Department: CSE
+Overall Rating: 3.9/5
+Would Take Again: 72%
+Total Reviews: 36
+========================================
+
+Course: CSE512
+Date: Jul 4th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: HILARIOUS
+Comment: ONE OF THE WORST PROFESSORS THAT I HAVE EVER COME ACROSS HE DOES NOT HELP ANY STUDENT HE NEVER RESPONDS TO EMAIL WORST GRADING SHAMELESS PROFESSOR
+---
+Course: CSE512
+Date: May 3rd, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Tags: AMAZING LECTURES, GRADED BY FEW THINGS
+Comment: One of my favorite profs. I came in with no knowledge of databases and was able to get caught up with the class rather easy. First lecture that has been worth showing up to since Covid. Homework assignments can be rather tricky but not the end of the world. Midterm and Final didn't contain trick questions and were graded fairly.
+---
+Course: CSE512
+Date: Apr 30th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA, HILARIOUS, CARING
+Comment: Amazing professor. CSE 512 is a light course. If you already have a knowledge of databases, its gonna be easy. Good assignments and good lecture notes. A few tricky coding assignments, but overall managable. Mid-exam was descriptive and final was MCQ. Would recommend if you are looking for a great in-person lecture experience and an easy A
+---
+Course: CSE512
+Date: Dec 16th, 2021
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: LOTS OF HOMEWORK, CLEAR GRADING CRITERIA
+Comment: He makes the class pretty easy and clear to understand, but he feels like he's unprepared for most of his lectures. If you ask him a question he'll often misinterpret it or brush it off. Grading is lenient and the homework is interesting, but they're also pretty cookie cutter so you'll only touch the surface level of some of the tech.
+---
+Course: CSE512
+Date: Dec 13th, 2021
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: No
+Tags: GRADED BY FEW THINGS, CLEAR GRADING CRITERIA, CARING
+Comment: Prof very nice and caring, hates cheaters tho. Lectures not that complicated, but a lot to cram for midterm/final via basically rote learning, very doable to do good on the exams. Projects some were really easy, some decently hard with only a week to do, the hard one will suck but its downhill from there. One of the easiest 500's with a great prof!
+---
+Course: CSE512
+Date: May 5th, 2021
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: CARING
+Comment: He's a really nice guy but just didn't feel like he was prepared. He cares that everyone gets a good grade, but it also feels like you're not learning anything too complicated. The content overlaps a lot with CSE412 (except for the basic SQL part) with some extra information sprinkled in for the distributed part. It's not rigorous at all.
+---
+Course: CSE412
+Date: Apr 14th, 2021
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Comment: I took his class in Spring 2021 during covid when fully online. He tried to really help at the end of the semester to make it less stressful for us. He recorded lectures but did post them a week later and wasn't available out of class much. I learned a lot in this class and thought it was great as an elective. I would recommend!
+---
+Course: CSE412
+Date: Apr 2nd, 2021
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: GRADED BY FEW THINGS, HILARIOUS
+Comment: He's a nice guy, just disorganized. During Covid he uploaded lectures days after. Students had to keep emailing TAs to clarify vague assignment directions, and shared their responses on Discord. The one time I emailed the professor, my email tracker said he read it 2 hours later, but I never got a response; not sure if that's a norm for him.
+---
+Course: CSE512
+Date: Oct 27th, 2020
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: HILARIOUS
+Comment: I don't know why this professor is ranked so highly! The class is the easiest I have ever taken. Professor teaches basic things that even an undergrad student will know! Cakewalk, easy to get A, A+. Please don't take it as it is not a graduate-level course.
+---
+Course: CSE512
+Date: May 26th, 2020
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GRADED BY FEW THINGS, GROUP PROJECTS, HILARIOUS
+Comment: Tries to scare you off with the rules in his first class. You would learn a lot from this class. This professor is an ocean of knowledge. Not the toughest grading but you can lose points if you are not careful with the specific grading criteria and plagiarism.
+---
+Course: CSE412
+Date: May 13th, 2020
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, GROUP PROJECTS, CARING
+Comment: Very interactive class and communicated a lot with the class. Cared how we were doing and is flexible.
+---
+Course: CSE512
+Date: May 12th, 2020
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: RESPECTED, CLEAR GRADING CRITERIA, AMAZING LECTURES
+Comment: Very interactive classes and interesting lectures with real life examples. clear grading. Subject is very useful for jobs and gives hands on experience on latest things. Only thing i did not like was the assignments and projects are same from several semesters and they need to be changed
+---
+Course: CSE512
+Date: Dec 29th, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: No
+Comment: Great course. You will learn a lot of details about engineering distributed data systems. The only drawback is that exams can be difficult.
+---
+Course: CSE512
+Date: Dec 29th, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: No
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, AMAZING LECTURES
+Comment: Enjoyed the class. The assignments and group project are really great and gives you hands-on experience. The midterm was difficult but the grading was not too tough. Highly recommended.
+---
+Course: CSE512
+Date: Dec 22nd, 2019
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: GET READY TO READ, PARTICIPATION MATTERS, CLEAR GRADING CRITERIA
+Comment: He is a pretty chill professor. The lectures are okay. Definitely need to attend and participate in all lectures to do well on the tests. This time, midterms and finals were both difficult. Assignments are doable and really awesome. The project also gives you hands-on experience in Apache Spark and AWS.
+---
+Course: CSE412
+Date: Jul 24th, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: No
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, AMAZING LECTURES
+Comment: This class is a must if you plan to pursue a career in data science. Dr. Sarwat is definitely an expert in database systems and that shows in the way he runs discussions in class. The class is never boring since the prof shows how to do database stuff using the PostgreSQL psql interface. The final exam was a bit difficult but not too bad.
+---
+Course: CSE512
+Date: May 10th, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: No
+Tags: PARTICIPATION MATTERS, INSPIRATIONAL, TEST HEAVY
+Comment: Good prof. lectures are clear and in-class activities are engaging. There are 5 prog. assignments and they are not difficult. The prof focus on the practice side of DDS, which is very useful when you apply for jobs. Having a 3 hrs class on a Friday afternoon is not cool though.
+---
+Course: CSE412
+Date: May 8th, 2019
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: No
+Comment: He's a cool guy, his lectures are pretty fun, and the homework was clearly laid out. But he created a lot of unnecessary stress with his extra grading policies. For example, it said on the syllabus that if you scored less than 50% on the final you would fail the class. He later relaxed the policies so they were just scare tactics I guess.
+---
+Course: CSE512
+Date: May 7th, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: No
+Tags: INSPIRATIONAL, AMAZING LECTURES, EXTRA CREDIT
+Comment: This class seems difficult at the beginning but the prof makes it easy. Lecturing style is good and easy to follow. HWs require programming with Python, PostgreSQL, and MongoDB. The project gave us hands-on experience with Hadoop and Spark. The pace of the class can sometimes be slow but thats because Prof tries to clear all doubts in class.
+---
+Course: CSE412
+Date: May 2nd, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: No
+Tags: PARTICIPATION MATTERS, AMAZING LECTURES, TOUGH GRADER
+Comment: nice, knowledgeable and good lecturer. makes the content very practical. HWs and project are easy but exams are difficult. Attending the class is necessary to get a good participation grade.
+---
+Course: CSE412
+Date: Feb 22nd, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: No
+Tags: RESPECTED, PARTICIPATION MATTERS, AMAZING LECTURES
+Comment: Great professor - very nice and smart. The fun part though is when he runs interative lab sessions using PostgreSQL in class. He shows us step-by-step how to write SQL commands. I wish more professors would do the same.
+---
+Course: CSE412
+Date: Feb 11th, 2019
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: No
+Comment: He's very nice, knowledgable, and smart, but that doesn't mean he's a good teacher. His homework and project assignments are poorly explained, and grading is tough. He also has difficulty explaining new concepts: he skips through lectures because he thinks everyone is as quick to learn as he is. Interesting dude, but not for a graded course.
+---
+Course: CSE412
+Date: Jan 22nd, 2019
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Comment: Could have been a great teacher but already 2 weeks in to the Semester, already can't get a reply from him through email after emailing him twice. He's too busy with his twitter presence to even check his emails. Apart from that could have been a good teacher.
+---
+Course: CSE512
+Date: Dec 6th, 2018
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Comment: Friendly professor. Good lectures. Cheat sheet is allowed on exams, though won't help much. Assignments were very easy, and they are 25% of your grade. Project is okay (code on Scala, so you have to learn a new language), although 10 pages report at the end is not cool.
+---
+Course: CSE412
+Date: May 18th, 2018
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: No
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, AMAZING LECTURES
+Comment: Among the best classes I took at ASU. The material is very practical and the professor shows enthusiasm teaching it. A lot of interactive demos using PostgreSQL in class, which helps us get a better feel of the abstract concepts. Assignment are easy but the exams are a bit challenging. Overall, a very good class!
+---
+Course: CSE412
+Date: May 15th, 2018
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Tags: RESPECTED, AMAZING LECTURES, GROUP PROJECTS
+Comment: ASU should have more professors like Dr. Sarwat. He knows the material very well and shows interest in teaching it. He also cares a lot about the success of his students. The lectures are great and he incorporates a lot of activities / discussions. For improvement, I think the group project could have been a bit more challenging.
+---
+Course: CSE512
+Date: May 13th, 2018
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: No
+Tags: RESPECTED, LOTS OF HOMEWORK, GROUP PROJECTS
+Comment: A good professor. He knows what he's teaching and will make sure to answer all questions in class. The best thing about this class is the project in which we learn how to run database queries in Spark. Highly recommended!
+---
+Course: CSE412
+Date: May 9th, 2018
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: No
+Tags: LOTS OF HOMEWORK, AMAZING LECTURES, GROUP PROJECTS
+Comment: Sarwat is a good prof. Lots of assignments and project work but you will learn a lot. Midterm was a bit difficult but the final was easy. You will need to attend the lecture or otherwise you may not be able to follow. I would have liked it if the prof covered topics related to big data.
+---
+Course: CSE412
+Date: May 8th, 2018
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: No
+Comment: Seemed like he was going to be fine for the first half of the semester. Towards the end he got extremely disorganized and was very unclear when teaching more complicated material. Never gave feedback for why things were wrong. Had multiple assignments where the solutions were incorrect. Spent 30% of lecture talking about random stuff. Bad Professor
+---
+Course: CSE412
+Date: Apr 4th, 2018
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: RESPECTED, ACCESSIBLE OUTSIDE CLASS, CARING
+Comment: Dr. Sarwat is one of the best computer science professors at ASU. He has extreme knowledge on the database and SQL subject and is very patient answering questions during class. He sometimes relates the abstract concepts to current tech news, which makes it easy for us to understand. I totally recommend the class - a lot to learn!
+---
+Course: CSE512
+Date: Jun 15th, 2017
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: TOUGH GRADER, BEWARE OF POP QUIZZES, GROUP PROJECTS
+Comment: Course Project and assignments are nice. Classes are just ok, nothing extra-ordinary.
+---
+Course: CSE512
+Date: May 7th, 2017
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Comment: Clear lectures. Useful assignments. Project is highly related to cutting edge computing technology.
+---
+Course: CSE512
+Date: Apr 3rd, 2016
+Quality: 4.5/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Comment: Prof. Sarwat is an excellent professor. His course schedule is very clear and there will not be many changes. You will learn many new and hot technologies as a part of his course that add value to your resume. The course load is very balanced. I would definitely recommend his course. Attendance and class participation is important.
+---
+Course: CSE512
+Date: Dec 14th, 2015
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: No
+Comment: Course projects and assignments related to latest technologies such as Apache Spark, Hadoop, MongoDB etc. which is good to learn and put on resume. There is only one midterm exam which is easy and no finals.
+---
+Course: CSE512
+Date: May 12th, 2015
+Quality: 2.5/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: not so hard grading but definitely not a good prof. u will learn nothing from himattending class. attendance is kind of mandatory since he takes meaningless quizzes now and then. however, projectsassignments r good but group sizes r 2 much. Avoid if u want to learn!!
+---
+Course: CSE512
+Date: Mar 27th, 2015
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: The best professor I have seen ever. He had immense knowledge in his field. He scares u on the first day saying subject is very tough. but he makes course a free walk. We had group assignments too. One thing is sure, course project will be your top listing in linkedin profile. Professor makes you work on latest technologies for project .
+---

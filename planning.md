@@ -7,6 +7,12 @@
 
 ---
 
+## Summary
+
+This project is an unofficial guide to ASU professors in the CSE, ECE, and Data Science departments, built from real student reviews scraped from Rate My Professors. The goal is to let students ask plain questions like "Is this professor's exam fair?" or "Do I need to attend every class?" and get answers grounded in what other students actually experienced. This kind of knowledge is hard to find officially, course catalogs and department websites tell you what a professor teaches, but never whether their exams match the material, how they handle student questions, or whether their online lectures are worth watching.
+
+---
+
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
@@ -18,18 +24,18 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #   | Source | Description | URL or location |
+| --- | ------ | ----------- | --------------- |
+| 1   |        |             |                 |
+| 2   |        |             |                 |
+| 3   |        |             |                 |
+| 4   |        |             |                 |
+| 5   |        |             |                 |
+| 6   |        |             |                 |
+| 7   |        |             |                 |
+| 8   |        |             |                 |
+| 9   |        |             |                 |
+| 10  |        |             |                 |
 
 ---
 
@@ -71,13 +77,13 @@
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| #   | Question | Expected answer |
+| --- | -------- | --------------- |
+| 1   |          |                 |
+| 2   |          |                 |
+| 3   |          |                 |
+| 4   |          |                 |
+| 5   |          |                 |
 
 ---
 

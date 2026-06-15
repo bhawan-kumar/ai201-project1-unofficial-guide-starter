@@ -1,0 +1,807 @@
+Professor: Keith Holbert
+Department: ECE
+Overall Rating: 3.2/5
+Would Take Again: 50%
+Total Reviews: 75
+========================================
+
+Course: EEE460
+Date: May 6th, 2026
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: Great professor.
+---
+Course: N/A
+Date: Apr 24th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ, TEST HEAVY
+Comment: Professor Holbert has the most unreasonably strict grading requirements of any professor I have ever seen. If you check every assignment requirement, you will receive a B, because "A's are for those who exceed the assignment requirements". If you care about your GPA, steer clear
+---
+Course: N/A
+Date: Apr 24th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: TOUGH GRADER
+Comment: Professor Holbert has the most ridiculous grading standards of any professor I have ever had. I will never understand professors who seem to prioritize formatting comments for most of your grade over technical correctness. If you care for your GPA, stay away from his course.
+---
+Course: EEE460
+Date: Apr 23rd, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, TEST HEAVY
+Comment: This professor's exams are appealingly difficult and include random details that he mentioned once or twice. It is a shame because the material is interesting. Perhaps it would be better if it was taught by someone else
+---
+Course: EEE460
+Date: Apr 23rd, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: Yes
+Tags: TOUGH GRADER, TEST HEAVY, GRADED BY FEW THINGS
+Comment: This professor's exams are absurd and the grading is honestly insane with heavy exam weighting. It's a shame because the material is interesting but he doesn't really care about students being able to pass the class to be honest.
+---
+Course: EEE460
+Date: Apr 20th, 2026
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: Requiring page number citations for formulas from the course textbook feels non standard like other EE classes, and grading penalties for it can be frustrating. Lectures are clear, and exams are fair overall, though questions may include extra details that require careful reading. Grace period for HW is helpful.
+---
+Course: EEE460
+Date: Apr 8th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: Not sure yet
+Textbook: Yes
+Tags: TOUGH GRADER
+Comment: marks 15+% off homeworks for formatting comments. makes you buy the textbook he wrote, and the format of the book is not good. for students who ask questions about their grade, he threatens to take more points away. ta's are very strict graders as well.
+---
+Course: EEE460
+Date: Apr 5th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Incomplete
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: This professor grades unnecessarily harshly. Significant digits and less than 1% error matter more here than all other classes. Any more than 1% error for a final answer will cost you points. A lot of tables needed for problems, many redundant, and poorly placed all over the textbook that the professor wrote. Just a bad class all around.
+---
+Course: EEE460
+Date: Mar 31st, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: TOUGH GRADER
+Comment: never had a professor/ta grade as harsh as this class dont take if you care about your gpa
+---
+Course: N/A
+Date: Mar 31st, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK
+Comment: too much work
+---
+Course: N/A
+Date: Mar 29th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, TEST HEAVY
+Comment: Very disrespectful towards his students. Sad thing is I was really looking forward to taking EEE463, but after seeing it's only taught by Professor Holbert and remembering how bad he was for EEE460, I'm not willing to take another class from him.
+---
+Course: EEE460
+Date: Mar 23rd, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, TEST HEAVY
+Comment: Prof Holbert has the most strict grading I have ever seen. Would avoid at all costs
+---
+Course: EEE460
+Date: Mar 19th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: Yes
+Tags: TOUGH GRADER
+Comment: Avoid him. In exams, he asks his nicknames that he gave for different particles in a 9 am class which was worth 30 percent. Tough grader who won't give you any partial credit even if you have correct formulae and steps and just some simple calculation error at the very end. He has designed the course for students to not succeed
+---
+Course: N/A
+Date: Feb 16th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK
+Comment: Avoid at all costs. Way too strict on grading.
+---
+Course: EEE460
+Date: Jan 31st, 2026
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: TOUGH GRADER, AMAZING LECTURES
+Comment: He is a great lecturer, and is generally funny. His grading is very frustrating. The syllabus says "I shouldn't have to tell seniors how to format your homework" and then gives a fat bullet point list of formatting requirements. Most of the points I lost on homework wasnt for getting problems wrong, but picky comments on formatting the homework.
+---
+Course: EEE463
+Date: Jan 21st, 2026
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: A-
+Textbook: N/A
+Comment: Holbert is a great professor. You will learn the basics very well and be challenged. Only qualm is material is a bit outdated. This doesn't matter for 90% of what you learn. Would reccomend.
+---
+Course: N/A
+Date: Jul 31st, 2025
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: Yes
+Tags: AMAZING LECTURES, RESPECTED, TEST HEAVY
+Comment: Holbert requires you to have some level of discipline in your work, but putting in the effort gets rewarded. I came out of the class feeling as though I learned a lot and my grade matches the level of effort and discipline I put into the class. I also found his lectures and discussion board posts to be kinda funny sometimes.
+---
+Course: N/A
+Date: Oct 14th, 2024
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: Yes
+Comment: best lecturer ever, hard work but if you do the work you will be fine.
+---
+Course: N/A
+Date: Aug 9th, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, GIVES GOOD FEEDBACK, TEST HEAVY
+Comment: Dr. Holbert is one of the best professors at ASU. Each of his courses gives you a great understanding of the material. EEE 460 is a great introduction to nuclear power. Everything he asks of you in quizzes, homeworks, and exams can be found in the lectures, handouts, and the textbook. You should take notes from videos on printed lecture slides.
+---
+Course: N/A
+Date: Apr 30th, 2024
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, GRADED BY FEW THINGS
+Comment: Great professor. Super hard. I got 100% on hw and quizzes but did bad on final and midterm. I am not a great test taker. The homework grade is capped by test scores heavily. I am hoping he curves.
+---
+Course: EEE463
+Date: Dec 2nd, 2023
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, TEST HEAVY
+Comment: Doesn't give good feedback
+---
+Course: EEE460
+Date: Sep 14th, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: AMAZING LECTURES, RESPECTED
+Comment: Dr. Holbert is a tough Professor and can come off callous, but if you put in the effort and follow the rules he delineates, an A the first time taking the class is totally possible. His expectations may seem too high, but by following them I have come away from the class with some practices that will be useful in the workplace.
+---
+Course: N/A
+Date: Dec 27th, 2022
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, TEST HEAVY
+Comment: He's the best instructor I've had at ASU, bar none. Not sure if it's just my learning style, but his lectures and the study material he provides are excellent. That said, he loses a point for making the course so test-heavy. Prep your notes, make quick reference sheets, and test your software, because a test mistake can ruin the whole semester.
+---
+Course: EEE463
+Date: Dec 8th, 2022
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: TOUGH GRADER, INSPIRATIONAL, TEST HEAVY
+Comment: Professor Holbert has a very structure class and the test are open book open note you can bring all the class notes I HIGHLY RECOMMEND THAT YOU DO!!! and the overall the class is very managable
+---
+Course: N/A
+Date: Nov 6th, 2022
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: Very interesting if you have never been exposed to power generation before. The homeworks are quite time consuming and he grades hard if you do not adhere to his strict guidelines. Watch the lectures, do the homework and you can pass the tests no problem. He does not grade on the final answer (as posted below says), very good with partial credit.
+---
+Course: EEE463
+Date: Aug 17th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK
+Comment: This guy class is boring, full of out dated information, and he does try not help you at all.
+---
+Course: EEE463
+Date: Dec 6th, 2021
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GET READY TO READ, LECTURE HEAVY
+Comment: This is the perfect definition of a college course: tough enough to make you work for it, not so hard where you'll spend days studying. This is not meant to be a random class to take, it is for engineers who like the field. The material builds on itself, understand the first few cycles and know how to use the tables. Dont slack, get a study group.
+---
+Course: EEE463
+Date: Dec 6th, 2021
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: RESPECTED, GET READY TO READ, SKIP CLASS? YOU WON'T PASS.
+Comment: If you enjoy power, you will want to take Holbert, though his structure and grade scale can be unforgiving. It will take some getting used to his grading. You will learn a lot in his classes. This was honestly my first "real" class, as all others id just get by since i didnt care for the subjects. tldr if you like power take him, tough but worth it
+---
+Course: EEE460
+Date: Apr 30th, 2021
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS, AMAZING LECTURES
+Comment: Prof Holbert is definitely an expert in the subject matter. His lectures are very well done and interesting. I really enjoyed the class but the HW takes ALOT of time and 2 tests make 75% of the grade. I really wanted to pursue this pathway but my GPA can't afford it even though I really liked the class and the material.
+---
+Course: EEE463
+Date: Dec 22nd, 2020
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A-
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, TEST HEAVY, TOUGH GRADER
+Comment: His class is hard, he expects everyone to put the effort in, and he will treat you like a real engineer. If you expect to walk through a random class, do not take this class. If you want to watch someone passionately talk about the power industry, he is your guy. Really understand the HW/Lecture to pass exams. Open note tests. Take good notes.
+---
+Course: EEE463
+Date: Oct 10th, 2020
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Tags: GET READY TO READ, TEST HEAVY, TOUGH GRADER
+Comment: The lectures are too long and he uses the same examples for multiple lectures. The lectures give a very broad view of the material. So it makes hard to apply the material to the homework and test. I studied but still struggled. If you miss any part of the homework or test you will be docked heavy. Makes college harder than needs to be.
+---
+Course: EEE463
+Date: Jul 20th, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: D
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS, TOUGH GRADER
+Comment: Prof Holbert explains well in his lectures, but he is a nightmare when it comes to grading or answering questions under his discussion section on canvas. Be ready to lose all the points if your answer in the box is wrong. You rather take this class with a different professor if you want a good grade.
+---
+Course: EEE463
+Date: Jun 23rd, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: D
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GET READY TO READ, TOUGH GRADER
+Comment: The best way to pass this course is to repeat his class or to wait and get another professor. His grading is not good. When you ask him a question on his discussion section, you will regret for wanting to know something. In his view, it is better for a few students (repeaters) to get A's then the rest E's. No B or C in his class.
+---
+Course: EEE463
+Date: Jun 17th, 2020
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: D
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS, TOUGH GRADER
+Comment: His lectures are good until you get your mid-term exam results. But why would failing only midterm make you fail an entire high level class like this? Please do not say that you did not read this comment. Avoid as much as possible
+---
+Course: N/A
+Date: Jun 13th, 2020
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS, TOUGH GRADER
+Comment: Nice lectures but as if he was forced to grade the class. He told us to put answers in boxes to look at them when marking. Believe me, he does not go through your working. You lose all the points if the answer is wrong. Average students cannot pass his hard exams. Practice tests are a waste of time. Please drop the class before he ruins your life
+---
+Course: EEE463
+Date: Jun 13th, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, LECTURE HEAVY, TOUGH GRADER
+Comment: Prof Holbert was a nice guy when lecturing. Gave real life examples from the US DOE data. His grading was terrible. His exams contribute more towards the final. He only sees your final answer with no method marks. He makes life hard as if students are aiming at taking his job in the future. I dropped his class before he could lower my gpa. RUN AWAY
+---
+Course: EEE460
+Date: Jun 1st, 2020
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS, TEST HEAVY
+Comment: This topic was one of the most interesting topics at ASU I have taken so far. The lectures are great and done by the Holbert. He, however, uses different standards than the rest of the engineering community which creates a terrible learning environment. DONT ask him question on canvas b/c he will make you feel like you aren't smart. Great class tho
+---
+Course: N/A
+Date: Dec 13th, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS, AMAZING LECTURES
+Comment: Dr. Holbert is a great professor. Lectures are just the right length and contain everything you need for HW. You'll spend hours on HW, but Dr. Holbert is always available for questions. He won't ever give you an answer but does guide you along. Tests are very difficult, but fair. Everything is open book and notes. Take good notes, they'll be useful
+---
+Course: N/A
+Date: Jul 16th, 2019
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS, TOUGH GRADER
+Comment: Quality professor, I felt like a learned a lot from an expert. Test have highly detail oriented MC and T/F questions but computational questions were extremely similar to homework problems. HW was long and graded harshly. Biggest tip is to write your HW solutions as if you were writing a manual on how to solve the problem, will be useful for test.
+---
+Course: N/A
+Date: May 4th, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: RESPECTED, ACCESSIBLE OUTSIDE CLASS, AMAZING LECTURES
+Comment: I'm not really sure where the other feedback this semester is coming from on EEE460. I thoroughly enjoyed the class and thought the homework was reasonable and the exams followed the lectures and homework. The lectures in this course were amazing and I look forward to future classes with Professor Holbert.
+---
+Course: EEE460
+Date: May 2nd, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: F
+Textbook: Yes
+Tags: TEST HEAVY, LECTURE HEAVY, TOUGH GRADER
+Comment: The tests are extremely hard. The tests are 75% of the grade so you must pass them or you will fail. No partial credit, no curve. AVOID AT ALL COST!!!!
+---
+Course: EEE460
+Date: Apr 29th, 2019
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, SKIP CLASS? YOU WON'T PASS., GRADED BY FEW THINGS
+Comment: This guy definitely knows his stuff. I enjoyed his lectures and can tell he is really passionate about the subject. However, the homework is graded really harshly and there are two exams that make up 75% of your grade. The homework makes up the other 25%. It's really hard to do well if you mess up on one thing. Overall, he's good though.
+---
+Course: N/A
+Date: Mar 26th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Tags: GET READY TO READ, TEST HEAVY, TOUGH GRADER
+Comment: Dr. Holbert is a knowledgeable instructor. However any request for feedback will be conducted by Dr. Holbert in an almost malicious manner. The grading is harsh and dependent on two weighted exams. Discussion boards questions are met with more questions, a poor attempt to instruct in a poor environment.
+---
+Course: EEE463
+Date: Dec 5th, 2018
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: RESPECTED, AMAZING LECTURES, CARING
+Comment: Dr Holbert is a very good teacher. His lectures are always on point and he seems to know exactly what he wants to say. He provides his powerpoints online and he teaches off of them. I found his powerpoints super helpful because they contained examples and I found myself looking back at his notes everytime for the homework and exams.
+---
+Course: EEE463
+Date: Dec 4th, 2018
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: TOUGH GRADER, TEST HEAVY, AMAZING LECTURES
+Comment: Mid term is 35% and Final is 40. Test are difficult but fair. This class is hard but if you do the homework you can do the test. Open book/Open note test. Fair grading for the most part. If you think you can skim by in this class you wont pass. Hes willing to help students, but wont give you the answer flat out. Cool class though, highly recommend.
+---
+Course: EEE360
+Date: Sep 7th, 2018
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: B
+Textbook: Yes
+Comment: Always explained things well in the online lectures (except for the ones done by the other prof). Homework had a nice balance of straightforward questions and hard questions. Exams were a little tough, but very closely related to homework and example problems. Labs were good too. I learned a lot about power transmission and electric motors.
+---
+Course: EEE360
+Date: May 2nd, 2018
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: Yes
+Tags: TOUGH GRADER, RESPECTED, CLEAR GRADING CRITERIA
+Comment: he is a good professor. For the test, if you follow his power point and practice all problem at his powerpoint, you will be A+ at his class.
+---
+Course: EEE463
+Date: Dec 8th, 2017
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Tags: RESPECTED, ACCESSIBLE OUTSIDE CLASS, WOULD TAKE AGAIN
+Comment: Overall I would recommend. The homeworks are slightly difficult (but I did sleep thru class often). But get the homework done and ask for solutions if you need them, because the tests and final are open anything!!! The tests are EASY! Basically he spreads the stress more thru the semester than just on tests. The class is 11 HW, 2 tests and a final.
+---
+Course: EEE463
+Date: Nov 9th, 2017
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: Very good professor. Posts lecture slides that are very clear and helpful. Tests are straight forward and open note/book. He clearly enjoyed the topics covered in this course. Homework can be long, but is still reasonable. The course is structured well and he is clear on expectations. Do the HW and go to class and you will do well.
+---
+Course: EEE463
+Date: Jun 8th, 2017
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: doesn't answer questions without first being condescending to students. This made me leery to ask him anything. Hope for a good TA, because this is the first time I have had a terrible one. No feedback on HW problems. Doesn't post solutions without requests. Only two tests YIKES!
+---
+Course: EEE460
+Date: May 7th, 2017
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Tags: GET READY TO READ, AMAZING LECTURES, LECTURE HEAVY
+Comment: Holbert is a solid professor, really knows his stuff, and his lectures are great. Take good notes because the exams are 75% of your grade, and are open note as well as open book.
+---
+Course: N/A
+Date: May 6th, 2017
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: B+
+Textbook: Yes
+Comment: Dr. Holbert is enthusiastic about teaching the material which makes watching the lectures much more enjoyable. HW is straightforward and mainly from the book. His exams are a little tricky, but if you keep up with the class and understand the HW you'll pass. If you have a question he's very responsive and helpful.
+---
+Course: EEE460
+Date: Apr 24th, 2017
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Comment: Very difficult exams and then curves, questions on the Exam are not in complete sentences, answers to questions with more questions on HW. To much material is covered making it hard to know what to focus on, but learning alot. Lectures after the final HW is due prior to the Final Exam (40%). intJ personality.
+---
+Course: EEE460
+Date: Jan 4th, 2017
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Comment: A much needed break from all the computer engineering heavy coursework in the electrical program. All his classes have been tough but fair, and he details lectures to be useful beyond college and in the workforce.
+---
+Course: N/A
+Date: Dec 31st, 2016
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: F
+Textbook: Yes
+Comment: Homework assignments are challenging but should have no problem completing them. Unfortunately the homework is nothing compared to the midterm and final. 10 multiple choice/fill in the blank with 2 engineering solve by hand problems. You learn 10+ types of power plants and he decides to squish that content into 4 problems. Not a good representation
+---
+Course: N/A
+Date: Dec 12th, 2016
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: Good professor, though 75% of your grade is just the midterm and final. Many long lectures, you will spend a solid chunk of time each week on this class if you want to pass.
+---
+Course: N/A
+Date: Sep 13th, 2016
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS., ACCESSIBLE OUTSIDE CLASS, LECTURE HEAVY
+Comment: Dr. Holbert is my favorite professor at ASU. He is always available and willing to help explain things further; although he expects you to think fully & arrive at the final answer yourself. This is my 4th class with Dr. Holbert, and I think he is one of the best professors for online learning. Homework is tough, but attend lectures and you'll pass
+---
+Course: N/A
+Date: Sep 1st, 2016
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK, AMAZING LECTURES
+Comment: This teacher seems very friendly while he is teaching the class. The class seems simple during class and the problems we work on are super easy. This is a complete deception because when the homework comes; none of the equations necessary are given to you. You are required to read the book in its entirety and teach yourself the material.
+---
+Course: EEE460
+Date: May 9th, 2016
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A-
+Textbook: Yes
+Comment: Great professor. Open note open book midterm and final. If you try you will pass.
+---
+Course: N/A
+Date: Dec 2nd, 2015
+Quality: 4.5/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: This class was tough. One of the best things is the message boards to ask questions. Dr. Holbert answers just about all of the questions if a student has not done so already, in a timely manner. He has two tests in the class, a midterm and the final. You have to do the homework and you have to watch the lectures. If you do that you will pass.
+---
+Course: EEE463
+Date: Nov 22nd, 2015
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Comment: His lectures are pretty good, but his homework is ridiculously difficult in comparison to his examples. He hates explaining how to do homework and will only half explain an answer to you. He also EXPECTS you to read the book thoroughly, which is absurd. Do not take him if you do not have 20 hours a week to spare for his class alone.
+---
+Course: N/A
+Date: Nov 3rd, 2015
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Comment: To be fair this guy is very clear during his lectures. In fact they actually bring out the best of him. Although if you summarize the previous post: -Home works are very long and unlike the materials -Has a bad rep and is dry with students -Seems happy to see the students to fail in the tests He is unnecessarily tricky and cut throat.
+---
+Course: EEE460
+Date: Aug 14th, 2015
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Dr. Holbert is a fine Professor that raises the bar for others who teach at our University.
+---
+Course: EEE460
+Date: May 9th, 2013
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Holbert is a rare gem at ASU, academically he is one of the best instructors I've ever had. Very precise and direct as far as material. I feel we always went beyond the scope of the course in homework and lectures, but we always tested at a fundamental level. Wish he would teach all the EEE courses...
+---
+Course: EEE562
+Date: Oct 24th, 2011
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: I am an online student at ASU seeking an MS in EE. This was my first class as an online student, and Dr. Holbert definitely met expectations for an online course. He answered emails expediently and was very good at performing examples in class to help with homework. He takes a class period for each exam to review the material to be covered.
+---
+Course: EEE564
+Date: Aug 19th, 2011
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: A very good professor. Really wants students to understand material. The tests are difficult and include "fill in the blank" questions. The homeworks are also difficult and time consuming, but very effective. You'll learn a lot.
+---
+Course: EEE463
+Date: Jan 12th, 2011
+Quality: 3.5/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: He speaks very clearly in the class and homework is not that hard. However, he had a bad reputation among the students. He always tries to trap the students. It seems like he is so happy to see the students to fail in the tests.
+---
+Course: EEE460
+Date: May 12th, 2009
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: He's one of the classic science/engineering professor. The instructions are clear and precise, but the slides are meant to be explained in class. He is well-organized and punctual. HW from the text are doable only if you attend class. Not hard, just confusing sometimes without more details. Focus and you will do well.
+---
+Course: EEE202
+Date: Jan 26th, 2009
+Quality: 2.5/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: His lectures are too simple compared to the work for hw and tests. The tests are really hard. Would not recommend especially if you are new to electrical engineering.
+---
+Course: EEE202
+Date: Sep 11th, 2008
+Quality: 3.5/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Homework and tests where much harder than anything he went over in class. He also was pretty dry in lecture and did not seem to like questions. He is VERY knowledgeable and covers all the material needed. Not my favorite professor but an acceptable one.
+---
+Course: EEE460
+Date: Jul 28th, 2008
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: He is on the dry side, classes aren't mandatory but the lecture slides are meaningless without his in-class notes. His examples are very simple compared to the homework which makes the homework tough. If you do the homework and study it before the test you should do ok. He is really stingy with his help,I think he is afraid to give away an answer.
+---
+Course: EEE202
+Date: May 8th, 2008
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: One of the best professors I've had at ASU! I never went to office hours but in class he was very clear. To get a good grade you MUST go to class everyday and do homework! Expect to spend 3-4 hours a week on homework. The homework is much harder than his tests. He is very fair and I wish I had more classes with him!
+---
+Course: EEE463
+Date: May 9th, 2007
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Dr. Holbert is one of the best professors in the EE department. His lectures are very informative. Even though I received a "C+", it is the grade I deserved. I would recommend him to anyone.
+---
+Course: EEE202
+Date: Jan 14th, 2007
+Quality: 3.5/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Lectures are from powerpoint, they are deceptively simple. When you start the homework you realize how little he taught you in class. In class examples are way easier than the homework.Tests are OK, know the technical terms because he uses them on tests. Lab is an easy A, Final is fair. You get cheat sheets on all tests. Helpful during office hrs.
+---
+Course: EEE202
+Date: Nov 6th, 2006
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Wow.. just know.. this guy hates you. He despises you... he gets his willies from making sure his students cry... I'm a good student.. I'll probably end up with a A or B in the class. 1st test avg = 88.. 2nd test avg = 56.. he didn't like that people were doing ok..
+---

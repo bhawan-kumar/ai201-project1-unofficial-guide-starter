@@ -1,0 +1,1310 @@
+Professor: Debra Calliss
+Department: CSE
+Overall Rating: 2.7/5
+Would Take Again: 32%
+Total Reviews: 126
+========================================
+
+Course: CSE360
+Date: Apr 30th, 2021
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Comment: Exams are purely memorization. I am awful at memorizing terms, so this class was tough for me. Calliss is also a poor lecturer, put me to sleep multiple times.
+---
+Course: CSE360
+Date: Dec 29th, 2020
+Quality: 1.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS.
+Comment: Calliss is without a doubt the worst professor I've had at ASU. Lectures are boring, and does nothing but read from the slides. The online portion is just watching a couple short videos and practicing drawing charts. She basically abandoned the class when we were forced online. She was also occasionally disrespectful to students for no reason.
+---
+Course: CSE230
+Date: Apr 10th, 2020
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: No
+Comment: I have never met a more incompetent teacher in the 14 years of schooling. There is mandatory attendance for ONLY students, optional for her. If you are into monotone-earlymorning-with-little-to-no-content, this is the class for you. Despite being a CS teacher, she seems to run into a lot of technical errors. Good luck, and I am sorry.
+---
+Course: CSE230
+Date: Apr 1st, 2020
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Comment: I truly don't understand the bad reviews on here. I have had Dr. Calliss for both CSE230 and CSE360. Especially 230 has some difficult material and brand new concepts, and she goes over everything very clearly and concisely. I feel that I learned a lot from her class! IMO 360 is a joke class anyways, has nothing to do with how she teaches it.
+---
+Course: CSE360
+Date: Jan 28th, 2020
+Quality: 1.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: Check the grading on assignments and tests. Major errors were made multiple times throughout the semester but never announced. Students were responsible for finding them and talking to a TA. Calculate your final course grade using the syllabus, many students received the wrong letter grade and had to have it fixed the following semester. Good luck.
+---
+Course: CSE360
+Date: Dec 24th, 2019
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., GROUP PROJECTS, TOUGH GRADER
+Comment: the content itself is sometimes entertaining and useful, but Calliss herself is just so below average at everything. Always took little points off with unclear instructions, read from ppt slides, and had us learn from YT videos for inclass quiz every week. group project is a lot of work, exams you need to memorize the slides and inclass quiz' hard!
+---
+Course: CSE360
+Date: Dec 23rd, 2019
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B-
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., TOUGH GRADER
+Comment: Prof. Calliss read's off the lecture slides and all of the exam questions come from what she says in class. You do not need to buy the textbook to pass the class. Don't be late for class, and don't be on your phone during her class. If you prepare yourself before class and do well on in-class activities and assignments you will be fine.
+---
+Course: CSE360
+Date: Dec 11th, 2019
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: No
+Tags: GROUP PROJECTS, TOUGH GRADER
+Comment: Assignment criteria is always vague but graded on a specific rubric. I have lost points for things the rubric stated were optional. Lectures are composed of her reading off slides and answering student questions rudely. It's a shame this is a mandatory CS class and she's the only professor, because she is truly the worst professor I've had so far.
+---
+Course: CSE360
+Date: Dec 10th, 2019
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., TOUGH GRADER
+Comment: Unfortunately she's the only teacher for 360. Class meets once a week, where you do lecture and a graded exercise based on online resources. Her lectures are her reading off the slides, and she's incredibly rude to anyone asking questions. For the team project, it felt like she came up with it 5 minutes before class, giving no requirements or info.
+---
+Course: CSE230
+Date: Nov 7th, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, SKIP CLASS? YOU WON'T PASS., CLEAR GRADING CRITERIA
+Comment: She gets a bad rep, so I was leery of taking this class with her, but I don't know if she changed the way she teaches recently or not. I found her class to be very interesting, and she gives you absolutely everything you need to pass and get an A. Do your work, ask for help, take GOOD notes, and it will be a breeze. 2 note sheets allowed on exam
+---
+Course: CSE360
+Date: May 9th, 2019
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: No
+Comment: Took this class in Fall 2018. The Recitations (taught by her TA's) and the group project are the saving grace. Lectures are drab and read off from the slides. Exams take forever to get graded and she grades all of them at once for Exam 2 and Exam 3 at the end of the semester. Best Advice: memorize the slides, pick a good team & attend recitations.
+---
+Course: CSE360
+Date: May 7th, 2019
+Quality: 2.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: No
+Comment: If you can memorize buzz words from powerpoint slides and write some simple Java code you can easily pass with an A. However, if like me, you cannot be bothered with creating flash cards for information you're likely to dump out of your mind after the exam try to avoid this professor. Calliss even admits the uselessness of some of the material. Sad
+---
+Course: CSE360
+Date: May 7th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: No
+Tags: GET READY TO READ, GROUP PROJECTS, TOUGH GRADER
+Comment: I have never gotten lower then a B in a coding class before Debra Calliss.. She cares less about her students and should really find another job that shes more passionate about. Her grading is ridiculous and she assigns Java assignments but surprise surprise, never teaches any java in class. Overall horrible teacher and horrible class.
+---
+Course: CSE230
+Date: May 7th, 2019
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: TEST HEAVY
+Comment: really feels like she does the minimum. She communicates zero enthusiasm or excitement for course material which is actually very interesting. Be ready to really have to study to actually learn / pass . last HW was nearly impossible & not taught @ all. Grading was often wrong, and literally took months. Class is carried by exams, which were OK.
+---
+Course: CSE230
+Date: Apr 30th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., LECTURE HEAVY, TOUGH GRADER
+Comment: Just an overall mean teacher that does not do much for the class besides reading off of the powerpoint slides. Also the second half of the homework that's not programming is basically unbearable. The tutors at Centerpoint could not even help me do it because they did not understand her questions or the material. She also hates answering questions!
+---
+Course: CSE360
+Date: Mar 26th, 2019
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., TEST HEAVY, LECTURE HEAVY
+Comment: Easily one of the worst professors I've taken at ASU. She's the only CSE360 professor (at least as of right now), so there's no getting away from it if you're a CS major. All classes are mandatory, but the entire class consists of her reading directly from ppt slides. Don't even think about emailing for help, she won't respond until it's too late.
+---
+Course: CSE360
+Date: Dec 18th, 2018
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: GRADED BY FEW THINGS, GROUP PROJECTS
+Comment: Average
+---
+Course: CSE230
+Date: Dec 14th, 2018
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: B+
+Textbook: No
+Comment: The professor just reads the slides. Sometimes gets offended if asked a question in the middle of the class. Grading scheme is not so good. You should not miss any lecture, cause the homework is based on that and carries a lot of weight.
+---
+Course: CSE360
+Date: Dec 12th, 2018
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: No
+Comment: Both her TA's and her take super long to grade assignments and exams. Reads off of the slides. Recitations are useful. Course is entirely theoretical in nature.
+---
+Course: CSE360
+Date: Dec 11th, 2018
+Quality: 1.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: GRADED BY FEW THINGS, GROUP PROJECTS, LECTURE HEAVY
+Comment: Calliss was one of the worst professors I've had. Does not care about students, reads off PowerPoints, very unclear with instructions on exams and the project, and ignores emails. Exams were just testing if you can memorize PowerPoint slides. I felt like I didn't learn anything
+---
+Course: CSE360
+Date: Nov 27th, 2018
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: No
+Tags: GROUP PROJECTS
+Comment: Professor Calliss was the absolute worst professor I've ever had at ASU. Please take my advice and avoid her at all costs. Everything everyone else wrote was horribly true, she hates her students and shows no interest in teaching. Take this class if you want to study powerpoints all the time and don't even bother asking her for help.
+---
+Course: CSE230
+Date: Nov 19th, 2018
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., HILARIOUS, TEST HEAVY
+Comment: Syllabus tells you everything about grading. Schedule and percentage breakdown clear and consistent. Go to class; she deviates from other professors, tutors, etc. Well structured course, I am EE and I learned a lot. Very cheeky and sarcastic; some people find this rude but I find it hilarious, never offensive. Very approachable outside of class.
+---
+Course: CSE360
+Date: Oct 12th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Comment: She is a very very very terrible professor.
+---
+Course: CSE360
+Date: Sep 14th, 2018
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: GET READY TO READ
+Comment: Lectures are uninspired, just like her. She is the only teacher that I felt not only doesn't like to teach, but actively hates students. She is also great at answering questions without actually answering them. Reads off Powerpoints, tests you on memorization of arbitrary facts, and worst of all tries to make you feel stupid for asking questions.
+---
+Course: CSE360
+Date: May 9th, 2018
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: BEWARE OF POP QUIZZES, TEST HEAVY, GROUP PROJECTS
+Comment: The hardest part of this class is the group project. Make sure to pick good team members so you don't have to do all the work. Through the project you will teach yourself git (emphasis on teach yourself). In regards to the lecture, just show up and you will do fine. Prof Calliss gives inclass quizzes and these questions are on the tests
+---
+Course: CSE360
+Date: May 7th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., GROUP PROJECTS, LECTURE HEAVY
+Comment: She's the worse at asu and only option for some classes, most people try to drop but still end up with her next sem which is ridiculous. cancelling 6 lectures is worth a lot of money that went out of my pocket to trash. Honestly she reps number 1 innovation, her agenda on how to not teach anything and still have this job is quite innovative
+---
+Course: CSE360
+Date: May 5th, 2018
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: BEWARE OF POP QUIZZES, TEST HEAVY, GROUP PROJECTS
+Comment: Before class starts she has a "I don't want to be here" look. She reads off of power points and tests on the most specific things that you wouldn't probably remember. When you ask for help on the exercises, she gives off this attitude that doesn't want you to ask for help next time. Her answers on Piazza can be rude and vague. Avoid if possible.
+---
+Course: CSE230
+Date: May 2nd, 2018
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: TOUGH GRADER, TEST HEAVY, GRADED BY FEW THINGS
+Comment: Misses class all the time, gives us no review material, simply reads powerpoints in class, and gives 0 on assignments simply if one line of code has something she doesn't want and the rest is correct. Avoid if you can.
+---
+Course: CSE230
+Date: May 1st, 2018
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: No
+Tags: PARTICIPATION MATTERS, SKIP CLASS? YOU WON'T PASS., GRADED BY FEW THINGS
+Comment: If you miss class or do not take notes one day you will have no idea how to do problems and be in a world of pain only good thing is her class is easy to get a C in i guess other than that she is bad
+---
+Course: CSE360
+Date: Apr 30th, 2018
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS.
+Comment: Professor Calliss likes to read PowerPoints. That comprises most or all of every lecture I've had with her this semester. Regardless of your preference, don't take the hybrid version of this class with Calliss - the heavy weighting towards lecture material is not reasonable, given the large focus on the project.
+---
+Course: CSE230
+Date: Apr 29th, 2018
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: GET READY TO READ, SKIP CLASS? YOU WON'T PASS., GRADED BY FEW THINGS
+Comment: Her teaching is incredibly vague when it comes to any type of review material. She gives no practice exams. She does not shed any light as to what will be on the exam and her notes online are half finished slides. Her lectures consist of filling in the blanks and finishing examples from those slides (not re-uploaded). No final review either.
+---
+Course: CSE360
+Date: Apr 29th, 2018
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: GRADED BY FEW THINGS
+Comment: Such a lazy teacher who couldn't sound less interested in teaching this subject. She gives assignments that are extremely vague and then doesn't assist and is very difficult. Would not recommend if you want to learn anything regarding software engineering with any more detail than a drone reading a powerpoint.
+---
+Course: CSE360
+Date: Apr 24th, 2018
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: No
+Comment: Absolutely terrible teacher... she doesn't teach. I'm pretty sure anyone can stand in front of a PowerPoint presentation and read it off. The material covered in class is only about 40% of what actually shows up on the exam. The other 60% is random stuff. Avoid her if possible.
+---
+Course: CSE230
+Date: Apr 23rd, 2018
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: LECTURE HEAVY
+Comment: Professor Calliss seems like she knows her stuff, but unfortunately she is not a great professor. She often misses the whole point of a student's question, and her lectures consist of mainly reading off slides. She also does not provide much practice material. If you take her class, ASK QUESTIONS, even if you think she's annoyed.
+---
+Course: CSE340
+Date: Apr 23rd, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Tags: TOUGH GRADER, GRADED BY FEW THINGS, LECTURE HEAVY
+Comment: If I could rate a 0 I would, do not take this professor for any class, Calliss is by far one of the worst professors i've ever had the misfortune of meeting. If you are taking her for 360 I am so sorry, everything is 100% memorization of terms and her exams are impossibly difficult because it is all memorization. Lectures are boring and too quick.
+---
+Course: CSE230
+Date: Apr 20th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: TOUGH GRADER, SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK
+Comment: Like everyone said she missed 6 lectures and puts all the load on you and she doesn't care about anything. Going into the tests you wouldn't know anything. It's like magic! Most of the times she will be your only option and this makes me feel helpless. Hey ASU we need help
+---
+Course: CSE230
+Date: Apr 12th, 2018
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: No
+Tags: TOUGH GRADER, SKIP CLASS? YOU WON'T PASS., TEST HEAVY
+Comment: Class is all powerpoints Calliss shows zero enthusiasm/ passsion towards material Calliss has cancelled class 6 times so far this semester Worst professor I have had, but she was my only option Becomes upset when a student asks any questions whatsoever Hands outs many quizzes "exercises" with little to no time to complete them AVOID IF POSSIBLE
+---
+Course: CSE360
+Date: Apr 6th, 2018
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: No
+Tags: TEST HEAVY, GRADED BY FEW THINGS, GROUP PROJECTS
+Comment: The class with Calliss is entirely reading off the PP's. Tests are detail specific rather then concept based and the exercises test you on material that is more difficult than an examples explained or given. It's not an awful class because the topic is easy but she does little to actively teach. Teach yourself or sink.
+---
+Course: CSE230
+Date: Mar 31st, 2018
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Tags: GRADED BY FEW THINGS, LECTURE HEAVY
+Comment: She's honestly one of the worst professors I've had. She does not seem to care about her students, and unless you're a natural at computer logic, this class is nearly impossible because her lectures and exams do not line up. I would avoid taking her for 230 if possible because this was one of the worst classes I've ever taken.
+---
+Course: EEE230
+Date: Mar 28th, 2018
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Comment: She is completely apathetic, cancels class constantly, and is extremely mean when asked a question that she believes you should know in her office hours. She cares about her students just about as much as a 3rd grader cares about his/her pet goldfish.
+---
+Course: CSE230
+Date: Mar 13th, 2018
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: Yes
+Tags: TOUGH GRADER, SKIP CLASS? YOU WON'T PASS., GRADED BY FEW THINGS
+Comment: If you're taking her for CSE 230, I highly recommend you look for a different professor. Calliss does not provide any sort of study guides or practice tests for exams, on which 60% of your grade is based on. She posts her lectures online but leaves all the practice problems without the answer so unless you write down every problem they're useless.
+---
+Course: CSE360
+Date: Jan 25th, 2018
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: BEWARE OF POP QUIZZES, ACCESSIBLE OUTSIDE CLASS, CARING
+Comment: For one homework assignment my word document ended up being very large because of all the scanned graphs I included. I started uploading before the deadline but it was still uploading past the deadline and ended up being late :/ I contacted her and she extended the deadline for the entire class lol If you ask her for help she will help
+---
+Course: CSE230
+Date: Dec 4th, 2017
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: No
+Tags: RESPECTED, GRADED BY FEW THINGS, WOULD TAKE AGAIN
+Comment: Lectures are taught straight from a PowerPoint, however, she includes and demonstrates a few examples in class. Tests and quizzes are fair in length and difficulty. Final grade was based only on 2 midterms (40%), weekly online quizzes (25%), and the final (35%). Prof. Calliss was approachable and helpful when I had a question.
+---
+Course: CSE360
+Date: Jun 26th, 2017
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: Like what others said, she really just read the slides over the whole semester. She sometimes gives in class exercises, which means quiz. If you really want to learn something. Don't take her.
+---
+Course: CSE205
+Date: Jun 14th, 2017
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: No
+Tags: PARTICIPATION MATTERS, ACCESSIBLE OUTSIDE CLASS, HILARIOUS
+Comment: Pr. Calliss is a really patient and nice person. Yes she reads from her slides but aren't most of the professors doing same stuff?! Programming isn't easy to teach it's like to learn another language, need to understand and memorize rules. To be honest she makes this class way easier than my CSE110 professor did. Tests are easy and HW as well.
+---
+Course: CSE360
+Date: May 28th, 2017
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, TEST HEAVY
+Comment: The class is an easy A if you don't blow it off. I put it off to the side and focused a lot on other classes which was a mistake. Easy A if you put in some effort I had to put a lot more in at the end to make up for putting it off. Easy concepts and actual things that came up during software engineering interviews I have had.
+---
+Course: CSE330
+Date: May 8th, 2017
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: No
+Tags: GET READY TO READ
+Comment: There is absolutely no point in attending her lectures, she just reads off the slides. Her tests are easy enough but you have to read about 100 slides per exam and she doesn't give you a good idea of exactly what will be on the tests.
+---
+Course: CSE230
+Date: Apr 30th, 2017
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ, SKIP CLASS? YOU WON'T PASS.
+Comment: She really has no patience for students that don't understand the material. She heavily relies on the powerpoints, which aren't much help much in the first place. She puts questions on the powerpoints with no solutions online, which is okay, but she doesn't explain them well in class either way. Overall, I'd avoid taking 230 with her.
+---
+Course: CSE330
+Date: Apr 16th, 2017
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: No
+Tags: ACCESSIBLE OUTSIDE CLASS, CLEAR GRADING CRITERIA, HILARIOUS
+Comment: While the lectures are not really good (usually textbook slides), Calliss does know about OS related topics. Lectures where algorithms were demonstrated helped, and when short answer questions were added to exams, I was able to do better than just memorizing concepts.
+---
+Course: CSE360
+Date: Dec 17th, 2016
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: GET READY TO READ
+Comment: This class is about software development processes, which I found boring. The only actual coding is in the homework assignments in Java which aren't too difficult. The exams and quizzes are insanely specific so you have to read the textbook, which is a lot. Her lectures are SO boring, I ended up skipping class almost the entire semester.
+---
+Course: CSE360
+Date: Dec 15th, 2016
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, CLEAR GRADING CRITERIA, HILARIOUS
+Comment: Calliss is straightforward with requirements and expectations. The assignments teach you to code with design elements in mind, and the quizzes and recitations reinforce the material on the exams. The lectures are mainly PowerPoints, so it's important to pay attention to everything else in the course.
+---
+Course: CSE360
+Date: Dec 12th, 2016
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: LECTURE HEAVY
+Comment: I've heard differently about the other classes she teaches, but for CSE 360, Calliss puts no effort into the class. Her demeanor is, for lack of a better word, callous, and the homework assigned is utterly irrelevant to the course content. Unnapproachable, uninteresting, and generally intolerable. Avoid for this class if possible.
+---
+Course: N/A
+Date: Dec 12th, 2016
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, CLEAR GRADING CRITERIA, EXTRA CREDIT
+Comment: This class is pretty straightforward. 10 question quiz every week about the chapter, open book and open notes. You can also take the quiz twice if you don't get the grade you want the first time. This class demands maybe an hour of your time in the typical week, not hard at all
+---
+Course: CSE301
+Date: Dec 7th, 2016
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, EXTRA CREDIT
+Comment: There's 10 question quizzes or 1-2 page essays due every week, but they're super easy because she gives you two chances to take the quizzes (the questions aren't all the same though). As long as you take notes for the textbook each week, you'll most likely do well on the quizzes. She even sometimes puts in an extra question for the quizzes for EC.
+---
+Course: N/A
+Date: Dec 2nd, 2016
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A+
+Textbook: Yes
+Comment: weekly quiz on text book chapter. maybe an hour a week worth of work.
+---
+Course: CSE230
+Date: Dec 2nd, 2016
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., GRADED BY FEW THINGS, LECTURE HEAVY
+Comment: Dr. Calliss often uses powerpoints with good diagrams that have little description, and her example problems don't have solutions posted anywhere. Thus, it's necessary to attend and pay attention in class if you want to succeed. As long as you pay attention, you can do well in the class.
+---
+Course: N/A
+Date: Jul 9th, 2016
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Comment: Read your textbook. There's so much information and the homework assignments are NOT intuitive. The lectures connect the dots for what you read in the textbook, but are not sufficient to complete the homework or score well on the quizzes. Professor responds in a timely manner but you shouldn't expect for her to hold your hand. Good class.
+---
+Course: N/A
+Date: May 15th, 2016
+Quality: 1.5/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: Yes
+Comment: We had quizzes due on Fridays and Mondays, but neither the professor nor the TA were present at all in the discussions through the weekend. This left us all to figure the material out for ourselves. Also, it took forever to get grades back and the lecture material was in a horrible format that was full of technical issues. Avoid this professor.
+---
+Course: CSE360
+Date: May 10th, 2016
+Quality: 3.5/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: No
+Comment: Class is pretty easy and straight forward. The first assignment in the class threw some people off, but everything else after that is nice and simple. Three tests and a final, any of one of those can be dropped. Unfortunately there are some in-class assignments.
+---
+Course: N/A
+Date: May 10th, 2016
+Quality: 3.5/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Comment: The MIPS assembly language programming section of the class was pretty straight forward and simple, however the computer architecture (single-cycle processor, memory hierarchy, etc.) part could have been presented/conveyed a little better. Professor Calliss was lenient with providing extra credit and dropping lowest test score. Overall not too bad.
+---
+Course: CSE230
+Date: May 7th, 2016
+Quality: 3.5/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Comment: DO NOT SKIP CLASS lectures are not uploaded and there is not much reference online, therefore, it is really helpful to read the material in the book and attend her office hours. Learning MIPS assembly is really easy but the hard part of the course would be the hardware part its really easy to get behind. Overall good professor and interesting class
+---
+Course: CSE230
+Date: May 6th, 2016
+Quality: 1.5/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C-
+Textbook: Yes
+Comment: Calliss has to be one of the worst CSE teachers I have had by far as a junior in college. She expects you to know course material right of the bat and skims through lectures with no consideration in those struggling. It also does not help at all that the lectures she does cover are the BASIC of the BASIC and the assignments are CURVE BALLS! AVOID!!
+---
+Course: CSE360
+Date: May 2nd, 2016
+Quality: 3.5/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: No
+Comment: Dr. Calliss knows her stuff but can come off as abrasive. She is way better than your other options, so take her if you can. She doesn't help with grading unless you absolutely can't get the TAs to fix it. Assignments and in-class exers are easy, although convoluted. The tests were tough, because she includes minute detail in the multiple choice.
+---
+Course: CSE230CSE360
+Date: Apr 27th, 2016
+Quality: 2.5/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Comment: Calliss comes off as sarcastic and condescending quite often, but if you have thick skin, you should be fine. Asking her a question can be intimidating and if she finds it dumb she might downplay it, but she does give you an answer. She just reads PowerPoints, but her tests aren't too hard if you show up and do the work.
+---
+Course: CSE360
+Date: Apr 22nd, 2016
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: No
+Comment: Calliss is the most medium level professor I've ever had. She isn't incredibly hard, but the test questions can be so specific it's unreal. Her lectures are so boring, just her reading the slides very quickly in her monotone voice, and not checking in with the class to see their pace or understanding of the material. She clearly hates her job lol
+---
+Course: CSE360
+Date: Mar 2nd, 2016
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Comment: Calliss is a very middle of the road professor. The class itself is easy, so maybe that helps, but I didn't feel strongly about her one way or the other. Show up to class and do the in-class assignments. Pay attention to specifics in the lectures though, as she'll put acronym meanings and stupid stuff like that on the tests.
+---
+Course: CSE360
+Date: Dec 13th, 2015
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: Yes
+Comment: Dr. Callis is an experienced profressor, and the class is very straight forward with the exception of a few programming assignments at the end of the semester that had vague and sometimes contradicting requirements. The material covered in this class might be boring for some people (including myself), but this is not the professor's fault.
+---
+Course: CSE360
+Date: Dec 8th, 2015
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Comment: Lectures can be a little dry (not her fault, just the content). Not too much of a focus on actually programming, more like the process of programming. In class assignments are rather easy, along with the group project at the end. 5 homework assignments, all fairly easy. Tests are annoying because she asks oddly specific questions.
+---
+Course: CSE360
+Date: Dec 5th, 2015
+Quality: 3.5/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: Yes
+Comment: She is a very good reader, and will demonstrate that by reading all her boring PowerPoints in class. Very few things on the test aren't on her PowerPoints, but she brings it up during lecture. So make sure you are paying attention in class, or read the book. She gives in-class exercises (good practice for the test) and we can do them in groups.
+---
+Course: CSE110
+Date: May 27th, 2015
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Good professor, kind of stand-offish. Just keep up with the class and do all the homework, labs, and projects. 4 tests and a final. Extra credit exercises in class. I just studied her lectures online and didn't go to class but then again I have programming experience. Pretty simple class if you put the work in.
+---
+Course: CSE110
+Date: May 14th, 2015
+Quality: 4.5/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: I really enjoyed her classes. It is a tough subject, at least for me, and I had to work hard to catch up. But it was really nice to see that she was there for me, trying to help whenever possible. Her tests are easy and she gives extra credits for in-classe exercises. She knows a lot about the subject. I recommend her.
+---
+Course: CSE110
+Date: May 12th, 2015
+Quality: 3.5/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Comment: In class, her lectures are very dry and a bit boring. All the notes are online. But she does give occasional extra credit so come to class because you never know when you'll have a chance to get it! If you take the time to see her during office hours and go through practice problems from class, especially as a beginner, you will understand Java.
+---
+Course: CSE110
+Date: Mar 6th, 2015
+Quality: 2.5/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: No
+Comment: In class she does not care if someone is paying attention or talking, and she is so dull during the lecture. Someone actually snored pretty loud and over 100 other students heard it. She gives practice problems if you need them. Provides long notes. She tells how to write code, not show, but made it even harder. If you like reading notes, sign up.
+---
+Course: CSE485
+Date: Mar 3rd, 2015
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: No
+Comment: She gives lectures explaining how to send a business email and focuses on communicating with future employers. like you've never had a job before. She basically gets you prepared for her version of working in industry, however she is VERY old-school. Lots of busy work in the first semester. Lots of speeches to sit through also. super boring
+---
+Course: CSE301
+Date: Dec 12th, 2014
+Quality: 3.5/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: Basically a hybrid class only 1st and last day actually in class. The rest was reading chapters from the textbook and taking quizzes. Because of that textbook is a must. I would take that class again just because it was 20 minutes worth of reading with a quiz. Not much interaction with the teacher but would definitely take the class with her again.
+---
+Course: CSE301
+Date: Dec 12th, 2014
+Quality: 2.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: She didn't care about this class. If you emailed her, it would take almost a week for her to reply and throw it at the TA. She didn't even stay for our final. It's an easy class, but that doesn't make her a good teacher. She didn't teach us at all. It was all online but the first and last class (not listed as online) and we just read out of a book.
+---
+Course: CSE301
+Date: Dec 11th, 2014
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: We only had 2 classes the entire semester (Day 1 instructions and the Final Exam on the last day of class). The rest of the semester the class consisted of reading 1 chapter of the textbook then taking a relatively easy Blackboard test on that chapter. Sometimes she would just have us watch a Ted Talk and take a quiz based on that. Easy A.
+---
+Course: CSE205
+Date: Aug 8th, 2014
+Quality: 3.5/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: She can be a little over the head sometimes in her lectures. But if you pay attention and not drowned her out then it is possible to catch on. Start the programs the day you get them and it'll help to keep up in what she's lecturing about. She was always helpful with questions if you have them.
+---
+Course: CSE205
+Date: Aug 1st, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: She is an amazing professor if you give her a chance. She doesn't seem approachable at first, but if you show her that you care about the topic, she will help. I never took CSE110 but it was an easy class without it. Pay attention to the lectures and you won't need the book. Start the assignments early, you never know what problems you'll face.
+---
+Course: CSE230
+Date: Jul 11th, 2014
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: C
+Textbook: No
+Comment: Defiantly do not recommend to anyone. The mips sections were fairly easy (if you're good at programming) but the hardware section is a mess. She can not teach to save her life. Be prepared to teach yourself.
+---
+Course: CSE486
+Date: May 8th, 2014
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Generally a pretty crabby person to talk to one-on-one and she isn't very clear in what she expects on assignments. She's the only teacher for CSE 485/486 though, so you're stuck with her if you're a CS/CSE senior.
+---
+Course: CSE230
+Date: Feb 26th, 2014
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Calliss is a great professor. She might not have the most approachable personality but she genuinely cares and is an amazing teacher. I liked her alot. Lectures were interesting and always had in-class examples to solve together. No real surprises on the tests and the projects were not extremely difficult. I took the class over the summer.
+---
+Course: CSE485
+Date: Jan 16th, 2014
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: I was very pleased with the way Dr. Calliss taught the class. The individual assignments we completely reasonable (almost easy) and I gained valuable insight from them. The group project could be more challenging, depending on your circumstances. However, I felt she was a generous grader through the entire class.
+---
+Course: CSE485
+Date: Dec 10th, 2013
+Quality: 1.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Was downright standoffish when being approached during office hours at times and was terrible at communicated, which at on point left the entire class arriving for a cancelled lecture. Follows a strict criteria for grading but leaves assignments vague overall so its a bit of a crapshoot if you're actually doing things right.
+---
+Course: CSE205
+Date: Aug 14th, 2013
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: She is very helpful, tests are fair, assignments were representative of the lectures. She tries to make the classes fun and is very approachable. If you have trouble with this class then programming probably isn't for you. If you show up every day, pay attention, take notes and start on your assignments early there is no reason you wont get an A
+---
+Course: CSE205
+Date: Jul 23rd, 2013
+Quality: 4.5/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Good teacher with challenging assignments but they really helped learn the material better. Pretty fair grader as well. Not sure why other students didn't really like her, I guess she cold come off a little stern but she was always very helpful and nice one on one.
+---
+Course: CSE486
+Date: May 6th, 2013
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: I hate her, enough said.
+---
+Course: CSE423
+Date: May 6th, 2013
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: It's Calliss. I liked her. But I know a lot of people don't. It's going to be a personal preference thing but I think Dr. Calliss is awesome!
+---
+Course: CSE485
+Date: May 6th, 2013
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Professor Calliss is quite a challenging instructor. However when you leave, you will most certainly know the material. Especially if you leave with an A or B. I have taken her for 3 different classes and have no regrets. 4th class with her coming up next semester.
+---
+Course: CSE485
+Date: Apr 2nd, 2013
+Quality: 1.5/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: This class could have been very exciting, but its not. Specific criteria, but very vague examples of how to do the work. Grading very strict. Definitely prepares you for a tough boss in the future.
+---
+Course: CSE205
+Date: Jul 21st, 2012
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: She does a decent job explaining the topics, but asking questions is 50/50. Half the time she seems to really try and answer with enthusiasm, but the rest of the time students' questions are met with "I can't believe you don't know this" attitude. Assignments are fair, but pay close attention to details on exams. Trick questions appear at times.
+---
+Course: CSE230
+Date: Dec 22nd, 2011
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Calliss is a bit of a stickler. She can be intimidating, but it usually only because she's had to explain the same concept 100 different times. Her tests and assignments are straightforward, but you shouldn't blow them off. Easy A and guaranteed B if you put the effort in.
+---
+Course: CSE230
+Date: Dec 17th, 2011
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: This class is not easy. Calliss did not make it easy. Exams had TONS of definitions. A bit hard on the grading. Agreed below that sometimes if you ask a question she'll give you a wtf look and walk away. Can be nice at times but sometimes super intimidating. I MIGHT consider taking her again.
+---
+Course: CSE230
+Date: Dec 15th, 2011
+Quality: 2.5/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: She was knowledgeable early in the semester (while studying assembly programming), but did not do a good job answering questions or explaining assignments when the topic shifted to computer organization.
+---
+Course: CSE110
+Date: May 17th, 2011
+Quality: 1.5/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: You will do good in her class ONLY if you already have experience in Java or some other programming language OR study a lot of hours during the week. You WILL NOT get an A or maybe not even a B if you are taking a lot of classes or working during during your semester.
+---
+Course: CSE110
+Date: May 14th, 2011
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Dr. Calliss is an OK teacher. At times she seems to really enjoy teaching and at other times she seems to really not care. Her exams are tough, particularly the 3rd exam and the final. Her assignments are even harder than the exams. She lectures directly from the book so you might not have to read the book if you listen carefully.
+---
+Course: CSE110
+Date: May 12th, 2011
+Quality: 4.5/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: CSE 110 was an easy A for me. She tells you the concepts you will be tested on, posts her lectures on BB, and gives you usually over a week for each assignment. Go to office hours as soon as you start having trouble and you'll get back on track. She does expect you to catch on fast, but compared to other college courses it's very reasonable.
+---
+Course: CSE110
+Date: May 11th, 2011
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Dr. Calliss doesn't "teach" the subject, it's more like she reiterates what the book says, without helping you understand how/why. She doesn't take questions well during class, kind of makes you feel stupid or doesn't give you a better explanation of the answer. If I understood what she said the first time, I wouldn't have asked.
+---
+Course: CSE230
+Date: Dec 18th, 2010
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: I wouldn't recommend taking Calliss if you have another option. She is not clear at all when teaching more complicated concepts, often shuts down students when they ask questions, and makes the class more difficult than it needs to be. I got an A in spite of Calliss's teaching, not because of it, and I never enjoyed going to her class.
+---
+Course: CSE220
+Date: Dec 15th, 2010
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: She is the best programming teacher I have had yet. She actually teaches the concept instead of just going over examples. She expects you to learn and the tests are quite difficult. They aren't overly difficult but are what you would expect from a legitimate college course. I would highly recommend taking her class, but be prepared to work.
+---
+Course: CSE230
+Date: Aug 12th, 2010
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Summer 2010 - Class was easy if you went to class, took notes and did the hw. She would always let you know when she was available and always responded to any emails. She told you when the quizes would be and even offered bonus points. Its a hard class so just stay on top of it and you'll do alright
+---
+Course: CSE230
+Date: Nov 9th, 2009
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: If you are having trouble with the material, you might consider dropping out of engineering/CS. This course is not difficult, and her programming assignments are easy(1-3 hours) compared to other 230 professors.
+---
+Course: EEE230
+Date: Aug 17th, 2009
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: I had heard bad reviews of her before I took the class this summer of 2009. IMO she was helpful and I am glad I took the class. She did teach the material well and she had open office hours almost every morning prior to the class. She would even see some of my friends after class as well.
+---
+Course: CSE230
+Date: May 13th, 2009
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: I would NOT recommend taking her, I am sure she is the worst CSE teacher. She is not helpful. She is rude in office hours. She does not use the book and does not do enough examples. She moves too fast. She is not clear. She is moody. I felt like I was in grade school again taking her class the way she taught and controlled everything we did. lame.
+---
+Course: CSE230
+Date: May 8th, 2009
+Quality: 2.5/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: She won't go out of her way to help a struggling student and a lot of the problems on assignments and tests are hard to do because of the lack of examples she gives. Her tests are hard and the assessments aren't easy either. The pace is too fast for a course that isn't really interesting to begin with.
+---
+Course: CSE230
+Date: Jan 16th, 2009
+Quality: 3.5/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Fair teacher for the class. The first 2/3 of the semester was OK, but when it came to hardware most students seemed to have trouble. She never gave good formulas for Qs your tested on. Tests are long & barely enough to finish, much less check your work. I agree w/ last commenter in that she will not come down to your level if your not keeping up.
+---
+Course: CSE230
+Date: Dec 19th, 2008
+Quality: 3.5/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: She wasn't too bad for such a hard class. Each lecture had a worksheet to help you understand the lecture as well as an IMPORTANT part of your NOTE. She was helpful outside class ONLY if you are keeping up with the basic materials, otherwise she wouldn't descend to your level. Tests were hard but went along with lectures. Expect a tough class!
+---
+Course: N/A
+Date: Jul 1st, 2008
+Quality: 2.5/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: There was really no down time in her class. You are constantly working a on a project or a homework assignment. You do learn a lot but you have to work a lot for your grade.
+---
+Course: CSE230
+Date: Apr 16th, 2008
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: She does not care for the material, and her lectures, assignments, sometimes even exams are rife with errors, and if they're not wrong outright they're often vague. Worse yet, her tests are crazy--she doesn't test to see if you know the material, she makes her tests deliberately confusing so as to trip you up. Avoid--she does not teach!
+---
+Course: CSE230
+Date: Mar 30th, 2008
+Quality: 1.5/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Much of the material covered in class bears little if any relevance to real life. On the other hand, when I ask for more information on interesting parts, I'm told that I don't need to know it-- Something I never wish to hear from a professor. The exams are also nearly impossible to finish within the allowed time.
+---
+Course: CSE485
+Date: Jan 17th, 2008
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: The writing assignments are annoying. Working in groups is fun. There are group status reports and presentations to do for the project you're assigned to.
+---
+Course: CSE485
+Date: Dec 18th, 2007
+Quality: 4.5/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Loved the class, she made it worthwhile. The writing assignments are bs but the class tries to teach you how to right and she gives you a pretty clear guide on how to do well. As long as your project is on task and accomplishing what it set out to, its easy to get a good grade.
+---
+Course: CSE230
+Date: Dec 10th, 2007
+Quality: 4.5/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: I ended up with a B almost entirely because of my general laziness when it came to projects. Calliss' lectures are very clear and easy to understand, the tests come directly from sample problems in lecture and the book. The material isn't all that easy, but I would recommend Calliss because she made everything as simple as it could be.
+---
+Course: CSE340
+Date: Mar 27th, 2006
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: She turned the class into a beast with very time intensive projects. She presented the material in an understandable way though. I thought I'd be lucky to pull off a C with just a few weeks left, but managed a B-. She's not that helpful with reviewing your code...better to see the TA.
+---
+Course: CSE225
+Date: Jan 17th, 2006
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: Very easy teacher. Tests were always just over sample programs and other questions. The only annoying part was the number of tests but the lowest one is dropped which is helpful. If you think the programs are hard you should not be a computer science major or anything dealing with technology for that matter.
+---
+Course: CSE225
+Date: Nov 27th, 2005
+Quality: 4.5/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: Good teacher I just had some problems with her programs. They take for ever to complete and are worth very little points, but if you do not complete them you will be hurting really bad in the end.
+---
+Course: EEE225
+Date: Nov 21st, 2005
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: She is a great teacher, always willing to help if you make the effort! I would definitely reccomend her to anyone.
+---
+Course: N/A
+Date: Oct 28th, 2005
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: I thought she was a pretty good teacher. Assembly language is pretty straightforward, go to class, read the book, and most importantly - do the assignments and you'll learn the material.
+---
+Course: CSC225
+Date: Oct 10th, 2005
+Quality: 2.5/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: Difficult class, hard tests, and picky grading. But if your good and quick at programming you might like this class.
+---
+Course: CSE445
+Date: Aug 29th, 2005
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: All she does is sit and read the slides, which you can do at home, but none the less, makes a pretty easy class. Though if you took 460, it's a lot of repeated material.
+---
+Course: CSE225
+Date: Jul 23rd, 2005
+Quality: 2.5/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: she's very merciful on gradings as her tests and assignments are fairly easy too, but however she is uptight in class and not willing to help.
+---
+Course: CSE110
+Date: Apr 20th, 2005
+Quality: 2.5/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: I hate this lady, she was awful. She is not totally helpful. she is not willing to help me at least... and I believe her tests are hard she likes to trick you a lot... She does not like to give you good grades in the class
+---
+Course: N/A
+Date: Mar 25th, 2005
+Quality: 1.5/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: No passion for teaching at all. Dictatorial and uptight in lecture and grading. Unprofessional.
+---
+Course: CSE110
+Date: Dec 16th, 2004
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: She is ok but not the greatest teacher for java. Her teaching still really needs improvement
+---
+Course: N/A
+Date: Nov 17th, 2004
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: Great teacher. Class is fairly easy to follow, and is very merciful when handing out grades. Don't talk in class, she hates it.
+---
+Course: CSE110
+Date: Oct 26th, 2004
+Quality: 4.5/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: Prof. Calliss is a very good prof, very chilled out. But if you are looking for better teach look elsewhere. She doesnt explain very enthusiactically. Maybe thats different 1 on 1. Expects you to have studied at home.
+---

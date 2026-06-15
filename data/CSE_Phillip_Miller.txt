@@ -1,0 +1,1516 @@
+Professor: Phillip Miller
+Department: CSE
+Overall Rating: 4.7/5
+Would Take Again: 92%
+Total Reviews: 142
+========================================
+
+Course: CSE100
+Date: Jun 9th, 2026
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: Clear lectures, fair exams.
+---
+Course: CSE205
+Date: Jun 7th, 2026
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK, RESPECTED
+Comment: The subject wasn't my favorite but I don't hold that against the professor. His lectures were engaging and he wanted you to learn. He was funny and gave real world examples and connections to make the concepts easier to understand. No extra credit and no quizzes. Just homework and 2 exams. Make sure your cheat sheet is extensive and you're good.
+---
+Course: CSE205
+Date: Apr 3rd, 2026
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: HILARIOUS, CARING, RESPECTED
+Comment: the absoloute goat
+---
+Course: N/A
+Date: May 24th, 2025
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: AMAZING LECTURES, GIVES GOOD FEEDBACK, LOTS OF HOMEWORK
+Comment: Professor Miller is a great instructor for CSE 205. He explains things clearly and wants students to succeed. The required Zybooks can be confusing and taxing, but that's not his fault. If you stay engaged and practice, you'll do well.
+---
+Course: CSE110
+Date: May 23rd, 2025
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: GET READY TO READ, CLEAR GRADING CRITERIA, GIVES GOOD FEEDBACK
+Comment: Gives great feedback, and office hours with him are awesome. Very helpful, chill dude. Absolutely would take again.
+---
+Course: N/A
+Date: Dec 23rd, 2024
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: AMAZING LECTURES, INSPIRATIONAL, LECTURE HEAVY
+Comment: Was really good at explaining concepts even though I felt like the Zybook wasn't enough and that we needed an actual textbook. As a professor, he is great, but the class could be better taught. More videos and coding practice would be helpful. Also, the Final/Midterm Exams are worth too much and included questions that weren't covered in lectures.
+---
+Course: CSE205
+Date: Dec 12th, 2024
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, AMAZING LECTURES, LOTS OF HOMEWORK
+Comment: He's a cute little old man who gives engaging lectures. However, I will say that the labs for CSE205 are practically useless, but I think he does a good job explaining the labs and answering any questions people have about the programs. He's a good lecturer, and I'd imagine he'd be good at lecturing a class that actually mattered.
+---
+Course: CSE205
+Date: Dec 12th, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: AMAZING LECTURES, LOTS OF HOMEWORK, HILARIOUS
+Comment: Miller is a good instructor for the lab portion of CSE205. You have to be able to work on your own during the labs to finish by the end of class, but he walks you through everything, so if you don't understand something, you can work along with him. The Zybook is atrocious, but that's a department/class problem, not a professor problem.
+---
+Course: N/A
+Date: Nov 26th, 2024
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Comment: Professor Miller's lectures can be a bit monotonous, but he's great at explaining complex topics. The zyBooks material is helpful, and Unstuck ai is a useful study tool. Overall, a solid class.
+---
+Course: N/A
+Date: Oct 12th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: B
+Textbook: Yes
+Comment: WORST CLASS,the professors didn't teach anything only some 5-10 min videos once in a while you learn from a book. The time constraint on midterm & final are ridiculous for an intro class only giving you SECONDS per question. Asked questions on all tests that were not covered on the book each question worth 10 POINTS, now I hate coding save your GPA
+---
+Course: N/A
+Date: Jan 13th, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GET READY TO READ, GIVES GOOD FEEDBACK, RESPECTED
+Comment: Prof Miller co-developed this course, and in doing so showed his passion for programming. While the class is challenging, it's also rewarding with real life applications of how programming can be used. It's a great entry level course, but be ready for lots of work and time spent learning how to program with Java. With dedication, an A is obtainable
+---
+Course: CSE205
+Date: Dec 13th, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: INSPIRATIONAL, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Professor Miller is an amazing teacher who cares about and works with students to ensure their success in the class and industry. He brings relevant experience and knowledge to his lectures which are geared towards assisting students with the weekly labs and is easily accessible outside of class. Definitely take one of his courses if you can!
+---
+Course: N/A
+Date: Dec 1st, 2023
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ
+Comment: Professor Miller explains things well, but his classes can be a bit boring as he sometimes speaks monotone. Still, he's good at making sure everyone understands complex topics. He's really dedicated to helping students learn.
+---
+Course: CSE205
+Date: Jul 24th, 2023
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, CLEAR GRADING CRITERIA, LOTS OF HOMEWORK
+Comment: Not sure why this class exists honestly. First 2/3s of class was CSE 110 review. Last 1/3 was just inheritance, some data structures, recursion, and generics iirc. Feel like these subjects could've been squeezed into other classes. this 205 had less work than 110. Apparently what they teach in the other professors 205s is pretty useless anyways so.
+---
+Course: CSE205
+Date: May 14th, 2023
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA
+Comment: Miller was a good professor but he didn't teach anything compared to other 205 classes. The content barely expands from 110 fundamentals which could leave people underprepared for further CS classes. Lectures are optional, and since its Zybooks you don't even have to attend any lectures. Easy A, but don't pick him if you actually want to learn.
+---
+Course: CSE205
+Date: May 10th, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, CLEAR GRADING CRITERIA, ACCESSIBLE OUTSIDE CLASS
+Comment: Miller is quite knowledgeable and helpful about the subject, and his lectures show this. They are nothing special though, and I would recommend skipping them and focusing on Zybooks. The Zybooks is a bit tedious, but not bad subject material if you read through it all, though you should also do outside studying and practice problems to supplement.
+---
+Course: CSE205
+Date: May 4th, 2023
+Quality: 2.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS
+Comment: He only talks about the applications of computer science and he fails to actually teach you how to code. We did not learn anything new until the last month of class. Take this class if you want a free A though.
+---
+Course: CSE110
+Date: Apr 29th, 2023
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, LOTS OF HOMEWORK, ONLINE SAVVY
+Comment: Miller is pretty chill. Everything is done via zybooks, which is fairly well set up. If you're not stellar at computers/coding it can be difficult. Most of the work is easy, there's just a lot of it. You get two tries on every quiz, midterm, and final. Miller is accessible outside of class. Would recommend.
+---
+Course: N/A
+Date: Feb 9th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: I took this class with both Miller and Meuth virtually, both had great lectures and clear instruction, allowed me to learn all the material well and without stress. I would take any course taught by Miller again.
+---
+Course: CSE110
+Date: Feb 1st, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA
+Comment: I took the CSE 110 course by Phillip Miller and Ryan Meuth together. They made good use of the tutoring system to help us learn completely.
+---
+Course: FSE100
+Date: Jan 19th, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: FSE 100 was great with professor Miller. He is an expert in what he teaches and is fun to learn from. He is nice to the students and treats them with respect. This class was a little easy, but it was still amazing. Professor Miller is my favorite professor so far.
+---
+Course: N/A
+Date: Jan 19th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Comment: Really great guy that knows what he's doing. Best professor you can take.
+---
+Course: FSE100
+Date: Dec 27th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, GIVES GOOD FEEDBACK
+Comment: Great experience in FSE100, despite it being an easy introductory engineering class it can definitely go wrong in unforeseen ways. Miller made this class all about group interaction and working together to complete fun projects, and took a large step back to allow us to work on our own, yet still being there for support if we ever needed it.
+---
+Course: CSE205
+Date: Dec 13th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: INSPIRATIONAL, CARING, ONLINE SAVVY
+Comment: Phillip Miller is an excellent choice for a professor. Very caring and gives valuable advice in both succeeding in computer science courses and computer science careers. It helps that Professor Miller has previously worked in the industry as it makes his insights more valuable on what one should expect outside the classroom.
+---
+Course: CSE110
+Date: Dec 11th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA, ACCESSIBLE OUTSIDE CLASS
+Comment: Meuth and Miller are very knowledgeable and helpful about the subject. They are available for office hours and "community days", where you can go to ask questions. The course uses zybooks for all learning and assignments, which are done in Java. The zybooks course is mostly complete, but you may want to supplant your knowledge with outside sources.
+---
+Course: CSE110
+Date: Dec 9th, 2022
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: B-
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, CLEAR GRADING CRITERIA, ONLINE SAVVY
+Comment: Really kind, solid professor. Him and Meuth are both clearly knowledgable and put their absolute all into helping create their course. If you're a humanities person like me, this course was 5/5 difficulty, but making friends in the class you can study with and all the zybooks tools go a long way
+---
+Course: CSE110
+Date: Dec 8th, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: C
+Textbook: Yes
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: Miller is a great professor to have! I went to his office hours a couple of weeks ago because of my grades and I was left behind with the chapters in the textbooks. I'm happy that he gave me advice on catching up on some work; it shows that he cares for his students!
+---
+Course: N/A
+Date: Dec 8th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, RESPECTED
+Comment: Solid professor who knows what he is talking about and very easy to understand. If you're ever confused he is very quick to respond and they have tons of office hours with TA's. Highly recommend.
+---
+Course: CSE110
+Date: Oct 23rd, 2022
+Quality: 2.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Comment: Nice professor, one thing that was weird about him was that we used to have a website where we can post CSE110 related questions, and I had a chance to ask some questions on it. What made it weird is that Prof. Miller will send me a message via email and ASU Canvas which contains a link to the website I just posted to... it was awkward.
+---
+Course: CSE110
+Date: Oct 5th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Although the course was not taught by Miller, I had to reach out to him a couple of times due to grading issues or just during Community Days. He was very helpful every single time I reached out. Professor Miller is extremely caring and hilarious, I plan on taking him next term for my CSE 205 class.
+---
+Course: CSE205
+Date: Oct 4th, 2022
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Professor Miller is a nice guy who clearly cares about his students. He tries to make his lectures entertaining and is pretty good at explaining topics. The only problem is that his CSE205 class is far too easy and doesn't require students to do any large scale projects. It's an easy A, but you won't learn a ton.
+---
+Course: CSE205
+Date: May 22nd, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, CARING, RESPECTED
+Comment: Seems like the best guy ever. I recommend finishing every individual assignment because they were really the best practice I got from the class. Learn the answers from quizzes and tests because you WILL see them again. The class is initially a lot of review from 110, and overall Zybooks is simple to understand so I'm a little worried for 240.
+---
+Course: CSE205
+Date: May 13th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: AMAZING LECTURES, CARING
+Comment: Mr. Miller is a experience professor at ASU. I took both CSE 120 and CSE 205 in his classes. His class is scheduled well. However, be prepared to spend time reading the material and finishing the quiz every week, especially for CSE 205. The quiz will be much more difficult than the mid-term and final exams since he gave less time to do it.
+---
+Course: N/A
+Date: May 6th, 2022
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, PARTICIPATION MATTERS, LOTS OF HOMEWORK
+Comment: Miller was pretty good - mostly experienced his teaching via lab videos. The lab videos he makes aren't super engaging, but no complaints. Also, tons of scheduled study hall and office hours throughout the week (his and other Prof/TAs), making you feel well supported. Would definitely recommend taking CSE 110 with Meuth/Miller!
+---
+Course: N/A
+Date: May 5th, 2022
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: I feel this review may be a bit unfair because I took this as an icourse and the labs were instructed by a student TA, but nonetheless, he is technically the instructor for the course. Some stuff on the tests was barely covered in the textbooks, and whenever someone asks for help online he responds with a copy-paste feedback, almost like a bot.
+---
+Course: CSE205
+Date: May 5th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, ACCESSIBLE OUTSIDE CLASS, ONLINE SAVVY
+Comment: Taught this class different compared to other 205 professors, he replaced Java effects with a greater emphasis on data structures. Homework assignments will probably bring your grade down, but everything else is relatively easy. He goes over a lot of the assignment solutions in the lectures prior to their due date, which is helpful. Gem of a prof.
+---
+Course: N/A
+Date: May 4th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: prof. Miller made the course really easy, instructions were clear what to do in a group project. The TAs used to give proper feedback on what to work on, if you face any issue either prof or the TA are ready to help.
+---
+Course: CSE205
+Date: May 4th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: I don't think a 5 is a high enough score. Miller was absolutely fantastic, and single handedly made me more passionate about computer science. He explained topics from a conceptual point of view, and, if you actually take the time to read the textbook and absorb the material, will get a lot of good practice. I cannot recommend this professor more
+---
+Course: CSE205
+Date: May 1st, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK
+Comment: If you want an easy A+, Professor Miller is your guy. However, if you really want to learn, I do not know if I would recommend him. While he is incredibly caring and is genuinely invested in your wellbeing, he does not do a very good job at preparing you for future CS classes.
+---
+Course: N/A
+Date: Apr 27th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: GET READY TO READ, LOTS OF HOMEWORK, TEST HEAVY
+Comment: This class is pretty hard for beginner coders. It is heavy on reading if you intend to do well on tests. The labs are rushed but it is a pretty self paced class. There are a lot of outside resources for this class with many TAs, study halls, and office hours. Just put the work into the class and you'll do well.
+---
+Course: N/A
+Date: Apr 26th, 2022
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Tags: LOTS OF HOMEWORK
+Comment: CSE110 is not for beginners. The questions on the exams are not covered in the rushed labs or the mound of individual assignments due every week. Instead, what you need for the exams is in the extensive and unorganized readings, which makes it harder to prepare for the exams. I wish I took this credit elsewhere.
+---
+Course: CSE205
+Date: Apr 24th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, AMAZING LECTURES, CARING
+Comment: Miller was a top tier professor, the readings were a LOT and a pain, but he taught very well and was super engaging. You can tell he loves what he teaches. The assignments are also super nice compared to other classes as they are all done online through the book and not through some online dropbox server thing some classes do.
+---
+Course: CSE205
+Date: Apr 19th, 2022
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: AMAZING LECTURES, LOTS OF HOMEWORK, RESPECTED
+Comment: NOTE: I almost never attended lectures. Based on the lectures I went to, he seems very knowledgeable and explains topics well. The greatest thing about this class is that he skips the GUI assignment that other professors do. He uses zybooks for homework, which is an annoying time sink. Tests are easy. Not difficult if you know what you are doing.
+---
+Course: CSE110
+Date: Dec 10th, 2021
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A+
+Textbook: Yes
+Tags: CARING
+Comment: Although I did not interact with Professor Miller in person, he was an outstanding professor online. He once reached out and asked if I needed help on a minor assignment, which meant a lot in a class of nearly 1000 people. This course was easy and mostly busywork; it is incredibly easy to receive an A+ if you put in the time.
+---
+Course: FSE100
+Date: Dec 7th, 2021
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS, GROUP PROJECTS
+Comment: For FSE100 the whole class was light besides the major group project the whole class can suck if your stuck with a bad group otherwise hes a very nice teacher. You can see he loves teaching and is easy to reach out to for help!
+---
+Course: N/A
+Date: Nov 24th, 2021
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: B+
+Textbook: No
+Tags: RESPECTED, HILARIOUS, LECTURE HEAVY
+Comment: Miller is among the most charismatic professors I have had. He clearly also loves the material he is teaching. I had him in Spring 2021 so we were online, but I have heard time and time again he is even better in person.
+---
+Course: CSE110
+Date: May 1st, 2021
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: LOTS OF HOMEWORK
+Comment: Took as an icourse. Assignments were fair and you could go ahead at your own time. Minimal communication with the professor. The tests were fair and had no trick quesitons.
+---
+Course: FSE100
+Date: Jan 12th, 2021
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, GROUP PROJECTS
+Comment: To be honest, he is a great person. You will have a great time attending his class. The baseline is, by choosing him as your professor you will make your life easier.
+---
+Course: FSE100
+Date: Nov 25th, 2020
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, ACCESSIBLE OUTSIDE CLASS
+Comment: Very great and understanding professor that cares about students
+---
+Course: N/A
+Date: Nov 24th, 2020
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS, CARING
+Comment: Professor Miller was really a great fit for my FSE100. Our semester consisted of long term projects in lab and a weekly lecture on engineering. You can tell he has an amazing passion for computer engineering fields and wants you to learn. If you have questions, reach out to him in office hours or the lab itself. He really loves to help!
+---
+Course: CSE110
+Date: Oct 26th, 2020
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: No
+Tags: ACCESSIBLE OUTSIDE CLASS, GRADED BY FEW THINGS, CLEAR GRADING CRITERIA
+Comment: Class is a bit boring, but he's a great lecturer. I always did the labs early, so I could just sign in for attendance and leave. Exams can be taken online or on paper, and they're also open note (1 sheet). Quizzes were unlimited but averaged. Lectures can be repetitive, but there's extra credit occasionally. And, no trick questions.
+---
+Course: CSE110
+Date: Oct 20th, 2020
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: I really loved this class! Everything was very reasonable (small projects and two exams) and most of the assignments were pretty fun. I had zero experience in coding coming into this class and I felt like I came out with some pretty useful coding knowledge. First midterm was considerably harder than the second.
+---
+Course: CSE205
+Date: Jul 9th, 2020
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS, INSPIRATIONAL
+Comment: The undisputed GOAT! Truly a gem of a man. Grades very fairly and goes over every coding assignment, and even provides examples of how to solve them before it's even due. He is very understanding, humorous, and knowledgable. Unlike many other CS professors at ASU, Professor Miller truly shows he cares, and taking his class is very enriching. 100%
+---
+Course: CSE205
+Date: Jul 6th, 2020
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: RESPECTED, ACCESSIBLE OUTSIDE CLASS, CLEAR GRADING CRITERIA
+Comment: Miller is a great professor. Class is not mandatory but showing up is very helpful, he goes over the material for assignments in class. He is very good at responding and helpful when it comes to emails. Would take his class again! Recommend!
+---
+Course: CSE205
+Date: Jun 27th, 2020
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: INSPIRATIONAL
+Comment: This is the CSE teacher to pick. Professor Miller will set you on the right path to become an engineer. Attendance isn't mandatory but this is the one class you should really go to.
+---
+Course: FSE100CSE110
+Date: Jun 26th, 2020
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: No
+Tags: HILARIOUS, AMAZING LECTURES, CARING
+Comment: His classes are great! He is funny and very caring. I love having him as a teacher
+---
+Course: CSE205
+Date: May 13th, 2020
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A+
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, RESPECTED, INSPIRATIONAL
+Comment: Favorite professor hands down. Explains everything so well and gives amazing feedback if you go to office hours. Really makes you think to correct your own mistakes. Repeats things he says in lecture to make it stick in your head. Assignments can be done with one partner and can be hard. Having a partner and office hours definitely helps.
+---
+Course: CSE110
+Date: May 13th, 2020
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: HILARIOUS, AMAZING LECTURES, CARING
+Comment: I took the hybrid class, and it was a great decision. It provided lots of flexibility if I wanted to work ahead (and then I just need to show up to lab 5 minutes for attendance and leave). He is super caring about his students and truly wants everyone to learn.
+---
+Course: CSE110
+Date: May 12th, 2020
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, LECTURE HEAVY, EXTRA CREDIT
+Comment: He's a great teacher who goes over the lectures very clearly and is very available if you need help. There is five percent extra credit at the end of the year, and the quizzes can be taken as many times as you want with the final score being the average. Not a hard A to get if you try for it.
+---
+Course: CSE205
+Date: May 10th, 2020
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, CLEAR GRADING CRITERIA, AMAZING LECTURES
+Comment: Such a fun guy. Really made sure to explain the material in however many ways he needed to in order for everyone to understand what was going on. Really cares for all of his students and wants everyone to succeed. It can be pretty challenging at times, but you really understand all the concepts very well by the end.
+---
+Course: CSE205
+Date: May 10th, 2020
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: ACCESSIBLE OUTSIDE CLASS, CARING, CLEAR GRADING CRITERIA
+Comment: I am astonished by the professor's ability to teach a class that felt challenging, rewarding, and fair. He is an absolute gem during office hours and I highly recommend you take him for your intro to CS classes.
+---
+Course: CSE205
+Date: May 9th, 2020
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: CLEAR GRADING CRITERIA, HILARIOUS, AMAZING LECTURES
+Comment: Very clear grading criteria for every assignment, you will NEVER be surprised by your grade. He has a great sense of humor and hilarious lectures. Very receptive to student feedback. Couldn't ask for anything more.
+---
+Course: CSE205
+Date: May 4th, 2020
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, HILARIOUS, AMAZING LECTURES
+Comment: One of the best teachers ever. Entertaining and interesting lectures, fair assignments and tests, very accessible, and passionate about the subject. Best CSE110 or CSE205 professor there is.
+---
+Course: CSE205
+Date: Apr 23rd, 2020
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, HILARIOUS, AMAZING LECTURES
+Comment: Great teacher! Made class engaging. Textbook really not needed because he covers everything in the lectures. He provides study guides for exams and the questions come from the quizzes, easy to pass. Clear rubric for coding assignments, available after class to ask questions.
+---
+Course: CSE205FSE100
+Date: Feb 25th, 2020
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: CARING, AMAZING LECTURES, INSPIRATIONAL
+Comment: AMAZING! I was behind because my previous CSE110 professor didn't exactly teach the way student learn but thanks to Miller, I finally caught up and truly understand the concept. ALWAYS accessible through email and extremely helpful and patient. I also took FSE and the class was somewhat easy, just keep contact with the group. Recommended for both.
+---
+Course: CSE110N
+Date: Feb 7th, 2020
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Comment: Quizzes don't follow along with the material, and ask very, very specific syntax questions, ones designed to confuse you to a t, not just make sure you understand things conceptually. This is seen in the very earliest of quizzes mind you. The code in these quizzes sometimes don't compile at all and questions can be very ambiguous and strange.
+---
+Course: FSE100
+Date: Jan 14th, 2020
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: HILARIOUS, AMAZING LECTURES, CARING
+Comment: The literal GOAT. FSE100 was such a fun class and he helped our group succeed. Lectures are interesting and labs are open ended on the time of the class so you can really work when you choose. So sad I couldn't get him for CSE 205. If you have the opportunity to take a course with him... DO IT!!!
+---
+Course: FSE100
+Date: Jan 7th, 2020
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Comment: He's awesome. Definitely take him if you can!
+---
+Course: FSE100
+Date: Dec 15th, 2019
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: No
+Tags: GRADED BY FEW THINGS, GROUP PROJECTS, CARING
+Comment: I never went to a lecture and only went to a few labs, but he decided to pass me. Take Miller for FSE100 or CSE110 at all costs!
+---
+Course: N/A
+Date: Dec 2nd, 2019
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Tags: CLEAR GRADING CRITERIA, HILARIOUS, CARING
+Comment: If you want a solid foundation for your future CSE classes I would recommend you take this class. He explains things so clearly with details and relates it to real-life examples which helped me understand it better. Be prepared to put in the work for the class since it is a hybrid as the weekly quizzes take a lot of work. Great class and teacher!
+---
+Course: FSE100
+Date: Oct 2nd, 2019
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, HILARIOUS, CARING
+Comment: Bro literally, this man is amazing. Hes super bubbly, extremely passionate, and likes to have conversations with the students. I convinced him to switch to pure leaf tea and got to learn why he names his cats after spanish numbers, all in one lab.
+---
+Course: CSE110
+Date: Jun 18th, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: RESPECTED, INSPIRATIONAL, AMAZING LECTURES
+Comment: I am a fan of professor millers teaching method and how organised the grading criteria is. His lectures are amazing and he reviews previous topics every now and then that builds a good foundation for beginners. I passed the class with an A+ and I would totally recommend this class to everyone.
+---
+Course: CSE110
+Date: May 22nd, 2019
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: RESPECTED, INSPIRATIONAL, AMAZING LECTURES
+Comment: Phill is by far one of the best professors I have ever had. He has some amazing analogies and a good sense of humor. You don't have to go to class but he did do an attendance for extra credit which was nice! There was also 5% extra credit built into the online quizzes.
+---
+Course: CSE110
+Date: Apr 29th, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS, CARING
+Comment: Prof Miller was great at explaining different concepts and ideas without just giving you the right answer. He's a great teacher, and is really passionate about the subject as well.
+---
+Course: FSE100
+Date: Jan 28th, 2019
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: HILARIOUS, AMAZING LECTURES
+Comment: I had him for FSE100, he seems kind of scattered at times(he apparently was 10-20 minutes into a lecture in the first week of school when the students finally let him know that he was in the wrong class), but was overall a great teacher for the class. He seems to really likes puzzles, so look for those.
+---
+Course: CSE205
+Date: Jan 8th, 2019
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: INSPIRATIONAL, AMAZING LECTURES, CARING
+Comment: Had him for CSE 205 and FSE 100. Great and funny guy. I would highly recommend him for both classes, but especially CSE 205 because he aligns the content with a lot of stuff you end up covering in CSE 240. The tests were all very fair and I was more than prepared for them. Attendance optional, but you should be going as a CS major
+---
+Course: FSE100
+Date: Dec 22nd, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: RESPECTED, HILARIOUS, GRADED BY FEW THINGS
+Comment: Take him if you have the chance. Really loves his job and my only complaint is that I didn't have him for my CSE.
+---
+Course: CSE110
+Date: Dec 5th, 2018
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: B
+Textbook: No
+Tags: RESPECTED, AMAZING LECTURES, GROUP PROJECTS
+Comment: I took this class as a guinea pig for a hybrid-style (half-online) CSE-110. Python is amazing, and the way in which he teaches it makes it incredibly simple to understand. Java, on the other hand, I didn't have as much success in. The class pushes a strong self-motivated response and if you're not adept at learning through reading, you may struggle
+---
+Course: FSE100
+Date: Dec 2nd, 2018
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, GROUP PROJECTS
+Comment: Lectures and labs are fun and engaging. Grading is simple and he's always willing to help you out. Wish I could've taken his CSE class as well.
+---
+Course: FSE100
+Date: Oct 30th, 2018
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: PARTICIPATION MATTERS, SKIP CLASS? YOU WON'T PASS., CARING
+Comment: Such an amazing teacher.
+---
+Course: CSE110
+Date: May 16th, 2018
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: PARTICIPATION MATTERS, BEWARE OF POP QUIZZES, AMAZING LECTURES
+Comment: One of my favorite professors. He knows his stuff and makes class enjoyable. You can reasonably get an A+ in this class, just make sure to turn in everything (he doesn't drop one homework assignment like all other categories). Don't copy people's stuff. Go to labs and you basically get all the answers.
+---
+Course: CSE205
+Date: May 6th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, INSPIRATIONAL, HILARIOUS
+Comment: He is an amazing CSE professor. He gave good feedback to students that planning to go on the computer science field. His lectures are amazing combine with his humor. His assignments are a bit challenging because he wants the students to learn. Tests are super easy, just show up the day before the test for review and ace it.
+---
+Course: CSE110
+Date: May 6th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: LOTS OF HOMEWORK, HILARIOUS, CARING
+Comment: I was anxious to try coding for the first time, but Professor Miller really helped and encouraged me! His lectures were very clear as he related explained material in a relateable, enthusiastic way. We had about 8 assignments, and they can easily be done with the help of the tutoring center. Don't miss out on this professor !
+---
+Course: CSE205
+Date: May 3rd, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: RESPECTED, INSPIRATIONAL, ACCESSIBLE OUTSIDE CLASS
+Comment: Honestly one of the best professors I've taken. He's friendly and approachable if you ever have questions about class material. Seriously, take this guy if you have the chance.
+---
+Course: CSE110
+Date: May 2nd, 2018
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, HILARIOUS, CARING
+Comment: He's such a great professor with a big heart. I honestly would not have passed this class without his guidance. He's very funny and makes the lectures easy to understand and if you don't understand you can ask him and he will explain it to you in a different way. Really wish every every CSE student could experience this class.
+---
+Course: CSE110
+Date: May 2nd, 2018
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: RESPECTED, INSPIRATIONAL, BEWARE OF POP QUIZZES
+Comment: Professor Miller was a kind and passionate teacher for the CSE 110 course. Since this is a beginning course for Java, Professor Miller made sure to go over/review the concepts at an adequate paste. He was humorous during lectures and was available to help after class with any questions.
+---
+Course: CSE110
+Date: May 2nd, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: INSPIRATIONAL, HILARIOUS, CARING
+Comment: Honestly the best professor I've ever had. 10/10 would recommend! He makes something as hard as programming so easy and fun that you actually want to learn more and more everyday. He is so funny and I absolutely love him! He even told the entire class that his office hours are open whenever we need help in any other cse classes.
+---
+Course: CSE205
+Date: Apr 23rd, 2018
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: INSPIRATIONAL, ACCESSIBLE OUTSIDE CLASS, CLEAR GRADING CRITERIA
+Comment: Unlike many of the other 205 professors, Miller did not teach a single lesson on GUIs. He focused almost entirely on concepts that will be much more useful in later CS classes, like data structures, algorithms, and some OOP principles. You can get a lot out of this class if you want to.
+---
+Course: CSE110
+Date: Apr 9th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: INSPIRATIONAL, BEWARE OF POP QUIZZES, HILARIOUS
+Comment: Take take take this professor! Miller is by far one of the best CSE 110 professors in existence-I wish I was exaggerating, but seriously Miller made Java very interesting and funny. Miller makes the assignments as fun challenges and challenges students to engage. Who knew Computer Science could actually be enjoyable?
+---
+Course: CSE110
+Date: Apr 7th, 2018
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, INSPIRATIONAL, AMAZING LECTURES
+Comment: I am considering marrying him. Classes are not mandatory, I didn't miss one because he's just that good. As an intro class, he chews the subject to a simple concept. Every week a lab, every week or two an assignment, at the end of two chapters an exam, quizzes fluctuate. Be open to the subject as teachers like him are scarce nowadays. It was awesom
+---
+Course: CSE205
+Date: Feb 26th, 2018
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: Yes
+Tags: RESPECTED, INSPIRATIONAL, AMAZING LECTURES
+Comment: The best CSE professor I had so far. Take him if you have a chance!!
+---
+Course: FSE100
+Date: Jan 7th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, INSPIRATIONAL
+Comment: He is really funny but also inspires you to do your best work. He understands if you have other things going on but won't go easy on you if he sees that you are a slacker.
+---
+Course: FSE100
+Date: Dec 5th, 2017
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: RESPECTED, HILARIOUS, AMAZING LECTURES
+Comment: Miller is one of the greatest professors you can take as a CSE major. Take as many of his classes as you can. He teaches everything from engineering to programming. He is so funny and really good at helping students. His classes are so much fun. Attendance is not mandatory, but he does offer extra credit if you attend every lecture.
+---
+Course: FSE100
+Date: Apr 25th, 2017
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., CLEAR GRADING CRITERIA, HILARIOUS
+Comment: He is great, must go to labs to pass.
+---
+Course: FSE100
+Date: Jan 7th, 2017
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, INSPIRATIONAL, CARING
+Comment: Best Intro to engineering teacher ever! I really enjoyed attending his lecture and lab section. He is super fun and crazy and will help you if you ask. He cares about his students. Hard to not pas this class!! Would take him again if I could. I would talk to him about life and world problems all the time! TAKE MILLER.
+---
+Course: FSE100
+Date: Dec 5th, 2016
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: INSPIRATIONAL, HILARIOUS, GROUP PROJECTS
+Comment: He's one of the best teacher that I ever have. Easy to be contacted and willing to help you in any subject around his subjects (FSE or Computer Science). I went to his office hours and we never talk about FSE100. Either I have a problem with CSE110 or just chillin'. Overall he's an awesome teacher. HIGHLY RECOMMENDED.
+---
+Course: FSE100
+Date: Dec 3rd, 2016
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, GRADED BY FEW THINGS, CARING
+Comment: Best Teacher Ever.
+---
+Course: FSE100
+Date: Oct 17th, 2016
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: HILARIOUS, CARING, GROUP PROJECTS
+Comment: Miller is an interesting guy. He's very enthusiastic. I had him for a 7:30 am class and he seemed to wake us up with his energy. He's easy to talk to if you need any help. He's pretty funny. Definitely recommend his class, it's definitely an easy A.
+---
+Course: FSE100
+Date: Sep 30th, 2016
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, HILARIOUS, CARING
+Comment: Professor Miller genuinely cares about all of his students. He will take the time to share his wisdom with anyone who needs help. His positivity and jolliness will make you look forward to the class. I now have a clear idea of what the purpose of engineering is and the process of it, all thanks to Professor Miller!
+---
+Course: FSE100
+Date: Aug 25th, 2016
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Comment: Miller is an excellent professor. He's funny and makes the class enjoyable.
+---
+Course: CSE205
+Date: Jul 13th, 2016
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: I'd definitely recommend taking a class with this professor. He makes class so enjoyable. I took it during summer session C, and we had weekly programming assignments, a midterm, and an optional final.
+---
+Course: FSE100
+Date: May 12th, 2016
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Comment: Miller is by far the best teacher ever. You will learn so much about the basics of engineering and also get to do fun projects. Your grades depend on two exams and labs. The exams are very easy as long as you study and attend his lecture the day before. He is super helpful and really cares about his students understanding the material. Easy A
+---
+Course: CSE100
+Date: May 10th, 2016
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: Dr. Miller is a great prof! TAKE HIM! I never went to class and passed with an A+. He gives a LOT of extra credit and does random quizzes to check attendance (BUT THEY COUNT AS EXTRA CREDIT). He even makes it so that an 85 is an A. He'll work with you on anything and let you retake it all. I don't understand how you can't pass this class
+---
+Course: FSE100
+Date: May 7th, 2016
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: It's immediately obvious how much effort Professor Miller puts into being the best quality teacher he's capable in. His presentations are hilarious yet also highly informative, and he gets really excited by the topic and class. Easily one of the best instructors I've ever had.
+---
+Course: FSE100
+Date: May 7th, 2016
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A+
+Textbook: No
+Comment: Professor Miller is one of the best professors I've had. He is very passionate about the topics he teaches and his lectures are always fun. His labs are fun and easy. He always has a review session prior to the exams and if you have attended the lecture, you'll probably pass.
+---
+Course: CSE100
+Date: Apr 28th, 2016
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Amazing professor, he is real funny which helps you pay attention during lecture. Test are like the study guides. He gives a lot of extra credit opportunities, drops a test and overall class is curved. The material can be hard to learn but he makes it easier. I would definitely take him, he is seriously great!
+---
+Course: CSE100
+Date: Apr 14th, 2016
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: Best. Professor. Ever. All of the comments below are spot on. Take his classes, even if you have to rearrange other classes to do it. You will not be sorry. Amazing lectures, relevant homework, clear grading, friendly and approachable, always willing to help you out.
+---
+Course: CSE100
+Date: Apr 4th, 2016
+Quality: 4.5/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: Easy grader and exam !
+---
+Course: CSE100
+Date: Mar 3rd, 2016
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Miller's classes are the kind you just don't skip. If he was an English professor, I'd be an English major. His classes are as engaging and enlightening as they are entertaining. I'll never forget him saying "Don't write code that just 'works'. Write the best code you can. Otherwise, you'll probably get fired and wonder why."
+---
+Course: FSE100
+Date: Feb 9th, 2016
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: professor Phillip is the best professor in asu. he makes the class more easier and funny. he gives a lot of extra credit. his slides are perfect. he's the best.
+---
+Course: FSE100
+Date: Dec 14th, 2015
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: The BEST professor I had of the semester! I enjoyed going to class, gave extra credit on every assignment and test, really funny and interesting lectures. Will take more of his classes.
+---
+Course: FSE100
+Date: Dec 7th, 2015
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: Literally finished with 104% in the class. Just take him, he's the best.
+---
+Course: FSE100
+Date: Dec 5th, 2015
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: Miller was such a great professor. He's such a fun and enthusiastic guy and I really enjoyed being in his class. There was only two exams which he gave the questions for, including extra credit. The labs were fun and he basically gave full points if you were there to do them. Loved this class and professor!!!
+---
+Course: FSE100
+Date: Nov 28th, 2015
+Quality: 4.5/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Comment: I swear, Im not a studying person, but my grade for His class A+. He gives bunch of extra credits, and no home works for his lectures. NO Attendance for his labs. Best Fulton Professor.
+---
+Course: FSE100
+Date: Nov 19th, 2015
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: Absolutely amazing. Best Fulton professor of all. Take him for any class he's teaching, you will not be sorry. He is funny, energetic, passionate, and will inspire you in ways no other professor ever has. He will make you think, force you even, but will do so painlessly. I wish Miller taught all of my future classes.
+---
+Course: FSE100
+Date: Nov 12th, 2015
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: Miller is my favorite professor! He is absolutely hilarious. This class is very fun, especially since it is very hands-on. He is super knowledgeable, helpful and he makes everything easy to understand. I honestly wish he taught some of my other classes. TAKE HIM!! You'll be glad you did.
+---
+Course: FSE100
+Date: Nov 11th, 2015
+Quality: 4.5/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Comment: Miller was absolutely awesome for fse. He's just a great and funny person that made lectures easy to understand. The tests were really easy if you studied the slides for maybe an hour. TAKE HIM! you will be very glad you did.
+---
+Course: FSE100
+Date: Oct 23rd, 2015
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: Miller is the best engineering professor that I had before I dropped out of engineering. He is very knowledgable and this class is super easy. I also heard he is an amazing CSE 110/JAVA professor. If he was my teacher for every subject I might still be an engineering student
+---
+Course: CSE205
+Date: Oct 22nd, 2015
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: Really phenomenal professor. He is hilarious and teaches in a clear, concise, articulate way. This course was at 8.30am and showing up was never a problem because he was so passionate and funny. It's tough material, but he offers plenty of extra credit and is always willing to go the extra mile to ensure you understand it.
+---
+Course: CSE205
+Date: Jul 15th, 2015
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A+
+Textbook: No
+Comment: Best ASU professor! And I never thought I'd say this, but maybe a little too much extra credit: 10% extra credit for turning in your assignment 24 hours early, and 5% extra credit on your final grade for showing up to class! But as a professor, he is inspirational, provides crystal clear feedback on questions, and is very kind and funny. Take him!
+---
+Course: CSE205
+Date: Jul 14th, 2015
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Comment: WARNING : Only take his course if you want to be completely energized by an entirely passionate professional and sit in front of what may be the best lecturer I've ever had. I took his class at 8 in the morning and it was so easy to be there every day because I could not wait for the next lecture. Not an easy A , but you can do it.
+---
+Course: CSE205
+Date: Jul 10th, 2015
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: Really great professor. He genuinely cares about students learning the material, and will go out of his way to ensure you do. There's a lot of opportunities for extra credit and he allows 1 cheat sheet for each exam. I still learned more this semester than I did in lower level courses with more busywork. Definitely take him if you have the chance!
+---
+Course: FSE100
+Date: Jun 18th, 2015
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: Best teacher I've had so far. Highly recommend taking his class.
+---
+Course: CSE100
+Date: May 15th, 2015
+Quality: 4.5/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Comment: One of my favorite courses and teachers thus far at ASU. He takes fairly bland material and makes it interesting. You don't have to go to his lectures, but you really should. An easy A+ while having a ton of fun - take him!
+---
+Course: CSE100
+Date: May 11th, 2015
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: Professor Miller was an overall amazing teacher! The tests are pretty easy if you know what you're doing, and he occasionally gives extra credit quizzes, which are basically free bonus points for students who show up. Dr. Miller is also hilarious, and makes his lectures very entertaining! Tons of extra credit for turning labs in early too.
+---
+Course: CSE100
+Date: May 6th, 2015
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Comment: I've never met such a funny and passionate professor. He knows what he's talking about and really wants you to know the material well too. The material is tough if you've never done coding before, but he offers extra credit and well written study guides that can really help you. I can't say a bad thing about him.
+---
+Course: FSE100
+Date: Feb 26th, 2015
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Best professor I've ever had
+---
+Course: FSE100
+Date: Feb 22nd, 2015
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Really cares about learning, grade comes second.
+---
+Course: FSE100
+Date: Dec 16th, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: I took him for FSE100, which is an easy A class that everyone has to take but he managed to make the class very interesting with his sense of humor. In addition to that, he expressed a definite level of care towards us, the students by offering us help with outside courses! You don't come across great professors like this very often.
+---
+Course: FSE100
+Date: Dec 3rd, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Comment: Professors don't get much better than him
+---
+Course: FSE100
+Date: Nov 20th, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Mr. Miller is an incredible teacher that can turn even a basic intro course into an enjoyable, yet insightful class without much trouble. His lectures are straightforward, not work-intensive, and always filled with energy. As long as you don't skip class and labs often you'll do fine.
+---
+Course: FSE100
+Date: Nov 19th, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: Mr. Miller is by far one of the greatest teachers I've ever had. His lectures are incredibly interesting (not mandatory to attend) and the labs are interesting as well. You need to participate in the lab work in order to get a good grade. However, it is near impossible to not get an A in the class as he gives a tons of extra points. Exams are easy!
+---
+Course: FSE100
+Date: Nov 5th, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: He makes every single class have purpose. Everything you learn can be applied to real life. He is by far the funniest professor I have ever had. He is a great guy; all he cares about is that you learn the material. Show up to every class because you will learn so much. He hands you an A if you come to class and do the work.
+---
+Course: FSE100
+Date: Nov 4th, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: Great teacher, impossible to fail. He is clear and his material is hard to fail. He cares and his lectures are nice. the labs are fun and if you are not good its OK because he is there to help you. Highly recommended!!!!!!!!! You need to go to labs though, lecture not so much.
+---
+Course: FSE100
+Date: Oct 24th, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Makes class super enjoyable and easy. Best teacher I have ever had!
+---
+Course: FSE100
+Date: Oct 17th, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Greatest professor of all!!! But you still need to study for the exams.
+---
+Course: CSE105
+Date: Aug 20th, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: This is the best professor I've ever had. Extremely funny. He manages to grab and keep the class's attention while doing a great job teaching the material.
+---
+Course: CSE110
+Date: May 9th, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: One of the best lecturers I have ever had. Really helps explain concepts and also tells fun stories. He genuinely wants students to succeed and gives lots of extra credit. The class itself can take some work and a lot of time, especially if you are new to programming. However, it is relatively easy to get an A.
+---
+Course: CSE110
+Date: Jan 16th, 2014
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: He is the best professor i ever had. He's funny, his lectures are fun and interesting plus he gives a lot of bonus credits. if you can take a class with his do it you won't regret it.
+---
+Course: CSE110
+Date: Dec 3rd, 2013
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: He is the best! Very helpful! Easy class! just need to go to class, do the assignment, do the lab and its an easy A!
+---
+Course: CSE110
+Date: Oct 11th, 2013
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: I recommend this teacher to ANYONE. Funny, smart, and just plain awesome teacher. Always look forward to going to his class after my hard MAT 266 class. Also, previous coding experience really shines in this class. REALLY recommend this teacher.
+---
+Course: CSE110
+Date: Aug 27th, 2013
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Comment: This is a funny guy and he really does care about trying to teach your correctly. Always open to answering questions and helping you out. I loved it.
+---

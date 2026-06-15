@@ -1,0 +1,269 @@
+Professor: Eric Bishop
+Department: Data_Science
+Overall Rating: 4.1/5
+Would Take Again: 84%
+Total Reviews: 24
+========================================
+
+Course: N/A
+Date: Jan 24th, 2026
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: Writing as an alumni; I took IFT 250 in 2022 Fall. Professor Bishop was easily the best professor I had during my time at ASU (BA Information Technology). His course was laid out professionally, he always was available, and he seemed to always have the student's best interest in mind. I highly recommend taking any course he teaches.
+---
+Course: IFT383
+Date: Jun 9th, 2025
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: AMAZING LECTURES, INSPIRATIONAL, HILARIOUS
+Comment: A really great class with a nice man.
+---
+Course: IFT101
+Date: Apr 8th, 2025
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GET READY TO READ, PARTICIPATION MATTERS, LOTS OF HOMEWORK
+Comment: Professor was great and funny, lectures were nice, although I really wish that there were more hands-on activities code-wise in class. The problem sets that were assigned are hard to grasp when the lectured things are not gone over as in-depth as you'd prefer.
+---
+Course: IFT250
+Date: Dec 10th, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: PARTICIPATION MATTERS, GIVES GOOD FEEDBACK, HILARIOUS
+Comment: One of the best professors at poly! I found his enthusiasm about the material to be infectious and inspiring.
+---
+Course: IFT381
+Date: Dec 6th, 2024
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: AMAZING LECTURES, INSPIRATIONAL, HILARIOUS
+Comment: Awesome overall
+---
+Course: N/A
+Date: Mar 1st, 2024
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, PARTICIPATION MATTERS
+Comment: Not a bad professor, he can be a bit particular when it comes to formatting answers though. The concepts were indeed interesting as well, do also make sure you read through the slides, they have very helpful info.
+---
+Course: IFT101
+Date: Dec 5th, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: Bishop is great and available to help students outside of class. 101 will be overwhelming if you take it as an A or B session.
+---
+Course: N/A
+Date: May 21st, 2023
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Tags: TOUGH GRADER, AMAZING LECTURES, LOTS OF HOMEWORK
+Comment: Prof Bishop is very thorough in his use of the text book. There is A LOT of homework in this course & the textbook isn't the most helpful on every assignment. Prof Bishop does provide lecture videos which I liked when taking notes. Prof Bishop was direct & clear in announcements, but could have responded to emails better later in the semester.
+---
+Course: IFT202
+Date: Apr 23rd, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: EXTRA CREDIT, AMAZING LECTURES, CLEAR GRADING CRITERIA
+Comment: Professor Bishop is a great professor that teaches, and yes, there is reading, but he provides a lot of slides that he covers in detail. Also, the labs in the course are straightforward and valuable experiences that anyone in the IFT career path will need to know.
+---
+Course: N/A
+Date: Feb 28th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, CARING
+Comment: Professor Bishop recorded all new lectures for the semester which helped with the course material. He also offered optional zoom call lecture/Q&A sessions on Thursdays even though it was an ASU Online course. I came into the class already knowing Python but he kept me engaged and I appreciated the way I saw him work with other students.
+---
+Course: N/A
+Date: Dec 5th, 2022
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Tags: GET READY TO READ, PARTICIPATION MATTERS, LOTS OF HOMEWORK
+Comment: This class was very well organized and he gives you all the tools to succeed make sure you use them.
+---
+Course: IFT202
+Date: Dec 1st, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: Yes
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, ACCESSIBLE OUTSIDE CLASS
+Comment: Quizzes exactly reflect the content taught in class. Slides are uploaded the day (or hours) after a lecture. Extremely helpful with advice for navigating a career in Cybersecurity. Lectures were pretty immersive. Labs are usually done together in class (to an extent). APA citations weren't fun, but only had maybe 3 (of 9) labs that needed them.
+---
+Course: N/A
+Date: Sep 8th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: AMAZING LECTURES, HILARIOUS, CARING
+Comment: So far so good. He seems really nice and knows his stuff.
+---
+Course: N/A
+Date: Aug 14th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ, PARTICIPATION MATTERS
+Comment: He is very hard. You have to cite everything. He takes forever to reply to emails. I had to withdraw from the class because I could not do it. I asked if I can get time for some assignments he said no. He gave me a integrity violation too. So cite everything
+---
+Course: N/A
+Date: Aug 5th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: I'm kind of suprised by the bad ratings. He was the best instructor Ive had ever, at ASU or at the junior college I went to. He is really nice and good. He does weekly zoom meetings with the class that are optional and no other instructor does them. I liked them because he went over the important things each week and also let us ask questions.
+---
+Course: N/A
+Date: Jun 14th, 2022
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK, CARING
+Comment: This rating is actually for IFT202, it was not on the list of options. Serious about referencing sources in APA format and not copying word-for-word. Make sure you read "presenter" notes on powerpoint slides! Professor is friendly and knowledgeable. If you get PDF textbook, you need a different device for taking open-note quizzes.
+---
+Course: N/A
+Date: Jun 14th, 2022
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK, CARING
+Comment: It is very important to read "presenter notes" on lecture slides. Professor Bishop is very friendly and tries to help through zoom meetings, but you have to read A LOT and teach yourself all of the content. He does provide open note/book quizzes, but make sure you have a tablet or something if your textbook is PDF format. Emphasis on APA citations!
+---
+Course: N/A
+Date: Jun 7th, 2022
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: GET READY TO READ, CLEAR GRADING CRITERIA, HILARIOUS
+Comment: ERIC BISHOP is the worst and most irresponsible guy I've met. I was connected to him as a senior high schooler to work with him on a semester-long "college internship." Mid-way, he completely fell off the radar cold, never responded to any emails, and I ended up getting an I dropped because no one could get in touch with him for eval/grades.
+---
+Course: N/A
+Date: May 4th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, ONLINE SAVVY
+Comment: The textbook is cheap to buy if you want a paper version, the online version is free. Has good videos in each module, about 2-4 videos short videos. Assignments were ok but the labs were great, I had some Linux experience before this class but I learned a lot more. He does optional zoom sessions each week, not required to attend. Responds quickly.
+---
+Course: N/A
+Date: Apr 29th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: I really liked the class and learned so much about Linux which is something I have wanted to do for a long time. He likes Linux a lot and shared his job experiences with it during the weekly Zoom times. Those were nice to ask questions and he did demos of commands and said why you would use them. Can't wait for another class with him this summer.
+---
+Course: N/A
+Date: Apr 26th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ, TEST HEAVY
+Comment: He's unrealistic on expectations from students finals are always respondous browser watching you for1 4 hours w/no bathroom breaks. How can anyone truly focus and try to do good from not even having a notecard to look at no one can remember 2-4 classes worth of information. WE ARE NOT ROBOTS OR DICTIONARIES. This is why people drop out.
+---
+Course: N/A
+Date: Apr 14th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Doesn't overwhelm you with massive amounts of course work. Takes the time to put lectures and course work together. He seems to understand people have lives outside of school.... fair and balanced Professor.
+---
+Course: IFT101
+Date: Jan 24th, 2022
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Comment: The teacher was great, he wanted you to learn and not just cheat and pass the class. He hired a tutor for the class, along with already having tutoring available by the college. He made himself available by email with any questions and had weekly zoom meetings as well office appointments. the class was too fast for me especially involving math.
+---
+Course: N/A
+Date: Nov 9th, 2021
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS, CARING
+Comment: Professor Bishop was my professor for IFT 101. This was an introduction to programming languages, specifically Python. Professor Bishop had weekly Zoom meetings, a rarity I am finding among online classes. He was also quick to respond and extremely caring and passionate. Highly recommended. He cares about the content and the students.
+---

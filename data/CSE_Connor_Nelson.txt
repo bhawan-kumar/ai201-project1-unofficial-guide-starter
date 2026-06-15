@@ -1,0 +1,810 @@
+Professor: Connor Nelson
+Department: CSE
+Overall Rating: 1.9/5
+Would Take Again: 20%
+Total Reviews: 75
+========================================
+
+Course: CSE365
+Date: Jun 11th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: Over 500 total challenges for the course, split into 8 modules ranging from 30 to 150 per. 200+ students got hit with AIVs in a cheating scandal 2 years ago. You would think the professor would take the hint that his class was too hard, but nope. He added more to the course every semester since, including quizzes. Expect to spend 20+ hours a week.
+---
+Course: N/A
+Date: May 8th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: I'll make it clear that I didn't like this course due to difficulty. Its bc this class because of its tedious structure, with lectures that feel pointless in teaching how to approach the challenges. The expectation that one should spend 20 hours per module is incredibly inconsiderate of everyone's time. Just push through it.
+---
+Course: N/A
+Date: Apr 26th, 2026
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: This class is hard, and is hated by the student population for one reason: you have to critically think. Yeah you struggle, but isn't that the point of learning at higher education? Dr. Nelsons class exemplifies this. yeah you struggle, but the reward of the knowledge is so much more than cost for struggle. Food for thought.
+---
+Course: CSE365
+Date: Dec 12th, 2025
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: ONLINE SAVVY
+Comment: Well structured class, I learned a lot about how software actually works.
+---
+Course: CSE365
+Date: Dec 12th, 2025
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: Is this class hard for the average student? Absolutely. Is college meant to be hard? Yes. Will complaining make it any easier? Probably not.
+---
+Course: N/A
+Date: Nov 21st, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: no NOT take this class unless you wanna hear about this dudes website
+---
+Course: CSE365
+Date: Oct 18th, 2025
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK, ONLINE SAVVY
+Comment: This class was an extraordinarily heavy lift. I learned a great deal about low-level programming; it was done the hard way, and I am better off for it. There was a significant curve at the end as well, which I believe fairly reflected the difficulty of the course.
+---
+Course: N/A
+Date: Oct 7th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: GET READY TO READ, LOTS OF HOMEWORK
+Comment: Doesn't teach and thrusts you into challenges with very little instruction. You must learn everything yourself. Video lectures barely help. Getting help from Discord will be met with extremely vague hints or snarky comments. As if you're not already swamped from your other classes, prepare to no-life this one. CS department should be ashamed.
+---
+Course: N/A
+Date: Sep 7th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: GET READY TO READ, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: They bumped up to 149 challenges for the first week of school. This class gonna take 20 hours+ if you dont already have experience in cybersecurity
+---
+Course: N/A
+Date: Jul 9th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: i bet they won't even learn anything and only make the class harder in fall lmao
+---
+Course: CSE365
+Date: Jul 7th, 2025
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: This class is too much work for the amount of credit hours. Some challenges take up to 6+ hrs if you don't know what you are doing. Having 90 challenges assigned in the first 2 weeks of class is ridiculous. They expect you to not have any other classes to work on. The lectures barely helped, but the discord was helpful.
+---
+Course: CSE365
+Date: May 12th, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GET READY TO READ, CLEAR GRADING CRITERIA, LECTURE HEAVY
+Comment: Useful class and good professor. Very very content-heavy, yet one of the most enjoyable classes I found with this prof at ASU. A lot of work but there's no tests to stress over so you're in control if your own grade. Challenges are usually on point, responsive in the class discord, and lectures are at least solid.
+---
+Course: CSE365
+Date: May 12th, 2025
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Comment: I am all for classes that are challenging, given that the professor provides the tools required to learn and succeed. This class is very challenging without either of those things. This class is the definition of sink or swim, and when I am paying thousands to learn, that is not a good thing. I may have gotten a good grade, but I learned nothing.
+---
+Course: CSE365
+Date: Apr 29th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Comment: Teaches nothing, expects everything.
+---
+Course: CSE365
+Date: Apr 6th, 2025
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: The bottom-line is that this course is the hidden member of the "trifecta". Unfortunately, it is extremely time consuming and the workload can be unreasonable. It is valuable knowledge, but sometimes it lacks substance/direction. Not everyone wants to be a cybersecurity researcher. They won't listen, though. ADVICE: do challenges ASAP
+---
+Course: CSE365
+Date: Mar 25th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: Changing my rating from 3 to 1 based on the wack survey that was sent to me a year after I took the class. The survey really wasnt a survey, and instead just blasts you with questions of how/why you cheated. Total B.S! Not everyone cheated in that class and to send a survey insinuating that everyone cheated is just crazy imo.
+---
+Course: N/A
+Date: Feb 19th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: Inflexible and condescending in emails. Very general lectures that don't help you on the assigments, and workloads of 10 hours or more.
+---
+Course: CSE365
+Date: Feb 14th, 2025
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: N/A
+Comment: I took this class in Spring of 24 (semester of the scandal) and feel ready to leave a review. I did not cheat and got an A in the course with no linux/hacking knowledge prior, as well as not going to office hours once. Instead, I spent 20 hours a week hating my life to somehow get an A. I also remember nothing besides the cheating incident. GL!
+---
+Course: N/A
+Date: Jan 29th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: The lectures are useless, instructions unclear, the challenges went from super simple to making no sense at all with the blink of an eye, this is easily one of the worst courses I have taken in my life, I am not sure how this professor is allowed to teach at ASU.
+---
+Course: N/A
+Date: Jan 29th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: they added DOZENS of challenges to each module so far, each module has 50-100 challenges due in a week. removed EC with the excuse that people don't do all the modules. should be fired from ASU. recitations are useless & replies in discord are non-existent unless it's to threaten you for helping others.
+---
+Course: CSE365
+Date: Jan 13th, 2025
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: first day and i already hate this class. they made their useless "lectures" mandatory for like 10%.
+---
+Course: N/A
+Date: Jan 6th, 2025
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Tags: EXTRA CREDIT, HILARIOUS
+Comment: I've only taken this professor with this course. It was very difficult, but class periods were made fun by his personality, but recorded lectures were hit or miss. I learned so much from this class, but it was difficult. I only passed this class thanks to CTF extra credit, and the surveys. You can get up to 15% extra credit, which is sweet.
+---
+Course: N/A
+Date: Dec 15th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: This class was super wack
+---
+Course: N/A
+Date: Dec 9th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: Horrible class. Lectures do not prepare you in the slightest to tackle the unreasonably difficult homework's. The majority of your learning comes from documentation, google, and the AI bot that's baked into the class, not from the prof. If you wish to do good in the class without cheesing through it be prepared dedicate your life to the class.
+---
+Course: CSE365
+Date: Dec 5th, 2024
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GET READY TO READ, EXTRA CREDIT, LOTS OF HOMEWORK
+Comment: This is the most in-depth, educational class I've taken during my degree. There are no exams; you are graded based on completing assignments. However, the workload is overwhelming and, I believe, inappropriate for the credit hours. Take this when you are ready to dedicate around 12-15 hours a week and are good at googling.
+---
+Course: N/A
+Date: Dec 4th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Comment: Easily hardest course ever taken. The workload will be a full time job plus overtime every single week. Pray you somehow get lucky with the challenges because some will take hours with no success. The course has only seemed to get harder since the cheating scandal. Connor has no respect for students leading a class like this. You will dread life...
+---
+Course: CSE365
+Date: Dec 3rd, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: I wrote the previous review, more to say. Yes there is a server, but my experience has been not great, some people are rude, & the professors threaten people who share too much info. Heavy workload, no regard for the fact that some of us have jobs and other classes. You'd think 500 people getting caught cheating would change something, but no...
+---
+Course: CSE365
+Date: Dec 3rd, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: GET READY TO READ, LOTS OF HOMEWORK
+Comment: The content of this course is cool but it's taught in the absolute worst possible way. Awful resources, useless lectures, no help, vague descriptions, terrible website, etc. Impossible to do well in this class without being a generational cheater or 2+ years of prior knowledge. As for Nelson, snarky, unhelpful, hope I see him serving big macs soon
+---
+Course: N/A
+Date: Nov 27th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK, ONLINE SAVVY
+Comment: This class is genuinely awful. I was stoked to see it was only homework, except for the homework is incredibly difficult. Lectures don't help, instructions are not clear, a lot of it is figuring it out on your own because the Professor's won't help and the TAs have no clue whats going on. Lots of extra credit thankfully, but the workload is unreal.
+---
+Course: CSE365
+Date: Nov 27th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GET READY TO READ
+Comment: This guy is the worst. I reached out for help countless times and he only helped 1 time. He is not here for student's to learn, just to do research and stroke his ego.
+---
+Course: N/A
+Date: Nov 16th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: Do not take this class unless you are absolutely required to. Do not take this professor if you can help it. Otherwise, get ready to have a terrible experience being forced to use some dude's phd project and not get any helpful instruction.
+---
+Course: CSE365
+Date: Nov 12th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, GRADED BY FEW THINGS
+Comment: The TAs are absolutely useless and don't bother helping. All of the help comes from other students, and this is a class where help is needed due to the structure /complexity of the challenges. The workload is too much, and the professor isn't considerate about the full-time students taking multiple classes.
+---
+Course: CSE365
+Date: Nov 11th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: Currently on track for an A, but the workload in this class is absurd for full-time students with other classes. The professor's refusal to take criticism makes future improvements unlikely. While the material is enjoyable, the professor needs to put more effort on the course's demands and should respect students' time and other commitments.
+---
+Course: CSE365
+Date: Nov 7th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: Genuinely the worst experience I've ever had in a class. Get ready to spend 30 hours a week on this class with no guidance or teaching from the professors. All the ever do is tell you to read through the manuals to learn how things work. A true reflection of the ASU CS department.
+---
+Course: CSE365
+Date: Nov 3rd, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: This class is a very fun challenge. Definitely not for everyone though. I really do love this style of teaching that emulate real world hacking. It makes you learn it yourself instead of just parroting from others.
+---
+Course: N/A
+Date: Nov 2nd, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: F
+Textbook: N/A
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: This class is harder then 310, 330 , 340 or 355 hands down hardest class I have taken get ready to spend 20-30 hours a week on this class, lectures were completely useless and the online lecture videos through pwn or even more useless. When asked for help on the discord they would just say refer to the lecture and they were condescending.
+---
+Course: N/A
+Date: Oct 31st, 2024
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: barely even teaches. also who sets an A+ at 100%???
+---
+Course: CSE365
+Date: Oct 28th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: Not sure yet
+Textbook: N/A
+Comment: make this class optional, class should not be required. so much work, it's basically like a part-time job. the professors and TAs on the class discord are very aggressive towards the little things. avoid if possible
+---
+Course: N/A
+Date: Oct 24th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: F
+Textbook: N/A
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS, ONLINE SAVVY
+Comment: After months of thought, here's my review: The professor is only focused on his PhD thesis. When 60% of the class cheated, he just covered himself. He doesn't teach, as others mentioned. If we must use pwncollege, at least teach and share solutions so we can reverse-engineer the challenges. The professor doesn't care about students or gradesSetUp2F
+---
+Course: N/A
+Date: Oct 21st, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK
+Comment: Class is insanely loaded, with many challenges being extremely difficulty which takes up lots of time. Basically kind of a full time job. No consideration that students have many other classes to tend to as well.
+---
+Course: CSE365
+Date: Oct 18th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: N/A
+Comment: this class is literally the worst. it's so overwhelming that i had to drop it just to take it in spring. glad this "professor" is getting the reviews he deserves.
+---
+Course: N/A
+Date: Oct 17th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, GRADED BY FEW THINGS
+Comment: Assigns tons of work and doesn't help even a little. Professor is not willing to take feedback and thinks that he is doing the best work, using his "pwncollege" website.
+---
+Course: CSE365
+Date: Oct 16th, 2024
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Comment: Taught nothing, assigned unreasonable volume of work, bad attitude.
+---
+Course: CSE365
+Date: Oct 16th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Incomplete
+Textbook: N/A
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: This has been my worst experience with any CS course so far. If there ever is another CSE365 professor option in the future, take it. Be ready to spend close to 8-10hrs a day to solve only 1 or 2 questions and make barely any progress on your modules and having all your free time stolen from you. This class only gets tougher.
+---
+Course: CSE365
+Date: Oct 11th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: How do you complete this class without extensive prior knowledge? You're expected to know Python, the web stack, and shell scripting despite no previous exposure. TAs are snarky when you ask a question in Discord, and say that you have to "learn to ask better questions" or just link you documentation that you've already read and don't understand.
+---
+Course: CSE365
+Date: Oct 8th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: People who are "good at cheating" succeed, people who try to learn either flunk or spend 30 hours a week.
+---
+Course: CSE365
+Date: Oct 5th, 2024
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: This class is run terribly, you need to self study most of the topics. The lectures don't help with the challenges. As someone with no prior knowledge in "hacking", this class is a struggle and a HUGE time commitment. Honestly, this class should be an elective, not a required course. Terrible class
+---
+Course: CSE365
+Date: Sep 30th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: This class is impossible without prior hacking knowledge. Pwn college is structured in a way that helps them to neglect their teaching responsibilities, we HAVE to learn everything on our own. Vague instructions and they act like we should know what to do and know about certain features. Every lecture is a heavy meme review (basically useless).
+---
+Course: CSE365
+Date: Sep 15th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: This man does not teach.
+---
+Course: CSE365
+Date: Sep 14th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA, ONLINE SAVVY
+Comment: As someone with little to no cybersecurity/hacking knowledge, this class ramped up exponentially for no reason. The initial modules held your hand and gave you an idea of how to use the programs. After that was getting thrown to the wolves. The challenges gives little detail on how to start and all in total take hours upon hours to complete
+---
+Course: CSE365
+Date: Sep 9th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: Not sure yet
+Textbook: N/A
+Comment: Yeah no this is not a class, this is a full time job. I'm not too worried about passing or the figuring it out mentality or whatever but this class taking at least 20 hours of my own and most other people's weeks . It gets to a point where your brain just stops working and you lose all motivation to go through hours of videos and actually learn.
+---
+Course: CSE365
+Date: Sep 5th, 2024
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Tags: GET READY TO READ, EXTRA CREDIT, LOTS OF HOMEWORK
+Comment: Excuse me but I just had to write a review for this course. This professor is clearly incompetent at teaching and frankly only cares about his PhD work. I took it SP24 where around 60% of the class cheated to get through it and I totally understand why. He refuses to take accountability for one of the biggest cheating scandals in ASU history!!!
+---
+Course: N/A
+Date: Sep 3rd, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, GRADED BY FEW THINGS
+Comment: As previous reviews have said, the professor made it impossible to succeed in this class without prior hacking knowledge. After many students were caught cheating, he sent out a multi page notice and at the end of it provided links to crisis hotlines including a 988 suicide hotline! So unprofessional to say the least! Needs to be fired immediately!
+---
+Course: CSE365
+Date: Aug 18th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS, ONLINE SAVVY
+Comment: Connor Nelson is a disastrous professor to say the least. Zero lectures were provided on how to do the pwn challenges, as a result 100s of people in this class got caught cheating. Instead of analyzing why students cheated, he outright blamed students for cheating and avoided any responsibility for his failure to teach anything. Completely avoid!
+---
+Course: N/A
+Date: Aug 13th, 2024
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: N/A
+Tags: GET READY TO READ
+Comment: I was expecting to learn more about NIST and other cyber frameworks since this is a CYBER ASSURANCE class but this course was 100% focused on exploiting vulnerabilities. The class is 90% self learning due to the lack of resources available. Connor is a great professor but this course needs to be reworked. Definitely not a beginner friendly class.
+---
+Course: N/A
+Date: Jun 20th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Tags: TOUGH GRADER, GET READY TO READ, GRADED BY FEW THINGS
+Comment: Avoid this professor. He removed all learning (video) materials and expected students to wing advanced pwn challenges, making the class impossible without prior cybersecurity knowledge. 60% of students in the class were caught cheating. ASU must fire this professor and hire a better, more responsible one to protect students' education and grades.
+---
+Course: CSE365
+Date: Jun 5th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, LOTS OF HOMEWORK
+Comment: This class is criminal, and Connor Nelson deserves to have his teaching rights revoked. I am appalled that this class (which, by the way, was his PhD thesis that he tested on us like lab rats), ever got past the drawing board. Here's an idea of how near-impossibly difficult it is: there were ~500 students in the class. 309 got caught cheating.
+---
+Course: CSE365
+Date: Jun 5th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B-
+Textbook: N/A
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: Connor seemes like a nice guy, but he is functionally the worst "professor" I have ever had. Here's the class: he gives you work years beyond your expertise, and he said "Now figure it out". TA's are the only ones that really teach, but they only work for a few hours of the week and Connor forbids them from teaching on Discord. Learn how to cheat.
+---
+Course: CSE365
+Date: May 10th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: Miserable experience. He teaches us very little while assigning insanely difficult coursework and expects us to just figure it out ourselves. His lectures are very surface level and don't relate much to the assignments. He offers very little guidance on how to start said assignments and without the class Discord I wouldn't even know where to begin.
+---
+Course: CSE365
+Date: May 10th, 2024
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: Connor genuinely seems like a nice guy. But... I have never been so lost in a class in my life. Like ever. Live lectures, Youtube lectures, and recitations genuinely made 0 sense in the context of the challenges. The trifecta classes felt easier to me because the content was actually taught properly...
+---
+Course: CSE365
+Date: May 6th, 2024
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Comment: Definitely an interesting subject but for someone with zero experience of hacking/html protocol/python the lack of instructions about how to actually solve the problems (which were the only thing we are graded on) made this class feel impossible to me. I had to go to recitation every week to scrape by with a C+ (before the curve).
+---
+Course: CSE365
+Date: May 6th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: Incredible at explaining things but his online lectures are COMPLETELY UNRELATED TO THE HOMEWORK (he doesn't teach his own class in person). Although there's a lot of support, 365 is a TREMENDOUS time commitment because the concepts are completely alien and not explained in the lectures by the other prof. NEED Linux, hacking prior knowledge to pass
+---
+Course: CSE365
+Date: May 3rd, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, INSPIRATIONAL, LOTS OF HOMEWORK
+Comment: It's a very tough course but you can learn so much if you want to. While some of the lectures were lackluster, his were always great and you can tell the passion he has for the subject. His office hours were both impressive and instructive. I think instructions could have been clearer but I like the problem-solving that this course encourages.
+---
+Course: CSE365
+Date: May 3rd, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, CLEAR GRADING CRITERIA, LOTS OF HOMEWORK
+Comment: This was easily my favorite class I took this semester. Highly self-driven course that forces you to act like a real programmer and solve problems. Grade is 100% based on assignments (no tests) with fair deadlines. Dr. Nelson's office hours are super helpful and accessible on Twitch. Extra credit for helping others and making memes, which was fun!
+---
+Course: CSE365
+Date: May 3rd, 2024
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS
+Comment: If you have 0 knowledge of Linux, assembly, & Python (none of which are prereqs), drop. TAs sit in Discord all day but are of 0 help. Removed all lectures that walked previous students through the challenges to (direct quote) "see where students struggle", our tuition & gpa should not suffer because some experimental improvement measure.
+---
+Course: N/A
+Date: Oct 10th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: Possibly one of the best professor for computer science. Need more professor like him.
+---
+Course: N/A
+Date: Oct 8th, 2023
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: GET READY TO READ, LOTS OF HOMEWORK
+Comment: Doesn't teach anything. Lectures are useless vague concepts and everything is just some technical error.
+---
+Course: CSE365
+Date: Aug 17th, 2023
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, ACCESSIBLE OUTSIDE CLASS, ONLINE SAVVY
+Comment: Secret prerequisites are needed that aren't listed. You must know Linux terminals and commands, Python Programming, and a little Assembly knowledge. Class is online friendly but without the above knowledge, you will struggle unless you scavenge through old lecture tutorials for assignments. Make friends and work together. Meme EC was available.
+---
+Course: CSE365
+Date: May 11th, 2023
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK
+Comment: Class is just finding a flag for challenges. Two main problems. 1. Discord for recitation attendance. You have to get there early and leave late otherwise it won't count you as attending. 2. The lectures aren't useful for the challenges, they just explain the concepts they use. All around this class was annoying. I didn't learn much.
+---
+Course: CSE365
+Date: May 7th, 2023
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA
+Comment: I enjoyed the class at first, and liked the fun structure of solving challenges. However, it was difficult to navigate at times as the lecture videos were mostly about broad concepts instead of helping you work through solving the problems. Could definitely be organized and taught better but not terrible
+---
+Course: CSE365
+Date: May 2nd, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, EXTRA CREDIT, ONLINE SAVVY
+Comment: This class actually forces you to learn and understand the concepts. Put the time in and you'll come out with a lot of useful, practical knowledge. Way higher quality class than most of ASU. The negative reviews are from people don't spend any time learning and spam the same 3 memes fishing for extra credit every week.
+---
+Course: CSE365
+Date: May 2nd, 2023
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: N/A
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK
+Comment: If you think you'd like to teach yourself how to build a web server in x86 assembly (yes, you do that in this class), then he's a great professor! If you want a professor that actually teaches you though, take literally anyone else. They basically just treated this class as an advertisement for their CTF team.
+---
+Course: N/A
+Date: Apr 20th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, EXTRA CREDIT, LOTS OF HOMEWORK
+Comment: Absolute legend. Class is 80% homework and 20% attendance. ~20 homework problems each 2 weeks. Online lectures usually have about a third of the answers. You can probably get 80% of the questions within a few hours. The last few questions can be solved with some help during recitation or from classmates. 5-10% extra credit.
+---
+Course: N/A
+Date: Mar 28th, 2023
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: A
+Textbook: N/A
+Comment: Maybe it's more of the structure of the class, but CSE365 is awful. They make us use their buggy, slow, and unfinished website to do challenges. If you ask questions or for help from one of the instructors, you get told to "look at the lectures". You're expected to figure stuff out from months old lectures and from classmates. Poor class, poor prof
+---
+Course: N/A
+Date: Feb 23rd, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, CARING
+Comment: One of the best computer science professors at ASU. Lectures are easy to follow and informative, online supplemental resources are straight to the point, and the learning platform is great. Very involved with his students and responds very quickly to questions. Teaching style is hands-on and he clearly knows what he's doing.
+---

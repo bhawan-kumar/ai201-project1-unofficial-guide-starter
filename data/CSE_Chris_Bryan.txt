@@ -1,0 +1,496 @@
+Professor: Chris Bryan
+Department: CSE
+Overall Rating: 3.4/5
+Would Take Again: 63%
+Total Reviews: 45
+========================================
+
+Course: CSE578
+Date: May 4th, 2026
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: N/A
+Comment: Class lectures are kinda fun. The class isn't too difficult as long as you start early.
+---
+Course: CSE578
+Date: Jan 15th, 2026
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: N/A
+Tags: RESPECTED
+Comment: Not bad, makes a big deal about not using Gen AI but assignments are still doable and tests aren't extraordinarily hard or anything,
+---
+Course: CSE578
+Date: Jun 28th, 2025
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: INSPIRATIONAL, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: I took his class in Fall 2024; the projects required a lot of time and effort but the tests were really easy and had questions straight outta the slides. Chris gives you a lot of freedom in how you shape your project and is overall a very chill guy.
+---
+Course: CSE578
+Date: May 14th, 2025
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, CLEAR GRADING CRITERIA
+Comment: Getting full score in assignments is easy with ext credits available, though it requires good time management, it's worth the effort as it boosts your grades Grading is lenient as long as you meet the requirements Many exam que come from the practice que Classes are theoretical but fun Exam weight is low so ext credit can compensate for a bad exam
+---
+Course: CSE578
+Date: Dec 11th, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, CLEAR GRADING CRITERIA, RESPECTED
+Comment: course is very well-structured. lectures are engaging. assignments are challenging but super fun. exams are easy. there's a semester-long group project. lots of opportunities to earn extra credit. one of the best classes i've had at ASU. just don't be one of those morons who cheat and get reported to the AIO.
+---
+Course: CSE578
+Date: Nov 7th, 2024
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: The course requires heavy assignments that take up 70% of ur semester, u you can score good. Plagiarism is strict. You'll learn about visualizations but focus mostly on D3, which is tedious and useless. If you're job hunting or want to learn efficiently, it's not the best choice. But if u have plenty of time to waste and score, u r good.
+---
+Course: CSE578
+Date: May 30th, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, AMAZING LECTURES
+Comment: This class is one of the best I've taken at ASU, great prof. Homework assignment were given for 2 weeks at a time and could earn 30% in extra credit. The 2 exams were word for word from the lecture slides with 10% of each exam coming from a paper you had to read. Group project was almost 2 months, plenty of time, make sure you find good teammates.
+---
+Course: CSE578
+Date: May 3rd, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS
+Comment: I think there is something wrong with grader grading, TA's professors were completely inconsistent in what they said several times and kept finding reasons to deduct points.
+---
+Course: CSE578
+Date: Apr 30th, 2024
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, LOTS OF HOMEWORK
+Comment: The projects are excellent, especially if you are new to JavaScript; courses use vanilla JS and D3 js library. There are enough in-class activities and extra credits to improve your chances of scoring well. I suggest doing all the extra credit tasks for the first three hw's. Also, exams are easy, and from the practice questions he provides.
+---
+Course: CSE578
+Date: Mar 20th, 2024
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: GROUP PROJECTS, LOTS OF HOMEWORK
+Comment: His lectures are thoroughly prepared and packed with materials. However, the homework assignments are poorly structured, overly lengthy, and excessively detailed. It's as if the only thing in our lives is doing his assignments. Not to say the group project takes 50% of the grade. We need time to work on that too!!!
+---
+Course: CSE578
+Date: Dec 1st, 2023
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: GET READY TO READ, GROUP PROJECTS, LOTS OF HOMEWORK
+Comment: Just do not take his class if you hate front-end development. Although he covers every single little detail related to data visualization the technique in which he teaches is not even his. Gives out homework like its the only thing that you have to do in life.
+---
+Course: CSE578
+Date: Nov 23rd, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, GIVES GOOD FEEDBACK
+Comment: Absolutely one of the best courses offered at ASU in the CS department. Take this course if you love coding and development, and don't mind getting your hands dirty. Totally avoid if you don't want to put in the work and just expect free/easy grades. The assignments were so much fun to do and the group project was an amazing experience as well!
+---
+Course: CSE578
+Date: Nov 16th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GET READY TO READ, EXTRA CREDIT, CLEAR GRADING CRITERIA
+Comment: Hands down, the best professor and course at ASU; others are not even close. Demanding but rewarding programming assignments in d3.js with ample extra credit opportunities, Many group project options to choose from, and Challenging course content, which is a mixture of viz topics and research papers that will get you excited about the field.
+---
+Course: CSE578
+Date: Jun 23rd, 2023
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, CLEAR GRADING CRITERIA, LOTS OF HOMEWORK
+Comment: Chris is absolutely incredible. He is easily tied for the best professor that I have ever had through my 5 years at ASU. Do be warned that this was also the hardest class that I've ever taken. Trifecta and 466 are nothing in comparison to this challenge but wow it is so rewarding. If you have an option to take his class, DO IT! Don't procrastinate.
+---
+Course: CSE578
+Date: Mar 29th, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, CLEAR GRADING CRITERIA
+Comment: The content is pretty simple. However, the extent to which you have to learn d3.js (for making visualizations) is a bit ridiculous. You might find yourself spending 20+ hours on a single homework assignment. You will likely spend more time figuring out d3.js than actually learning the theory behind data visualization. But, overall, good course.
+---
+Course: CSE494
+Date: Dec 12th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS
+Comment: Unlimited tries on quizzes, 5-6 javascript/html hw assignments, extra credit opportunities on every assignment, 1 group project, and random points for attending class. I liked the class, however, if you have no experience in javascript/html, it can be hard. He gives plenty coding examples which definitely help as you can basically copy/paste them.
+---
+Course: CSE494
+Date: Dec 8th, 2022
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GROUP PROJECTS, CARING, ONLINE SAVVY
+Comment: Class primarily focus is HTML and Javascript, neither of which I had any experience in before this class. If you are already familiar with these languages, then the class will be easy. Lectures can be a little dull, but attendance is not mandatory, so look in the syllabus what will be covered and if you are interested in the concept, then go.
+---
+Course: CSE494
+Date: Dec 7th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Tags: GIVES GOOD FEEDBACK, CARING, RESPECTED
+Comment: CSE 494 is different from other classes, JS and HTML are most likely going to be foreign concepts but Dr. Bryan makes it really approachable through his coding demos. He is really knowledgeable about D3 coding and he would actually help students with certain code concepts and questions. Really nice guy too and really approachable.
+---
+Course: CSE494
+Date: Nov 30th, 2022
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GROUP PROJECTS, CLEAR GRADING CRITERIA
+Comment: Dr. Bryan is a pretty cool instructor he alternates between theory and coding demos and he doesn't make his class too hard. His lectures can be boring but every now and then they get a little interesting. There is one group project towards the end of the class but if you get a good group together it isn't too bad. Great if you need an easy elective
+---
+Course: CSE578
+Date: Nov 24th, 2022
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: INSPIRATIONAL, LOTS OF HOMEWORK, HILARIOUS
+Comment: This is a type of Professor who would show his ratemyprofessor page on his introductory slide. And would say 'these are my reviews, and let's go'. His lectures brought a human element to the code. The class was assignment heavy but worth it. This class is for all the nerds who got the code but forgot the human.
+---
+Course: CSE494
+Date: Aug 26th, 2022
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Comment: His class made me vomit in my mouth, in a negative way, because it was so boring
+---
+Course: CSE494
+Date: Dec 23rd, 2021
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: LOTS OF HOMEWORK, CLEAR GRADING CRITERIA, CARING
+Comment: Prof Bryan genuinely wants you to learn viz & have fun with it. Homeworks can be long & tedious, especially if you're not familiar with JS. Start them a week early. Quizzes are open with unlimited attempts with one final group project. Fun activities like attending a session of IEEE Viz conf, designing HW for 1pt EC. Great prof!
+---
+Course: CSE578
+Date: Dec 11th, 2021
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, RESPECTED, LOTS OF HOMEWORK
+Comment: He is one of the most genuine professor , the CS department of ASU has to offer. You get to lean a lot from this course, specially the group project teaches you alot. The assignments are created with an intention to help you learn D3 from the beginners perspective to advance level
+---
+Course: CSE578
+Date: Jan 14th, 2021
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: No
+Tags: PARTICIPATION MATTERS, TEST HEAVY, BEWARE OF POP QUIZZES
+Comment: AVOID this class and professor by all means. This professor is demanding literally attendance for every class with 10 or more paper reading and summarization tasks, which has definitely no meaning as most of the recommended papers are not relevant to the class, but just from his random picking from conference publications.
+---
+Course: CSE494
+Date: Dec 13th, 2020
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, GROUP PROJECTS, EXTRA CREDIT
+Comment: I believe this was the first semester this class was offered as an undergraduate class. This was by far my favorite class. Assignments take maybe at the most half the time when compared to other courses you have to take such as 330, 355, and 340. Quizzes are unlimited tries and no exams. Teacher has a Slack channel and responds back very fast.
+---
+Course: ASU101
+Date: Dec 1st, 2020
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GRADED BY FEW THINGS, CLEAR GRADING CRITERIA, CARING
+Comment: I loved having Dr. Bryan as a professor! With a ridiculously easy course like ASU101, you really don't have to put a lot of thought into which professor to pick, because the course will be easy regardless. However, Dr. Bryan made class very enjoyable, and didn't make things harder than they needed to be. Truly a wonderful guy.
+---
+Course: CSE578
+Date: Dec 1st, 2020
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, GROUP PROJECTS, CLEAR GRADING CRITERIA
+Comment: I loved this class the most. I got to learn a lot. Take the class if you want to learn a lot about data visualization. Assignments will have clear guidelines for grading, which is followed strictly. Scoring in this subject takes moderate effort. As long as you put in a little effort, you will score high.
+---
+Course: CSE578
+Date: Nov 29th, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: No
+Tags: LOTS OF HOMEWORK, SKIP CLASS? YOU WON'T PASS., CLEAR GRADING CRITERIA
+Comment: 1. Classes are recorded and posted on YT. Boring and dry lectures. 2. Professors' response time is more than a week in some cases (YMMV). 3. Has multiple submissions on the same day. Doesn't provide extensions. 4. Group project is very basic from past VAST conferences. 5. You want feedback on anything feedback is just make it better. 6. He's rude.
+---
+Course: CSE578
+Date: Nov 24th, 2020
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: LOTS OF HOMEWORK, GET READY TO READ, SO MANY PAPERS
+Comment: This course is very demanding and professor doesnt care about your other course-load. Assignments are time taking. Deadlines are never extended even if the entire class requests for it. Choose your project group wisely as the project weighs 50% and you are doomed if your team is irresponsible.
+---
+Course: CSE578
+Date: Nov 14th, 2020
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: LOTS OF HOMEWORK, PARTICIPATION MATTERS, TOUGH GRADER
+Comment: The class is hefty and demanding. The TA's English is tough to understand, and he cannot write a single sentence without having at least three mistakes in them. The grader never responds. Prof Bryan wants the students to benefit but forgets they have other classes to complete as well.
+---
+Course: CSE578
+Date: Oct 22nd, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Tags: LOTS OF HOMEWORK, GET READY TO READ, SO MANY PAPERS
+Comment: Gives a ton of homework, assignments, and paper readings. Submissions are literally 2 days apart in the last month. Forgets we have other courses and their work as well. Very heavy, Don't take if other courses are moderately demanding.
+---
+Course: CSE578
+Date: Jan 23rd, 2020
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: ACCESSIBLE OUTSIDE CLASS, GROUP PROJECTS, BEWARE OF POP QUIZZES
+Comment: I took the Data Visualization course in Fall 2019. The course is research-oriented. The professor cares about his students and wants them to succeed. Also, he really cares about Data Visualization as well. So if you are caught cheating, get ready for the consequences. The assignments are really fun if you like UI and Visualization.
+---
+Course: CSE578
+Date: Aug 28th, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, PARTICIPATION MATTERS, GROUP PROJECTS
+Comment: The lectures can be monotonous at times. However, gives enough time for assignments and project. The grading criteria is very clear and straightforward. There are random quizzes in class so attending classes is important.
+---
+Course: CSE310
+Date: May 20th, 2019
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, EXTRA CREDIT
+Comment: He "is" smart (knows his stuff, but super nervous). Homeworks were super easy, he had 2 projects: first one being quite easy, second one wasn't too bad (debugging can be a pain in the ...). You can get an "A" as long as you put in effort to understand the pseudocode and read his lecture slides. For exams, easy A if you follow the study guide.
+---
+Course: CSE310
+Date: May 11th, 2019
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Comment: First semester teaching. Typo on every ppt, some leading to misinfo, not able to answer all questions, straight up lied to students on first test by promising not having to write code, then testing on it. Having to teach self on homework essentially, sometimes graded in ways not specified in class. Put EVERYTHING on cheat sheet. OK, but bumpy
+---
+Course: CSE310
+Date: May 9th, 2019
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: Agree mostly with other reviews, however, this was his first semester ever teaching and it was clear he was figuring things out. The first test was horrible, but he realized this bc test 2 and the final were easy af. Recitation is waste of time and non-mandatory. There was a class curve, I do think he will be a good choice in the future.
+---
+Course: CSE310
+Date: May 9th, 2019
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: No
+Comment: I chose this class over Xue's thinking I got lucky, but boy was I wrong. Assignments and Projects take forever to get graded. Specifications are constantly changing on assignments before and after the deadline. TA's have no clue what the assignments are about. Says he won't grade in a binary fashion but elects to do so anyhow.
+---
+Course: CSE310
+Date: May 7th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B-
+Textbook: Yes
+Tags: GRADED BY FEW THINGS, TEST HEAVY, TOUGH GRADER
+Comment: Class was incredibly unorganized. Every homework assignment and accompanied solution had errors. The programming assignments had errors and the lecture slides usually had at least one error. The test reviews consisted of "everything is game, study everything". 1 cheat sheet per exam even the cumulative final. Expect curve balls on tests.
+---
+Course: CSE310
+Date: May 7th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: GRADED BY FEW THINGS, TEST HEAVY, TOUGH GRADER
+Comment: Prof. Bryan didn't care about the class, didn't care about the students, didn't even care about the TAs. The class was plagued with communication issues: assignments weren't clear, project requirements were poorly worded, and the TAs had no idea what was going on. Some assignments and tests took over 5 weeks to be graded. Unacceptable to be honest.
+---
+Course: CSE310
+Date: Apr 29th, 2019
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Comment: I really liked Professor Bryan's teaching style. He presenta in an easy to understand way. Also his power points were very clear and great for going back and reviewing. I really liked the in class exercises we did and felt like that helped me grasp the concept. Course was hard but after hearing 310 horror stories I'd recommend
+---
+Course: CSE310
+Date: Apr 27th, 2019
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: TEST HEAVY, TOUGH GRADER
+Comment: To me, Bryan seemed like an average professor, lectures were fine and it seemed like he wanted to make sure everyone understood the material, only issue was sometimes he would get WAY too into the proofs and theory and I would just zone out. Compared to the CSE classes you take before it though, CSE 310 is tough, so get ready to work.
+---
+Course: CSE310
+Date: Apr 26th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: TEST HEAVY, LECTURE HEAVY, TOUGH GRADER
+Comment: Straight up garbage at teaching. Tests include mistakes even when questions are directly copied off of textbook exercises. Homework problems are often graded incorrectly due to the inadequate solution the graders used. It feels like he does not really care about the class at all. I would definitely avoid him for 310 in the future.
+---
+Course: CSE578
+Date: Feb 21st, 2019
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS, BEWARE OF POP QUIZZES
+Comment: I took CSE 578 with him and he was pretty good at it. Data Vis is mostly a practical course, so it's mostly on the students to do well. However, he did take a few surprise quizzes. The grading criteria is clear and he does give pretty good insights as well whenever needed.
+---
+Course: CSE578
+Date: Feb 19th, 2019
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: LOTS OF HOMEWORK, GET READY TO READ, CLEAR GRADING CRITERIA
+Comment: I took CSE 578 under Professor Bryan in Fall'18 semester. Lectures were good and took surprise quizzes when he felt the attendance was low. Also, had 2 papers to read every week. Time management is the most important skill required for this class. Also, gives plenty of extra credits.
+---
+Course: CSE310
+Date: Feb 19th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: GET READY TO READ, SKIP CLASS? YOU WON'T PASS., LECTURE HEAVY
+Comment: When Bryan tells you that you need to treat 310 like a part time job, he's not joking. Lectures are pretty dry, not really great at explaining things well. The tests though. Average on exam 1 was a 56%. The practice test he gave, which was from another professor, was NOTHING like the real thing. It's still early, but I'd avoid him in the future.
+---

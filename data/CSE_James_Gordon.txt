@@ -1,0 +1,1444 @@
+Professor: James Gordon
+Department: CSE
+Overall Rating: 3.6/5
+Would Take Again: 70%
+Total Reviews: 133
+========================================
+
+Course: CSE340
+Date: May 12th, 2026
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: Somehow makes this trifecta class a joke. Maybe 3 of the lectures ever were useful other than that he's just killing time. Didn't learn that much in class but projects taught a decent amount. Not much homework. Cakewalk compared to what I've heard about Bazzi.
+---
+Course: CSE340
+Date: May 8th, 2026
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT
+Comment: THE GOAT, Fair projects fair homework fair exams. Great prof.
+---
+Course: CSE330
+Date: May 6th, 2026
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: EXTRA CREDIT, AMAZING LECTURES, GIVES GOOD FEEDBACK
+Comment: I highly recommend Professor Gordon. CSE 330 felt much more manageable and stress free because of his teaching style. His lectures were clear and easy to understand, projects were explained well.
+---
+Course: CSE330
+Date: May 6th, 2026
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: EXTRA CREDIT, AMAZING LECTURES, GIVES GOOD FEEDBACK
+Comment: Professor Gordon was amazing throughout the semester. His projects were clearly explained, the class was very organized, and he was always available to answer questions. He made difficult concepts easier to understand and genuinely cared about helping students succeed. Highly recommend taking his class.
+---
+Course: CSE330
+Date: May 6th, 2026
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: EXTRA CREDIT, GIVES GOOD FEEDBACK, INSPIRATIONAL
+Comment: Amazing professor overall. His projects were always clearly explained, and the expectations were very straightforward. He was consistently available to answer questions and genuinely wanted students to understand the material. The class was well organized, and you could tell he cared about helping everyone succeed.
+---
+Course: CSE240
+Date: May 6th, 2026
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: AMAZING LECTURES, GIVES GOOD FEEDBACK, CARING
+Comment: Professor Gordon gives great lectures and is a very flexible, caring person. He is accessible outside of class via Zoom to answer questions. Don't skip his lectures; he goes in depth on most assignments to make them as easy as possible to follow, and he frequently shares his industry experience regarding the topics he teaches.
+---
+Course: CSE340
+Date: May 4th, 2026
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: HILARIOUS, CARING, RESPECTED
+Comment: Gordon is a great prof at ASU. Probably one of the best I've had. He cares about us more than just how we're doing in the class. Projects and homeworks often got extended. Often asks if there are any questions and is willing to make sure someone understands the topic before moving on. Wear any team jersey to get extra props from him.
+---
+Course: CSE340
+Date: May 3rd, 2026
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GET READY TO READ, INSPIRATIONAL, CARING
+Comment: I highly recommend prof Gordon, CSE 340 was easy with his class, stress free, his lectures are easy to understand, grading is clear because gradescope has auto grading, you get multiple attempts to submit project till deadline.
+---
+Course: CSE330
+Date: May 3rd, 2026
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA, CARING, RESPECTED
+Comment: I would recommend this prof, he is very caring, he is always down to help you, reply to mails asap, his lectures are very easy understanding, would love to take his class again!!!!!!
+---
+Course: CSE330
+Date: May 3rd, 2026
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: EXTRA CREDIT, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Professor Gordon is one of the best professors I've had. He makes the course manageable with extra credit, clear project walkthroughs, and exam reviews that match the test. He explains concepts well, responds to emails, and is overall very understanding. I would definitely recommend taking his class.
+---
+Course: CSE330
+Date: May 3rd, 2026
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: EXTRA CREDIT, CLEAR GRADING CRITERIA, CARING
+Comment: Professor Gordon is honestly one of the best professors I've had. He makes CSE 330 and 340 way easier to get through with extra credit, really helpful project walkthroughs, and exam reviews that actually match what's on the test. He explains things clearly, responds to emails, and is just a chill, understanding professor overall. Take him for both.
+---
+Course: CSE240
+Date: May 3rd, 2026
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: HILARIOUS, CARING, GRADED BY FEW THINGS
+Comment: Great professor. His lectures are sometimes long but they are informative and help you understand the content you need to know for the projects and tests clearly. Please take him if you need an outstanding professor.
+---
+Course: CSE330
+Date: Apr 17th, 2026
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Comment: amazing prof
+---
+Course: CSE330
+Date: Apr 3rd, 2026
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, HILARIOUS
+Comment: I recommend Gordon for CSE 330 and 340 esp. if CS is a hard major for you. These classes are difficult and require extra effort, but he makes it easier. Very helpful outside of class. Take notes in lectures and on the textbook; it saves you the review time. If you're ahead, use class to finish the projects. Also clues you in on the 330 midterm.
+---
+Course: CSE330
+Date: Jan 13th, 2026
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Comment: Gordon is disorganized, but makes up for it with lots of random extra credit. I don't think he understands the material. Don't expect him to be responsive to emails. Take this class if you're just here to get a degree.
+---
+Course: CSE240
+Date: Dec 29th, 2025
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: RESPECTED, GRADED BY FEW THINGS
+Comment: He's a chill professor who clearly outlines what you need to do to succeed in his class, and does his best to make students feel comfortable learning puzzling topics. Attendance is optional but his lectures are pretty engaging and he relates well to students. Those who need to take this class for their degree shouldn't have any problems.
+---
+Course: CSE330
+Date: Dec 16th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: Yes
+Tags: TOUGH GRADER
+Comment: You don't learn even remotely close what you need to know for CSE330. Midterm average was a 40% with no curve. Gordon seemed to be a placeholder while Dr. Zao was the head which is why when taking this class lectures were not helpful. The TA/Graders made many mistakes on grading. Very disappointing, especially for ASU.
+---
+Course: CSE330
+Date: Dec 15th, 2025
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, TEST HEAVY, GRADED BY FEW THINGS
+Comment: It is my understanding he just copied all the lectures/tests from another teacher. Frankly he is a nice guy but not great at teaching. Test averages were the lowest I have ever seen in the 40%s and he spent so much time trying to justify this. I suppose it was likely the other prof's fault but either I had a bad experience with this class.
+---
+Course: CSE330
+Date: Dec 15th, 2025
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: EXTRA CREDIT, BEWARE OF POP QUIZZES, TEST HEAVY
+Comment: I have to thank Gordon for trying to advocate for us against Zhao which helped get us some extra credit opportunities to help balance out terrible exam grades. Gordon is really nice but just not a good professor at all and I feel like I never learned anything from his lectures. 330 as a whole is interesting, but the curriculum outline is horrible.
+---
+Course: CSE340
+Date: Dec 11th, 2025
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GRADED BY FEW THINGS
+Comment: He uses lectures from other professors and has no idea what he is doing. Disorganized and forgetful. Does NOT have a good understanding of the material he teaches. Stalls most of the class time and is like a tape recorder on repeat. He gaslights himself into thinking that he teaches the material. Tries to make up for all this by being extra nice.
+---
+Course: CSE330
+Date: Dec 11th, 2025
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: Uses lecture materials from other professors. Skims through the textbook like the "Terms and Conditions" page people never care for. The total time he spent actually talking about the course material was probably less than a few hours given 16 weeks. Tries to mask his incompetence by being friendly. A good person, but a very horrible professor.
+---
+Course: CSE240
+Date: Dec 10th, 2025
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GRADED BY FEW THINGS
+Comment: Lectures are a bit unorganized, and a lot of the material is expected to be read outside of class. 2 exams. There is very little homework, and some extra credit assignments, which help. Overall nice guy
+---
+Course: CSE330
+Date: Oct 22nd, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: TOUGH GRADER, TEST HEAVY, GRADED BY FEW THINGS
+Comment: The professor is nice. However, the exams do not seem to reflect the material very well. I felt great going into the first exam and the resulting grade did not seem to reflect my knowledge of the material. As of right now, they are not curving the exams despite a low class average.
+---
+Course: CSE330
+Date: Aug 25th, 2025
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: TEST HEAVY, GRADED BY FEW THINGS
+Comment: Gordon just follows the other 330 professor's curriculum so you might as well take their class. Not knowledgeable about the material, hard to reach outside of class, unclear grading and expectations. He's a nice enough guy but is so disorganized. If you're not getting to use his material, might as well actually learn it from a qualified professor.
+---
+Course: N/A
+Date: Jul 13th, 2025
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA, CARING, RESPECTED
+Comment: Professor Gordon is very respectful, and understanding. I learned a lot from his class and the projects. He also extends the deadlines for the students when they need them. He is here to support you, and he will help you succeed the class. He is just amazing.
+---
+Course: CSE340
+Date: Jul 11th, 2025
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: HILARIOUS, CARING, RESPECTED
+Comment: Honestly he's a very kind and understanding professor (you won't find many like him), he also actually cares about his students ❤️. We love Professor Gordon :). He's the 🐐.
+---
+Course: N/A
+Date: Jul 8th, 2025
+Quality: 2.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GRADED BY FEW THINGS
+Comment: I took this class online over the summer. Very few assignments being graded on. Very little content like lectures, slides, readings, etc. Hardly any communication about what is 'going on'- weeks without updates. The lack of communication and clarity was very frustrating but its an easy class otherwise. Exams and projects are very easy
+---
+Course: N/A
+Date: Jul 8th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: LOTS OF HOMEWORK, TEST HEAVY, GRADED BY FEW THINGS
+Comment: I'm convinced he forgot he was teaching a summer class nothing has been uploaded since before the midterm and everything uploaded was just Bazzi's anyway. Finals tomorrow and I have no clue what can even be on it since nothing was taught since May. Avoid Gordon it's still gonna be the same hard projects so might as well get Bazzi's feedback.
+---
+Course: CSE340
+Date: Jul 1st, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GRADED BY FEW THINGS
+Comment: The final is NEXT WEEK and we haven't gotten a single lecture or material since BEFORE THE MIDTERM. I think we've gotten 1 REAL lecture by him, throughout the whole course. And it was poorly lectured, ripped off slides from Doupe/Bazzi. So that was great. Avoid this professor like the plague if at all possible.
+---
+Course: CSE330
+Date: Jun 29th, 2025
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: Might as well just leave a good review here because he is just gonna delete all the bad ones later.
+---
+Course: CSE340
+Date: Jun 18th, 2025
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Comment: James Gordon? More like Games Gordon
+---
+Course: CSE330
+Date: May 13th, 2025
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT
+Comment: Genuinely cares about his students and understands that students have other classes. I suggest you watch the lecture videos and learn how to properly shut down the VM when it crashes, so it won't destroy your VM.
+---
+Course: CSE240
+Date: May 11th, 2025
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: INSPIRATIONAL, HILARIOUS, CARING
+Comment: Goated prof
+---
+Course: CSE330
+Date: May 11th, 2025
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GRADED BY FEW THINGS
+Comment: easy A as long as you do the projects, and the first couple he does a full demo in class that basically gives you all the code. class was difficult to sit through at times with a lot of tangents (especially if you have him for multiple classes get ready to hear the same stories) he is also impossible to reach outside of class
+---
+Course: CSE340
+Date: May 10th, 2025
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, CARING
+Comment: He is always there to help and made the course smooth and less tiring some unlikle bazzi course which is too difficult to pass take prof gordon and he the goat
+---
+Course: CSE330
+Date: May 10th, 2025
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, CARING, RESPECTED
+Comment: best prof dont waste time in studying for asu courses and can study for real life projects . Gordon made course easy and less stressful loads of extra credit
+---
+Course: CSE340
+Date: May 9th, 2025
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: CARING, RESPECTED, GRADED BY FEW THINGS
+Comment: Professor Gordon is an instructor that truly cares and wants his students to succeed. Yes, he may not be as cutthroat as Bazzi, but you can take a lot from the class if you apply yourself and learn. I would say his lectures need a bit of work, but you can tell he's a good professor and is understanding, there aren't many people like that.
+---
+Course: CSE340
+Date: May 9th, 2025
+Quality: 2.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+Tags: GRADED BY FEW THINGS
+Comment: He's kind of a joke, which I hate saying because he's super nice. Always felt disconnected from lectures like he didn't know what he was teaching, and the projects were aligned with the other professor, so he was clueless. Don't take this professor if you are looking to actually learn from him.
+---
+Course: CSE330
+Date: May 9th, 2025
+Quality: 2.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: EXTRA CREDIT
+Comment: An easy A class. If you want a solid understanding of OS I would avoid this class. Lectures are not great. Tons of extra credit tho and he is really nice, its actually pretty refreshing to have a prof that isn't piling on the work.
+---
+Course: CSE330
+Date: Apr 29th, 2025
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: HILARIOUS, GRADED BY FEW THINGS
+Comment: Gordon was the go to to get an easy pass for trifecta, but since classes are starting to standardize, all you're left with is subpar lectures/rambling. He's a great guy, and understanding to his students, but his lectures (or lack thereof) are hard to look past. He wasn't there for half of them, and when he was, I didn't get anything out of them.
+---
+Course: CSE330
+Date: Apr 14th, 2025
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: EXTRA CREDIT, INSPIRATIONAL, CARING
+Comment: Honest review about professor gordon. He's the nicest professor at ASU but that does not come without some flaws with his lecture quality. Often times we go off on a tangent from the lectures, which demotivates the students from coming to class, but with that being said, his grading is very lenient, and the projects are extremely fun to work on.
+---
+Course: CSE330
+Date: Apr 1st, 2025
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, CARING, GRADED BY FEW THINGS
+Comment: James M.F. Gordon is the GOAT, and if you say otherwise, you're probably just unable to appreciate his sophisticated teaching style. If you don't like it, please stop complaining and simply take Bazzi so some other student can enjoy learning from Commissioner Gordon. You get to pick your classes, so take your pick and don't throw a fit.
+---
+Course: CSE340
+Date: Mar 6th, 2025
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: the midterm was a disaster. he stole Adam Doupe's exam off youtube.
+---
+Course: CSE340
+Date: Feb 25th, 2025
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: DO NOT. I REPEAT DO NOT TAKE THIS PROFESSOR. He is nice, but his class is extremely disorganized. He doesn't know what is going on half the time or what he is teaching. He doesn't even cover the materials needed to complete the project. He literally posted a correction to the project document to help the students out the day AFTER it was due.
+---
+Course: CSE330
+Date: Feb 6th, 2025
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: Zero communication, whatsoever. Not accessible outside of class. The TA's have no idea what's happening in the class either. How is this a trifecta class? I don't get it.
+---
+Course: CSE330
+Date: Jan 31st, 2025
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B-
+Textbook: N/A
+Tags: GRADED BY FEW THINGS
+Comment: You will have to teach yourself
+---
+Course: CSE340
+Date: Jan 14th, 2025
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, HILARIOUS
+Comment: Gotta love this guy Gordo. Truly the greatest professor to walk this Earth.
+---
+Course: CSE330
+Date: Jan 13th, 2025
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GRADED BY FEW THINGS
+Comment: Professor Gordon did not teach me anything. I learned everything from the labs, which were the best part of the class (despite being a bit confusing). I would recommend taking a different professor.
+---
+Course: CSE330
+Date: Jan 7th, 2025
+Quality: 1.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: EXTRA CREDIT, GRADED BY FEW THINGS
+Comment: No one seems to know what's going on in Gordon's class. Projects were enjoyable, but everything else was a nightmare. Lectures were awkward and didn't teach much, getting in contact was impossible outside of class, and important details (including the grade percentages) were changed with little/no warning. Incredibly disorganized.
+---
+Course: CSE340
+Date: Dec 17th, 2024
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: A
+Textbook: N/A
+Comment: Gordo is like that one chill unc but as your CS prof. Got an A and learned a lot from the projects. 10/10
+---
+Course: CSE330
+Date: Dec 14th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B-
+Textbook: N/A
+Tags: TOUGH GRADER, EXTRA CREDIT
+Comment: Even if u study everything, the tests will still kick your a55. best u can do is study the learning materials provided. midterm avg was 53%, you will need to complete the projects so u dont fail. instructions are sufficient to do the projects, no need to use outside sources. projects are 47.5%, tests are 23.75% each, and 5% extra credit.
+---
+Course: CSE340
+Date: Dec 14th, 2024
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: Yes
+Tags: GRADED BY FEW THINGS
+Comment: Quite possibly the most disorganized prof I've ever seen. lectures covered fractions of what we needed to know. projects require a lot of work, but they're doable. he did not announce the date of the final until the day before the final, this is not a joke. If u want a good grade, start everything early. class difficulty is 3, prof makes it a 4.
+---
+Course: CSE240
+Date: Dec 12th, 2024
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: TEST HEAVY, GRADED BY FEW THINGS
+Comment: I strongly advise avoiding this professor if you want to learn anything CompSci related. Everything that he teaches is readily available online and by the first few weeks, you realize how pointless the lectures are. You could graduate from ASU in CompSci taking only taking classes from Gordon and learn nothing. Truly the Gordon Pipeline.
+---
+Course: CSE240
+Date: Dec 12th, 2024
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, CARING
+Comment: He is a great guy but just wasn't confident in the curriculum. Some changes were made to the structure and content of the class, so it's understandable. He is very nice. His projects are still very easy. He just doesn't know how to teach languages. You self-teach yourself most of the time. Otherwise, its easy to get an A.
+---
+Course: CSE240
+Date: Dec 10th, 2024
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: HILARIOUS, CARING, RESPECTED
+Comment: Gordon really made CS enjoyable. Attendance isn't mandatory but being in class helps with the quizzes and the projects. He will go through the projects in class to help you. I personally recommend him for CSE 240.
+---
+Course: CSE330
+Date: Dec 9th, 2024
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: Although the extensions are nice, there is not much being taught in order to complete projects FULLY. Manifesting I pass this class...I WILL PASS THIS CLASS...Seems like a nice guy, honestly only professor that isn't scary to go up to after lectures. Hopefully he curves at the end.
+---
+Course: CSE330
+Date: Dec 8th, 2024
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: INSPIRATIONAL
+Comment: genuinely the worst professor in university, the CS department actually needs to fire him. He teaches nothing, assigns nothing, tells us nothing, and responds to nothing, however the tests and projects are now standardized for all 330 professors, so you're taking the same difficult course with 0 of the instruction. turned the whole dept into a joke
+---
+Course: CSE330
+Date: Dec 8th, 2024
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: He is very disorganized and I barely learned anything from his class. Everything he teaches can be 100% self-taught online. He also ignored an excused email sponsored by the University that prevented me from completing my project, which I ended up having to take a 20% on.
+---
+Course: CSE240
+Date: Dec 5th, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: mfw i finally get the files 12 DAYS LATER to finish a big project about as important as the final, but they aren't even what's given in the project description
+---
+Course: CSE330
+Date: Nov 10th, 2024
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GRADED BY FEW THINGS
+Comment: gordon singlehandedly keeping me in cs 🐐🐐🐐🐐
+---
+Course: CSE340
+Date: Sep 9th, 2024
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS
+Comment: Definitely easier than other professors, but didn't learn much from lectures. Projects still have some difficulty. He made the trifecta doable.
+---
+Course: CSE330
+Date: Jul 16th, 2024
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: He represents the heart and soul of CS at ASU. Nobody does it like him. He embodies what ever ASU Professor strives to be.
+---
+Course: CSE340
+Date: May 11th, 2024
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, GRADED BY FEW THINGS
+Comment: Take this professor if you want the grade, not necessarily the knowledge because you really won't learn with him. Tests were very easy, projects (2 done in pairs and 1 done individually) were more on the difficult side but still doable. I'll take a Gordon class every semester just because he does not care enough to fail his students.
+---
+Course: CSE340
+Date: May 9th, 2024
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, CARING, GRADED BY FEW THINGS
+Comment: Exams and the grading of homeworks are very generous, so I would focus on the projects; make sure to start early, as the class has few graded assignments; they are a very fair difficulty though. Lectures are of generally poor quality. Despite this, I would recommend attending, as Gordon is probably the kindest and most understanding CS professor.
+---
+Course: CSE330
+Date: May 9th, 2024
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: EXTRA CREDIT, INSPIRATIONAL, CARING
+Comment: Gordon is a really nice and down to earth guy who really does care about the students he teaches but unfortunately his CSE330 course lacks any rigor or difficulty at all and at the end I don't think I learned all that much.
+---
+Course: CSE330
+Date: May 6th, 2024
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, GRADED BY FEW THINGS
+Comment: There's not much to say about Gordon. People take this class because they want an easy A. You won't learn much, and what you do learn won't stick with you. His CSE330 class was somewhat interesting; 3 projects, 2 exams. Projects are basically on your own. Group work but you can work solo.
+---
+Course: CSE340
+Date: May 3rd, 2024
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, CARING, GRADED BY FEW THINGS
+Comment: Took him for 330, now for 340. He knows what he's talking about, and he seems to really care about interacting with the class, instead of just mindlessly lecturing. He gives a lot of advice about the real world of CS. Lectures could use a bit more details, but they are not bad. Projects are worth 60% (20%/ea), fin/mt are 15%/ea, rest is hw + EC
+---
+Course: CSE330
+Date: May 1st, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GROUP PROJECTS, HILARIOUS, CARING
+Comment: Goated professor. Prioritizes students wellbeing over force feeding unnecessary difficult material, gives clear test reviews, and extends projects whenever there is a need for it. Overall just an awesome guy who does education right. Projects can be a little tough, but there are so many resources for help. Take this guy!
+---
+Course: CSE340
+Date: Apr 28th, 2024
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA, GRADED BY FEW THINGS
+Comment: Class is 2 Homeworks, 3 Projects, and Midterm/Final.. Projects are grouped(if you choose) and take a while but aren't unreasonable. Every project is graded on Gradescope with test cases so you know what your score is. Exams aren't too bad and follow the homework and lectures. Gordon's a cool guy too, easy to chat with and wants you to succeed.
+---
+Course: CSE340
+Date: Apr 26th, 2024
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Comment: Gordon is very chill professor. He makes this class less stressful which I like. Always start early on the big projects. Occasionally extends project due dates. Would take him again.
+---
+Course: CSE340
+Date: Apr 24th, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, HILARIOUS, CARING
+Comment: extended each project like 3 times. THATS WHY HE'S THE GOAT! THE GOAT!!!
+---
+Course: CSE330
+Date: Apr 23rd, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: GORDON IS AN ANGEL SENT FROM HEAVEN I can't recommend him enough!!!
+---
+Course: CSE340
+Date: Apr 23rd, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: Professor Gordon is amazing!! He is one of the few very kind Professors who genuinely cares about their students; he goes the extra mile by extending deadlines and offering support. Projects (2 group, 1 individ) can be hard but they are very rewarding, and with Gordon there is no reason to receive a low grade/not learn. Take him for anything u can!
+---
+Course: CSE340
+Date: Apr 18th, 2024
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, CLEAR GRADING CRITERIA, RESPECTED
+Comment: I love Gordon as my professor. Unlike many others at ASU, it is always clear what is expected from me. The expectations are always resonable and fit the class level. His lectures are pretty good but the material he provides is very helpfull and if you take notes on his lectures they will also be very helpfull.
+---
+Course: CSE330
+Date: Apr 18th, 2024
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: I normally don't bother with reviews on here but Gordon deserves it. Best Professor I have had for a CS course. Lots of extra credit, good exam reviews, lots of time on projects, and very understanding. Other Professors need to take notes. Get this man promoted ASAP.
+---
+Course: CSE340
+Date: Mar 19th, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, CARING
+Comment: Best 340 professor there is, trust me, I've taken all of them. He cares about his students a lot. I wish more professors were like him. The projects are tough but he makes it so everyone has an opportunity to finish them. Lots of opportunity for extra credit!
+---
+Course: CSE330
+Date: Mar 4th, 2024
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: HILARIOUS
+Comment: He is GOAT Gordon. Take him for CSE 330, you will never regret it. Gives clear study guides for exams. Once received an email back from him, I framed it in my room. GOAT
+---
+Course: CSE330
+Date: Feb 25th, 2024
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, GRADED BY FEW THINGS
+Comment: 3 projects. All available to be done in groups of up to 4 people and can be done solo if u want (don't do it alone). The 3 projects consist of 50% of the grade, and midterm and final are 50%. Midterm and final are open note. Recitations are also extra credit. Very Nice guy!
+---
+Course: CSE340
+Date: Feb 25th, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, GRADED BY FEW THINGS
+Comment: 3 projects, 2 HW, 2 exams. A lot easier than Bazzi and any other professor honestly. This course is rough and takes time, however he gives lots of opportunities for extra credit (including in projects) and his grading is a lot easier than the rest. Very nice guy. Recitation attendance is extra credit too.
+---
+Course: CSE330
+Date: Jan 31st, 2024
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: I just felt like my tuition is wasted.
+---
+Course: CSE330
+Date: Jan 28th, 2024
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, HILARIOUS
+Comment: Group projects made up the bulk of the class in which - you don't really learn from him. Start early on those and you should be good for the most part. What actually saved us this semester was him removing proctoring for our exams, that's what pushed his rating from a 1 to a 2. Chill guy but a lazy professor ngl.
+---
+Course: CSE240
+Date: Dec 19th, 2023
+Quality: 2.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: CARING, GRADED BY FEW THINGS
+Comment: If you feel confident in your coding skills and want to focus on other classes take him. If you are barely learning as you go as I was then don't. He just reads off the slides and lectures are so boring. He cares about his students but I genuinely believe he doesn't even know how to really code. Only take him if the other professor are worse.
+---
+Course: CSE240
+Date: Dec 17th, 2023
+Quality: 2.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GRADED BY FEW THINGS
+Comment: Legend has it that Gordon is a great upper div. prof., but for 240 he was not. I kid you not, this dude has 3 IDEs on his computer and chooses to handwrite code in MS Paint. He ends 5-45 mins early, and changes the class grading structure on the fly. He's kind, but also lazy. I like that he writes "Don't email me" on his syllabus though.
+---
+Course: CSE330
+Date: Dec 12th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, CARING
+Comment: Dr. Gordon shows that he cares about his student's well-being. He made the class bearable for those afraid of taking one of the more challenging courses in the major. Though his lectures tend to be a bit dry, he provides supplemental videos to review and better understand the material. Overall, I am happy about taking this class.
+---
+Course: CSE240
+Date: Dec 11th, 2023
+Quality: 2.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: He'll eventually give you the A/A+, but not before he first gives you a heart attack by mis-grading half of the tests/assignments.
+---
+Course: CSE340
+Date: Dec 8th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: B-
+Textbook: N/A
+Tags: EXTRA CREDIT, HILARIOUS, CARING
+Comment: He is great, and cares about students a lot. Compared to other professors, he does his best to make the student comfortable and confident in the course material. Projects are tough but doable with good partner and time management. Overall a great professor for the trifecta!
+---
+Course: CSE330
+Date: Dec 7th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA, CARING, GRADED BY FEW THINGS
+Comment: gordon is the goat professor. few assignments so just make sure you do good on all of them.
+---
+Course: CSE330
+Date: Dec 7th, 2023
+Quality: 2.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: One of the most disorganized and unprepared professors I've seen with the only silver lining is that Gordon knows that as well and doesn't penalize you for his inadequacy. Don't take Gordon if you really want to learn, if you want an easy A then go ahead and take him.
+---
+Course: CSE330
+Date: Dec 7th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, CARING
+Comment: I was quite nervous taking the trifecta classes. But, after taking this class with Professor Gordon, I was not so scared at all. It was just all in my head. He grades on a few things and gives extra credit if you complete assignments early enough. Exam reviews are super helpful.
+---
+Course: CSE340
+Date: Dec 7th, 2023
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: Gordon is a cool guy, tests were easy, assignments were easy, projects were kinda rough but not terrible, just time consuming
+---
+Course: CSE330
+Date: Dec 7th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, INSPIRATIONAL, HILARIOUS
+Comment: Professor Gordon is a wonderful teacher, who understands his students and makes sure to help them with whatever problem they might have. It was a pleasure to have him as my professor and I would definitely take him again!
+---
+Course: CSE340
+Date: Dec 6th, 2023
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, EXTRA CREDIT, GROUP PROJECTS
+Comment: Gordon is a very nice and kind man. He could use some well prepared slides for his lectures and a plan for presenting them that he sticks to. He prefers to be like jazz, free form and untameable. Assignments were similar to Bazzi assignments but with not quite the crazy level of difficulty. Definitely need to start them EARLY. Exams were HW based.
+---
+Course: CSE330
+Date: Dec 6th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, CARING, GRADED BY FEW THINGS
+Comment: best teacher take him
+---
+Course: CSE240
+Date: Dec 6th, 2023
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Tags: EXTRA CREDIT, GRADED BY FEW THINGS
+Comment: This was a pretty easy class--there were only 4 assignments accompanied by the midterm and final so if you do poorly on even one of those things it could prove to be a devastating blow to your grade. Otherwise, he's a nice professor and is personable in and outside of the classroom. His lectures are a little unorganized and shallow.
+---
+Course: CSE340
+Date: Dec 5th, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, GRADED BY FEW THINGS
+Comment: Although the projects are quite time consuming, there is plenty of time to finish, and the grading can be lenient at times. The tests are also mild in comparison to other CS classes at ASU. Overall Gordon makes this class very approachable while also requiring significant work.
+---
+Course: CSE340
+Date: Dec 4th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Tags: EXTRA CREDIT, CARING
+Comment: The class in general is very difficult. This is a project heavy class. But the professor is very nice. One good thing about the professor is that you can partner up in first two projects which is very helpful. The test and homeworks are not that difficult and would get a good grade if you study the provided materials properly.
+---
+Course: CSE340
+Date: Dec 4th, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: N/A
+Comment: Good professor, if you go to the lectures you will do fine for the most part. Make sure to start on the projects early! Biggest regret of mine lol.
+---
+Course: CSE340
+Date: Dec 4th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS
+Comment: Great professor. I would recommend taking this class for CSE 340. The homework assignments and projects are great for understanding the concepts. The TAs on discord are also really helpful.
+---
+Course: CSE340
+Date: Dec 4th, 2023
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, ACCESSIBLE OUTSIDE CLASS
+Comment: This class is not easy. I made the sacrifice to go to lectures, office-hours, recitations score the extra-credit, spend more than the recommended time to get that A+. The professor himself truly makes an effort despite most students not taking it seriously. He tries his best at his job for a bunch of students that don't know how to shower.
+---
+Course: CSE240
+Date: Dec 3rd, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Tags: GIVES GOOD FEEDBACK, CARING, GRADED BY FEW THINGS
+Comment: Overall great professor. If you are debating between different professors, I recommend taking him. The workload was not heavy at all and the assignments themselves weren't too crazy. He's a nice guy as well and was very understanding throughout the semester. Wouldn't hesitate to extend due dates if the class expressed their opinion on it.
+---
+Course: CSE340
+Date: Dec 2nd, 2023
+Quality: 2.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: Attention everyone who reads reviews made in December 2023: do not be fooled. Professor Gordon has offered extra credit to students who "leave a nice review on rate my professor". Professor Gordon's lectures are not worth going to because he is always unprepared. Watch Doupe's lecture videos on YouTube instead and START EARLY ON PROJECTS.
+---
+Course: CSE340
+Date: Dec 2nd, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, LOTS OF HOMEWORK
+Comment: Although the lectures are monotonous, the homework and projects are a great way to understand the concepts. Also, the TA carried this class and was always available to clear my doubts. The exams and homeworks were easy and the projects were interesting.
+---
+Course: CSE340
+Date: Dec 2nd, 2023
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, GRADED BY FEW THINGS
+Comment: He's great with the help of TAs. Offer's a lot of extra credit opportunities, projects are loooong but if the class is collectively asking for an extension then he will extend it.
+---
+Course: CSE340
+Date: Dec 2nd, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: EXTRA CREDIT, INSPIRATIONAL, CARING
+Comment: One of the best professors at ASU in my opinion, gave lots of extra credit and let us work in groups for two of the projects. The homework and exams are not too difficult. The TA also did a great job and was very helpful :)
+---
+Course: CSE340
+Date: Dec 2nd, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: Yes
+Tags: EXTRA CREDIT, GROUP PROJECTS, TEST HEAVY
+Comment: Overall, awesome teacher. Provides the help needed if you attend his recitations and if you ask for help. Not guaranteed, but does a good job at giving a lot of extra credit on work that students either submit early or worked hard on. Speaking on that, the professor provides a lot of timely manner for individual/group projects. Advice: Start Early
+---
+Course: CSE340
+Date: Dec 2nd, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Comment: Commissioner Gordon is a very nice professor and person. He clearly cares about his students and their grades, extending due dates and offering EC at many points throughout the semester to those who need it. I hope I am lucky enough to get to take a class taught by Gordon again.
+---
+Course: CSE340
+Date: Dec 2nd, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS
+Comment: Tests are very reasonable and there is a lot of support for the projects he assigned. He spaces assignments out very well, making the class managable.
+---
+Course: CSE340
+Date: Dec 2nd, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: AMAZING LECTURES, INSPIRATIONAL, CARING
+Comment: Tyler from Discord is an amazing professor. He's a great lecturer and really cares about his students as you can see on the class server. His ability to clearly explain complex concepts makes learning both enjoyable and effective. He's always ready to offer extra help through Discord, ensuring that no student feels left behind.
+---
+Course: CSE330
+Date: Dec 1st, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: GROUP PROJECTS, GIVES GOOD FEEDBACK, CARING
+Comment: Professor Gordon is very open to discussions. I find his lectures interesting and the use of lecture videos are helpful for visual learners. It is a bit difficult to take notes and a lot of things will require you to do your own research to get a greater understanding. The exams are good and helps with understanding the topics.
+---
+Course: CSE330
+Date: Dec 1st, 2023
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GROUP PROJECTS, AMAZING LECTURES, RESPECTED
+Comment: Is a caring professor, open for questions and would recommend his class.
+---
+Course: CSE330
+Date: Dec 1st, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: GOOD professor, would recommend to take for this course.
+---
+Course: CSE330
+Date: Dec 1st, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Very Caring Professor is ready to help students and is open for questions, is accessible outside the class, would recommend to take this course with him.
+---
+Course: CSE330
+Date: Dec 1st, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, ACCESSIBLE OUTSIDE CLASS
+Comment: Good Professor, is very accessible outside the class, open for questions and helpful.
+---
+Course: CSE240
+Date: Nov 30th, 2023
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Tags: EXTRA CREDIT
+Comment: Easy A but I didn't learn much
+---
+Course: CSE330
+Date: Nov 3rd, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, AMAZING LECTURES, ONLINE SAVVY
+Comment: Professor Gordon is the second coming of Banerjee. If you start the projects early, easy 100%. Go to lectures and watch the videos and the test will not be bad. If you don't want to waste time with this class take Gordon. No HW all test/projects. Professor Gordon leaves an indelible mark on both his field and the minds he influences.
+---
+Course: CSE330
+Date: Nov 3rd, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, TEST HEAVY
+Comment: Professor Gordon of ASU, often hailed as the greatest of all time. He is a remarkable educator. Go to class, start projects early, watch the videos and secure the A. Tests are not to bad. Take the G himself.
+---
+Course: N/A
+Date: Oct 13th, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: N/A
+Tags: GROUP PROJECTS, CLEAR GRADING CRITERIA, CARING
+Comment: I understand why this professor has received alot of hate. I do understand that there is alot of material and the managers/directors at ASU have been stepping over boundaries each year more and more, getting more obnoxious. What sets this professor apart from others is the fact that one can tell is that he cares about the students in his class.amen
+---
+Course: CSE340
+Date: Jul 31st, 2023
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Comment: I do not think he is a good professor.
+---
+Course: CSE340
+Date: May 18th, 2023
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GRADED BY FEW THINGS
+Comment: Gordon made the class very straightforward in terms of projects and exams with how many resources we were given, but his lectures were almost entirely not worth going to. He often seemed confused as if he was learning alongside us and so although it was an easy experience, I probably wouldn't want to have him again.
+---
+Course: CSE340
+Date: May 16th, 2023
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Prof Gordon is a really personable guy who cares about the success of his students. I liked him. With that, it was only his 2nd semester teaching the class and there were times I felt the lecture hadn't covered the breadth of material. He made the tests more forgiving, with the projects being more tough. If that sounds good to you, I recommend!
+---
+Course: CSE340
+Date: May 10th, 2023
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, HILARIOUS, CARING
+Comment: Professor Gordon is really nice but he makes no effort to teach the material let alone learn it. A student, not a TA, was lecturing for him. The most difficult part of this class was the projects, but they're very doable if you start early and you can get extra credit for finishing them early. The tests were all easy and mostly given beforehand.
+---
+Course: CSE340
+Date: May 9th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Make sure to start the projects early. The projects really dictate your performance in the class and the professor will try and help you, and make sure to attend recitations every week so you can get feedback on the course material and projects.
+---
+Course: CSE340
+Date: May 4th, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Tags: GRADED BY FEW THINGS
+Comment: Start early on projects and you should be good, tests were fairly straightforward, and were told the usually only 5 topics that would be on the exam.
+---
+Course: CSE340
+Date: May 3rd, 2023
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Tags: GROUP PROJECTS, CARING
+Comment: 3 Projects: Start early. TAs! Tons of extra credit, worked with partner. 2 HW, Midterm, Final gave a lot of resources to do well, read his pptxs. He can improve by keeping lectures engaging, giving clearer answers, more organization. He's teaching a lot of sections and is new, but is very caring. Have some empathy. The class was doable.
+---
+Course: CSE340
+Date: May 3rd, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Tags: GIVES GOOD FEEDBACK, INSPIRATIONAL, ACCESSIBLE OUTSIDE CLASS
+Comment: This course was absolutely incredible, and Gordon is a true gem among educators. His passion for the subject is infectious, and it truly inspired me deeper into the material. He presented the concepts was engaging and easy to understand, and everyone felt supported throughout the class. I can't recommend this course enough, would take again.
+---
+Course: CSE340
+Date: May 2nd, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Comment: This class was fantastic and Mr. Gordon is an exceptional instructor, his aspiration and innovation sparks so much ambition for the subject he's teaching. Would definitely recommend again, 150/100, been an honor Comish. o7
+---
+Course: CSE340
+Date: May 2nd, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, HILARIOUS, LECTURE HEAVY
+Comment: Dr. Gordon can be a little hard to understand sometimes but he is super nice and cares about his students. Is willing to go the extra mile to help and understand a student's situation. This course is already super hard and Dr. Gordon really tries his best to make it easy to pass. I really appreciate him and would definitely take him again.
+---
+Course: CSE330
+Date: May 2nd, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GROUP PROJECTS, CARING
+Comment: Professor Gordon is probably my favorite professor this semester. Yes the projects in this class are difficult but he gives a large time period to finish them and even dedicates multiple class times to work on them with him and other classmates. He's also one of the only professors who actually gives useful info about exams & is just genuinely nice
+---
+Course: CSE340
+Date: Apr 30th, 2023
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GET READY TO READ
+Comment: Learning from Gordon is like learning how to swim from a newborn. He had other students give lectures, couldn't do a lot of the lectures, and some weeks would just be working on homework in class rather than learning useful stuff. Not really sure if it's possible to get lower than an A with him but you won't learn anything in the process.
+---
+Course: CSE340
+Date: Apr 10th, 2023
+Quality: 1.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Comment: I don't know how else to say this. Taking a class with Gordon is like learning to drive a car from someone who has never seen a car in their life. They have no idea what it is or what it is does but they trying to convince you they know what they are doing while getting into the trunk of the car and telling you this is how you drive it. Stay away!
+---
+Course: CSE240
+Date: Nov 28th, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, BEWARE OF POP QUIZZES
+Comment: This guy is amazing! Free A with great lectures
+---
+Course: CSE240
+Date: Nov 26th, 2022
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Comment: Idk what's up with him. He is a great person but he doesnt teach. He reads through the textbook and barely does any coding. He wud say he will upload a file after class but will never do it. He quizes us and gives HWs on contents he hasnt taught in class yet. If you want someone who will teach, then dont take him. Its all self-learning with him.
+---
+Course: CSE240
+Date: Nov 14th, 2022
+Quality: 2.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA, RESPECTED, LECTURE HEAVY
+Comment: He is a great guy, don't get me wrong, but he doesn't teach. He copied slides from another prof, and just reads off of them. If your goal is to get an A and learn nothing take him. If you want to learn stay away
+---

@@ -1,0 +1,1160 @@
+Professor: Ruben Acuna
+Department: CSE
+Overall Rating: 2.6/5
+Would Take Again: 39%
+Total Reviews: 106
+========================================
+
+Course: SER222
+Date: May 28th, 2026
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: D
+Textbook: Yes
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, LOTS OF HOMEWORK
+Comment: This guy entered an entire semesters worth of grades after we took the final. Good luck knowing what your grade is during the semester.
+---
+Course: N/A
+Date: Dec 2nd, 2025
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: I had the online course with only his videos as instruction and it was an absolute pain to watch them. he mumbles so often that even subtitles can't catch what he says. he makes too many mistakes... tbh it's actually insane to be learning material from someone who can't even get it right. this is not quality education
+---
+Course: SER222
+Date: Dec 1st, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: N/A
+Tags: LOTS OF HOMEWORK, LECTURE HEAVY, TEST HEAVY
+Comment: Projects and Exams don't match lectures. Review exam is given but reviews the topics that won't be on the exam. Would not take again but unfortunately a lot of the other professors use his material. Only professor I've had this problem with. Repeatedly cried myself to sleep wishing I wouldn't wake up because of this professor. Stay far away.
+---
+Course: N/A
+Date: Nov 28th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, TEST HEAVY
+Comment: Ruben Acuna has the worst video lectures of any instructor I have taken, regardless of the class he teaches(I've had him multiple times). He doesn't give enough information in his lectures to complete the work, and you will end up finding better instructors on YT. ASU Would be better off redoing all the courses he has instructed. Nice guy though.
+---
+Course: SER222
+Date: May 6th, 2025
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Tags: TOUGH GRADER, CLEAR GRADING CRITERIA, LOTS OF HOMEWORK
+Comment: I failed the first time I took him, but I honestly can't blame him for it. He knows his stuff and the standards are understandable that he's holding you to. Very accessible outside of class on Slack and even with stuff not directly 222 related. Just be prepared for random tangents between slide decks, its a roulette on what you get in those cases
+---
+Course: N/A
+Date: Mar 21st, 2025
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: Like others have said, this man was not my direct professor but he was the recorded lectures for everything. He stutters, mumbles, uses "right" or "like" ever other word, his handwriting is atrocious. The lecture videos are over 6 years old and yet the school continues to use them even though they are poor quality in terms of teaching.
+---
+Course: N/A
+Date: Feb 20th, 2025
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: While he wasn't technically the professor of the course, he might as well have been considering how much of the curriculum relies on pre-recorded lectures by either him or the other guy. I've had to start using post-it notes because this man's upper lip NEVER moves and he looks practically toothless. He also mumbles. It's a no from me.
+---
+Course: N/A
+Date: Feb 12th, 2025
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Comment: SER222 is a challenging but rewarding course. Lectures can be hit-or-miss, but the professor is knowledgeable and helpful on Slack. Stay on top of the assignments and make use of unstuckstudy and other resources to succeed.
+---
+Course: N/A
+Date: Jan 19th, 2025
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, LECTURE HEAVY, TEST HEAVY
+Comment: His grading is fair and explanations for missed questions are usually helpful. However, the slides are extremely wordy and disorganized. He rambles a lot in his videos and stretches content out way longer than it needs to be. His assignment instructions are also just as lengthy. If he were to work on his conciseness, he would be a great professor.
+---
+Course: SER494
+Date: Oct 2nd, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, GRADED BY FEW THINGS
+Comment: Acuña's data science course is just as unclear and difficult as all of his other ones. Lecture material is decent, but you are pretty much completely on your own for the homework. Vague criteria and a lot of self-research. I wouldn't recommend taking any of Acuña's courses.
+---
+Course: N/A
+Date: Sep 3rd, 2024
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: TOUGH GRADER, CARING
+Comment: Acuna is a nice person, but his skills as an educator need work. This class is one big test and there is no real fostering of learning. The lectures and assignments feel like they are from very different courses. The cairns are a waste. No pratical practice problems to deepen understanding. Folks like me who succeeded already knew material.
+---
+Course: N/A
+Date: Apr 28th, 2024
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, HILARIOUS, TEST HEAVY
+Comment: Overall, this class covers a lot of algorithms and goes very fast. However, if you watch the lectures and pay attention to the textbook implementations and Java Docs, you should have no issue making 100s on all the assignments. The exams are a bit harder as you must apply what you learned but as long as you understand it you should be good!
+---
+Course: SER222
+Date: Apr 22nd, 2024
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B-
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: Easily one of the most difficult courses in the program. Cool guy, decent professor. It's clear Acuna has incredible knowledge on the subject matter, but lectures prove mostly ineffective and often times you're left to rely on outside resources. Expect many challenging assignments, difficult tests, and tough grading.
+---
+Course: N/A
+Date: Feb 20th, 2024
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, CARING, LECTURE HEAVY
+Comment: This course is a lot better than others in the department. The programming assignments aren't the best and there is a lot of lectures/homework. However, Ruben does a great job at breaking the lectures down into manageable videos instead of just dumping hour long lectures on you. He was helpful and friendly on Slack. Overall a good class experience
+---
+Course: N/A
+Date: Jan 12th, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Tags: HILARIOUS
+Comment: Difficult course, but great professor.
+---
+Course: SER222
+Date: Jan 11th, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: SER222 gives a good overview of algorithmic basics and the homeworks force you to actually understand the concepts properly. Acuna's tests are some of the hardest in the SE program, if you don't *really* know a concept, you will stumble on them. Make sure to pay attention in class and study your notes hard.
+---
+Course: SER494
+Date: Jan 11th, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: PARTICIPATION MATTERS, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: SER494 is a class of Acuna's own making. It is one of the most valuable classes I've taken in the undergrad SE program at Poly, because it teaches how to actually apply data science in a practical context. However, get ready to do a lot of work to keep up; this is no easy A class.
+---
+Course: SER334
+Date: Nov 29th, 2023
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, BEWARE OF POP QUIZZES
+Comment: The class environment of 334 is painful. The material is poorly organized. The slides are constructed in such a way as to hide information. Assignment instructions are unclear and misleading. I was really disappointed.
+---
+Course: SER222
+Date: Nov 29th, 2023
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: He mumbles and is very hard to understand. The homewprk is left with little to no guidance, which makes it hard for students who cant attend student hours. No review days for tests, and no guidance either. Nothing makes sense but everyone will act like it does
+---
+Course: SER594D
+Date: Nov 27th, 2023
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: Get ready work like anything if you are going to take his lectures! I specifically singed up on this website to write about him! he has so thick accent that I wasn't able to understand single word he says in his lecture and speaks so fast he will give so many assignments and IN-CLASS ACTIVITIES. worst professor I've ever had so far!!
+---
+Course: N/A
+Date: Oct 11th, 2023
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, GIVES GOOD FEEDBACK, LOTS OF HOMEWORK
+Comment: Acuna is a solid professor. His lectures are made by him and most are directly relevant to the homeworks and programming projects. The textbook is useful and contains meaningful code examples that aid students along the way. Acuna is active on slack for questions, has office hours, TAs, and supplemental instruction sessions. Take advantage of them.
+---
+Course: CSE240
+Date: Aug 23rd, 2023
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: Homework is extremely messy and disorganized. Oftentimes homework had subject matter that was never covered in any lecture. Lectures we're way too verbose and longer than necessary.
+---
+Course: SER322
+Date: Feb 24th, 2023
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: The only professor that manages to use the word "right", "basically" and other filler words several hundred times in every lecture.
+---
+Course: N/A
+Date: Feb 20th, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA
+Comment: Hard-ish course, but he has good lectures and a well organized course structure. Some of the questions were unclear, but as a whole the quality of this class was miles ahead of most others. He's quite engaged for an online course and active in slack. Textbook readings optional.
+---
+Course: N/A
+Date: Feb 15th, 2023
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B-
+Textbook: Yes
+Comment: No practical experience. The course based on the book from Princeton is more detailed and more informational than this.
+---
+Course: SER598
+Date: Feb 6th, 2023
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: N/A
+Comment: He asked the entire class to multiply a continuous feature with a categorical feature for an algorithm. It is a blunder in the field of Data Science. He himself has no idea on what he wants to teach. He simply reads out the lecture slides on linear regression and asks the students to do web scraper assignment. Would not recommend any of his course
+---
+Course: SER222
+Date: Jan 9th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, INSPIRATIONAL, CARING
+Comment: I really enjoyed my time in this class, while the material was hard Acuna really showed that he cared about the students understanding and learning over all else. He focused on real-world problems and skills, the assignments are challenging but possible.
+---
+Course: SER222
+Date: Oct 14th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: Smart dude with a world-class understanding of computer science, but he's an ineffective professor with zero real-world engineering experience. His quizzes and exams are idiosyncratic, so you're forced to watch his circumlocutory videos. If you can, audit Princeton's Algorithms courses on Coursera. Same book and content, but better explanations.
+---
+Course: N/A
+Date: Oct 12th, 2022
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: He's an engineer. If you know the type you know. Comes off as condescending sometimes, but he's not trying to be. He just doesn't have a good grasp or capability of explaining a concept which seems simple to him in a way that makes sense to others. So the majority of his lectures are him rambling. He's in grad school so not available as much
+---
+Course: N/A
+Date: Oct 12th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, CARING
+Comment: I've had nearly a dozen different software engineering professors now, and Ruben Acuna is easily the best I've had. I found his lectures to be the easiest to listen to and engage with. I also think that his way of explaining concepts is straight to the point and easy to grasp.
+---
+Course: N/A
+Date: Jul 30th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, ONLINE SAVVY
+Comment: Acuna is a smart man and is very passionate about his studies - this does not translate to being a great teacher. My class was 8 weeks in length with 2 HW assignments and a lab due every week, as well as ~30 lecture videos per chapter (every week) that were 15+ minutes long. DO NOT take this class if you are not already an advanced Java coder.
+---
+Course: N/A
+Date: Jun 3rd, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: CARING, LECTURE HEAVY, ACCESSIBLE OUTSIDE CLASS
+Comment: Professor Acuna truly cares about his students and makes himself extremely available to students if they have questions or feedback. Though his tests are hard & abstract, in the end they make you a better programmer with a deeper understanding. My only complaint is the length of lectures since he goes a bit off topic at times.
+---
+Course: CSE222
+Date: May 4th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, TEST HEAVY
+Comment: I really want to give Mr. Acuna a good rating but his attitude and professionalism is sub par. There isn't any point to watching his lectures and they do not teach you what you need to know to complete homework assignments. Also, the lectures are so dense with jargon that we clearly are not prepared for at this level. Overall horrible instruction.
+---
+Course: CSE222
+Date: Mar 28th, 2022
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, GIVES GOOD FEEDBACK, LOTS OF HOMEWORK
+Comment: Class is very hard but he answers questions and concerns well and provides resources.
+---
+Course: CSE222
+Date: Mar 4th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: Among the more insufferable professors in the program. Lectures are extremely unclear (read the textbooks instead). Projects are vague. Written work is frustrating. Tests are alright. TAs are the ones teaching the class. You'll spend the bulk of your semester's work load on his class
+---
+Course: N/A
+Date: Mar 3rd, 2022
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Tags: PARTICIPATION MATTERS, AMAZING LECTURES, GIVES GOOD FEEDBACK
+Comment: This is a very important class and it will be challenging. That said, Acuna is a great professor that not only takes the time to provide feedback if you are stuck on something but has some very engaging lectures. There is a lot of work involved in this course but the material is worth it and something employers look for.
+---
+Course: SER222
+Date: Mar 2nd, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Comment: I didn't know glep from smiling friends is a teacher here now.
+---
+Course: SER334
+Date: Mar 1st, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, TEST HEAVY
+Comment: I took this class again because I failed it the first time. All of the negative reviews on here are true. All of the positive reviews are deep fake.
+---
+Course: N/A
+Date: Feb 23rd, 2022
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: B
+Textbook: No
+Tags: TEST HEAVY
+Comment: It's hard. As far as Fall 2021 physical textbook cant be used during exams. I don't recall ever using it so it wasn't helpful. Really recommend going to supplemental instruction sessions. Professor is alright. Ask questions through slack. Java. Practice writing code on paper. Exams have small curves.
+---
+Course: SER334
+Date: Jan 21st, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: No
+Tags: LOTS OF HOMEWORK, SKIP CLASS? YOU WON'T PASS., TOUGH GRADER
+Comment: His job is to weed people out of the program and cause you to spend another year nd waste more money on tuition for ASU. Its sick should be illegal. Wish i could say more.. u spend 40hrs per week on this class alone and fail. evry1 fails tests, he curves up so only a certain % pass. I graduated 2015 came back here 2022 to warn you! Advice: Boycott!
+---
+Course: N/A
+Date: Nov 29th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: No
+Tags: LOTS OF HOMEWORK, SKIP CLASS? YOU WON'T PASS., LECTURE HEAVY
+Comment: Problems: The first is that he is a fast talker, and slurs words together. The second is that Mr. Acuna uses crutch words constantly, especially "right?" and "okay", and its confusing. The third is that he explains things convoluted, and puts a lot of personal experience's, and idea's into the presentation, instead of just presenting it as facts.
+---
+Course: SER334
+Date: Nov 18th, 2021
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: Yes
+Comment: Professor Acuna really does know his stuff. He is available and loves to help when he can. This class was probably the hardest class I have taken thus far and really requires a lot of work. I struggled through many parts as my teammates assigned kept dropping the class. I did come out in the end with a solid understanding of the class material.
+---
+Course: SER334
+Date: Nov 9th, 2021
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Tags: TOUGH GRADER
+Comment: Worst teacher I have ever had. Acuna does all the vids for 334 and its a handicap to all who need to use them. Clearly doesnt understand basic material and then he hides anything discussed in videos from slides, so its technically an ADA violation too. Avoid at all costs. Leaving the major because of this guy and his obsession with NOT teaching
+---
+Course: CSE240
+Date: Oct 19th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, LECTURE HEAVY, TOUGH GRADER
+Comment: I took this guy for CSE240. It was actually taught by an assistant professor but Acuna "designed the class". In general there is so much homework and trick questions on every exam that you will not do well if you do not devote literally every day to study. Acuna's courses are bad due to every question being a misleading trick to dock you points.
+---
+Course: SER222
+Date: Sep 6th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: BEWARE OF POP QUIZZES, LECTURE HEAVY, TOUGH GRADER
+Comment: Ruben goes way off topic in lectures & Is simply rude & it comes across. Anyone who doesnt know the material already he just views as stupid & dont ask for help because he will just stare at you in disgust. Never gives useful code examples & giggles while tells students stuff he doesnt cover will be homework regularly. Stay away!!! Awful
+---
+Course: N/A
+Date: Aug 12th, 2021
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: B+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, PARTICIPATION MATTERS, TOUGH GRADER
+Comment: Acuna is a great instructor and was reasonable the few times I needed to challenge a grade. The hardest part about his class were really the tests and the fact that we couldn't use scratch paper. This often made tracing through code and writing code from scratch a bit more challenging than it could have been.
+---
+Course: N/A
+Date: Apr 19th, 2021
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS, TEST HEAVY
+Comment: I like professor Acuna as a person, but not as a professor. It is really hard to understand he lectures. I am not trying to be evil, but he mumbles and the captions in the video cannot make out some of the words he says. If your option is you have to take this course for credit I would look at another college that you could transfer credit in.
+---
+Course: N/A
+Date: Apr 16th, 2021
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: Not sure yet
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: This is the first class in my software engineering path at ASU that challenged my underlying knowledge and really taught me how to code. Professor Acuna shows his deep level of knowledge around the topics and has been available on Slack throughout the whole course (note: I think he is a night owl, so don't expect responses early in the morning).
+---
+Course: SER334
+Date: Apr 12th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, TEST HEAVY, TOUGH GRADER
+Comment: I am not joking when I say that you should avoid any course designed/instructed by this professor. The only successful people in this class are either already proficient and taking classes for fun/their job or have hours of time to spend on course material. The lectures do not help you in assignments. You will research everything. No help.
+---
+Course: N/A
+Date: Apr 11th, 2021
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS, SKIP CLASS? YOU WON'T PASS.
+Comment: SER 222 in genera is a tough learning curve from other SER beginner courses. Professor Acuñas class forces you to apply your knowledge and not just know how to do very basic programming. I gave up reading the textbook because the rest of the course is so time consuming. If you plan to succeed in SER take this class seriously.
+---
+Course: N/A
+Date: Mar 24th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, GET READY TO READ, TEST HEAVY
+Comment: Only if there is no other option!!
+---
+Course: SER334
+Date: Mar 17th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: LOTS OF HOMEWORK, TEST HEAVY
+Comment: Does not teach during class time, you watch his videos on your own time. Mondays, practice problems and Weds, exercises. I'm not entirely sure why this school pays this guy to run his class like this. His homework is extremely hard, and his lectures do not even help at all. The only good thing about his class is SI Brian, who is truly the teacher.
+---
+Course: SER334
+Date: Feb 28th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: LOTS OF HOMEWORK, TEST HEAVY, TOUGH GRADER
+Comment: Decided to give him another chance after 222, big mistake. You watch his video lectures on your own time, for a non-online course..? So ridiculous. Partner exercise every week and they're hard, that if you get a good partner too. Homework, extremely difficult, has nothing to do with lectures, not even exaggerating to the slightest. Go to Tempe.
+---
+Course: N/A
+Date: Feb 3rd, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: LOTS OF HOMEWORK
+Comment: Read from book lectures, confusing and unrelated projects (which are most of your grade and very time consuming). I feel like instead of learning data structures I am being confused by an individual who doesn't know what he is doing. I had 2 technical interviews and used nothing from this class during them. Feels like ASU is straight robbing me!
+---
+Course: SER222
+Date: Dec 8th, 2020
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: RESPECTED, SKIP CLASS? YOU WON'T PASS., CLEAR GRADING CRITERIA
+Comment: Prof Acuna's knowledge really stands out. His lectures are long but thorough. He's readily accessible in office hours. He is enthusiastic, clear, and supportive on Slack. Very clear and fair grading rubric. The key to this course - you must take the time to UNDERSTAND the material. If you slack off, you will not do well in this class.
+---
+Course: N/A
+Date: Dec 6th, 2020
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: CLEAR GRADING CRITERIA, AMAZING LECTURES
+Comment: The lectures are clear and helpful, and everything needed in assignments and exams are included in the slides and lectures, so I know exactly what will be on the exams when preparing for them. The grading criteria of assignments are also very clear. He gives generous curve on every exams.
+---
+Course: SER334
+Date: Dec 5th, 2020
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, RESPECTED, LOTS OF HOMEWORK
+Comment: The best professor I have ever had. Puts great effort into his courses and it goes to show. Despite the course being a lot of work, the assignments themselves are extremely useful and beneficial to any SE major. Ruben is a very respectable person, and the effort he puts into teaching is unmatched.
+---
+Course: SER222
+Date: Dec 3rd, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Comment: He uses 'Right' after almost every sentence- this made his video lectures almost unwatchable. It feels like he is enforcing the concept rather than teaching. HW on an average take 12-16hr, Video lectures - 6 hours, quiz and short answers - average 2hr, Help videos - avg 4hr. total per week -28. exam prep 15 hr every 2 weeks. Avoid this course!!!!!
+---
+Course: SER222
+Date: Nov 29th, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: LOTS OF HOMEWORK, TOUGH GRADER
+Comment: The difference between Acuna and a middle school teacher is that the middle school teacher actually wants you to learn, and Acuna wants you to drop out of school. Homework and exams are so difficult, even when he gives extra credit, it will be on something that is even harder than his other problems. Take your money somewhere else, let money talks.
+---
+Course: SER222
+Date: Nov 28th, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: LOTS OF HOMEWORK, TEST HEAVY, TOUGH GRADER
+Comment: I like Ruben as a person, but I have to be honest to help other students. All the negative reviews are spot on. His lectures are simple, but homework and exams are extremely difficult. If you're SE major, take 222 and 334 at Tempe. It's last week before finals and we still have 1 new lesson and the hardest assignments to complete. What a shame.
+---
+Course: SER222
+Date: Nov 22nd, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, TEST HEAVY, TOUGH GRADER
+Comment: I'm really not sure how anyone rates him a thumbs up? The first 10 minutes of every class will be spent watching him pow-wow with random computer club students who walk in. The rest will be him reading off of his slide and then doing an example that never directly helps you with the assignments. Test questions are difficult and he nit picks. Awful.
+---
+Course: N/A
+Date: Nov 9th, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS., TEST HEAVY, TOUGH GRADER
+Comment: Acuna's classes are set up to make your life miserable. The grading works AGAINST you. Exams are the majority of your grade and if you miss the 2-3 programming questions on each exam you automatically fail the exam. Honestly the gap between lecture and assignment is massive. If you aren't an active dev or extremely literate in programming good luck
+---
+Course: N/A
+Date: Oct 24th, 2020
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: INSPIRATIONAL, CLEAR GRADING CRITERIA, AMAZING LECTURES
+Comment: Best engineering professor I've ever had, hands down. The lessons are expertly crafted, well defined, and are about the same amount of effort each week. He explains things very clearly and well. He's also easy-going, extremely competent, and he's going to hold you to a standard. You won't get by submitting garbage, and that's a good thing.
+---
+Course: N/A
+Date: May 9th, 2020
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS, LECTURE HEAVY
+Comment: Overall a pleasant instructor. Lots of well-built video lectures with plenty of personality. The class is pretty rapid for a 7-week course. Clear rubrics, well-structured modules, and ease of communication make it more manageable than other classes I've taken. I would definitely take a course with him again!
+---
+Course: N/A
+Date: Apr 7th, 2020
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: No
+Tags: LOTS OF HOMEWORK, TOUGH GRADER
+Comment: Ruben is absolutely awful. His class is centered around making you loose as many points as humanly possible for silly things such: having a space in your answer, or not adding a comment on a programming assignment. This wouldn't be such a bad thing if these minor things didn't take off up to 50% of your assignment's grade.
+---
+Course: SER222
+Date: Mar 10th, 2020
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS., TEST HEAVY, TOUGH GRADER
+Comment: This guy is discouraging/you will lack motivation for your future programming path. boring video lecture. am not recommend at all.
+---
+Course: N/A
+Date: Mar 8th, 2020
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: B-
+Textbook: Yes
+Tags: AMAZING LECTURES, CARING, TOUGH GRADER
+Comment: He does a great job explaining content in lectures without dragging them out and making them boring. He grades pretty tough and expects quality work. Tests allow one page of notes and is open textbook. The tests arent too bad and he curves. He personally holds a review session before each test and really makes sure everyone understands everything
+---
+Course: N/A
+Date: Feb 18th, 2020
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: C
+Textbook: Yes
+Tags: GET READY TO READ, TEST HEAVY, TOUGH GRADER
+Comment: Class began great, now I'm at the end and I can't wait for it to be over. Way too much material in such a short time, instructor expects you to know EVERYTHING by the time the exam comes around. Exams are way too heavily weighted and are extremely difficult with time limits that never seemed enough. Wouldn't take again.
+---
+Course: N/A
+Date: Feb 18th, 2020
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, TEST HEAVY, LECTURE HEAVY
+Comment: Tests are extremeley difficult. Most questions require multiple readings to answer correctly. Each test is timed harshly; I ran out of time on every test I took. Test questions are way harder than review questions, most require multiple readings to understand/answer. Each test has questions that require code writing, very difficult.
+---
+Course: N/A
+Date: Oct 10th, 2019
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: Not sure yet
+Textbook: No
+Tags: LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: I have mixed feelings about Acuna. The videos were great and the concepts were very interesting, but the lack of time and the difficulty of the assignments made the class a bit of a pain to deal with. I was rather passionate to begin with, but was dying for it to be over in the final week. Good professor, but bad class structure.
+---
+Course: N/A
+Date: Aug 5th, 2019
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, PARTICIPATION MATTERS, HILARIOUS
+Comment: Acuna is a great professor. He expects a LOT out of his students. The only critique I have is that he expects students to get these concepts as fast and as easily as he did, which is sometimes just not possible. I learned so much from this class though, this is a very important course in SER. It's tough, and a lot of work, but it's great
+---
+Course: SER334
+Date: Jul 11th, 2019
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS, TEST HEAVY
+Comment: This class is REALLY tough! He has very high standards and none of his homework/projects are 'free points'. If you take this class with the right mindset and work ethic, you'll learn a lot and do really well. I took SER222 and SER334 at the same time, while working full time (50+ hours/week) and came out with A+ in both.
+---
+Course: N/A
+Date: May 6th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, TEST HEAVY, TOUGH GRADER
+Comment: The content of this class on its own is pretty difficult, it is made even harder by the intense workload. The last 2 weeks of this class also increase your already intense workload substantially. So instead of being able to study for the finals of this and other classes, you are stuck grinding away just to keep afloat in this class. Glad its over.
+---
+Course: SER222
+Date: Apr 26th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Tags: TEST HEAVY, LECTURE HEAVY, TOUGH GRADER
+Comment: Acuna's class wouldn't be that bad if it were not for the tests which are so much harder than anything in the course. What he lectures about is 10 times more complicated on the test and he only teaches you the very basic. Avoid at all costs.
+---
+Course: SER334
+Date: Apr 11th, 2019
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., LECTURE HEAVY, TOUGH GRADER
+Comment: Lots of content condensed into one course, and everything moves at a fast pace. If you are unfamiliar with the material prior to taking this class, it is very easy to be overwhelmed, and you would often questioned yourself whether or not you actually know anything in this class.
+---
+Course: SER222
+Date: Mar 30th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: No
+Tags: LOTS OF HOMEWORK, TOUGH GRADER
+Comment: Calculus 3 is easier. Simply because there is basically no teacher. Test might as well be homework that is expected to be finished in an hour whereas the actual homework takes at least 10
+---
+Course: SER322
+Date: Feb 28th, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: LOTS OF HOMEWORK, SKIP CLASS? YOU WON'T PASS., LECTURE HEAVY
+Comment: Prof. Acuna is an excellent teacher but he will hold you to a high standard and you will have to put in actual effort to get a good grade. The homework assignments are relatively large and will take time. There are in class activities almost every other class. Tests are curved, lowest activities are dropped. Spend the time and you will learn alot.
+---
+Course: SER222
+Date: Feb 28th, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, HILARIOUS
+Comment: He was a great teacher, really helps you understand the concepts of different algorithms. Definitely would take his class again.
+---
+Course: SER334
+Date: Feb 28th, 2019
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, LOTS OF HOMEWORK, TEST HEAVY
+Comment: This class is definitely not easy and would probably be the class you have to spend the most time working on. Since there is so much content that is covered Prof. Acuna provides video lectures to be watched out of class so that class time can be spent running through examples. Tests have curves and lowest activities are dropped. Excellent teacher.
+---
+Course: SER334
+Date: Feb 28th, 2019
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: LOTS OF HOMEWORK, TEST HEAVY, HILARIOUS
+Comment: He was a great teacher. He explained concepts very well. He talks super fast, but you get used to that. The class is really hard, but that's not his fault, there's just a lot to learn. He gives a lot of video lectures to watch
+---
+Course: SER334
+Date: Dec 16th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: Makes everything as difficult as possible. Doesn't know how to teach any of the material directly so you must teach yourself. Taking a class with Ruben is torture.
+---
+Course: SER334
+Date: Dec 12th, 2018
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: TOUGH GRADER, RESPECTED, GET READY TO READ
+Comment: Great professor. Based on the nature of operating system, you can't expect it to be easy, otherwise you will learn nothing. Be prepare to read the book chapter by chapter if you need better understanding. This class will help you lot later in your career. Three exam, about 5 programming assignments and practice quiz after each chapter.
+---
+Course: N/A
+Date: Dec 10th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, TEST HEAVY
+Comment: You need to be best friends with the TA if you want to stand a chance. Lectures are confusing, assignments are unclear, example code is deprecated, and tests are hard to finish in the allotted time. Expect 30+ hours a week for this class in an online setting.
+---
+Course: N/A
+Date: Nov 10th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: C
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK
+Comment: You constantly feel like you do not understand anything in his class when you get to the homework. Assignments and questions are not clearly defined and often contain errors. If you are familiar with the topics already then expect to spend 18 hours a week on this class but if you are trying to learn it 30+. He expects you to read between the lines.
+---
+Course: SER334
+Date: Oct 25th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Tags: TOUGH GRADER, SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK
+Comment: Here we go yet again another semester with Acuna. We're expected to figure out everything in our own with no resources linked. Hours on hours of weekly work where somehow you come out still feeling like you don't know anything. If you have experience in these areas you will do ok. A normal student prob not. He needs to go already.
+---
+Course: SER222
+Date: Sep 5th, 2018
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C-
+Textbook: No
+Tags: GET READY TO READ, SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK
+Comment: I took him two times before passing a third time. He is a tough grader and his classes are not easy. He knows his stuff and is accessible outside of class, but get ready to read a lot and learn on your own. If he sees you are trying he will work with you and he does care. Be sure to show up to class once you miss a lecture, its hard to catch up.
+---
+Course: SER222
+Date: Aug 14th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: No
+Tags: TOUGH GRADER, SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK
+Comment: This class is the hardest programming class I've ever taken. The lectures do not help and its pretty much all on you to figure it out. His grading is very harsh with barely any partial points, and the tests are extremely difficult to get a high score on. On top of this, the tests have a huge weight on them that could basically plummet your grade.
+---
+Course: SER222
+Date: Jul 7th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: B+
+Textbook: Yes
+Tags: LOTS OF HOMEWORK
+Comment: Taking Data Structures with Professor Acuna was very difficult. I took this class totally online and there were only video lectures for about one-fourth of the covered units. That is essentially like not having class lecture for an online student. Thankfully there were some YouTube videos that helped me pass. (I suggest Rob Edwards SDSU).
+---
+Course: N/A
+Date: May 4th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: GET READY TO READ
+Comment: Smart guy, terrible teacher. This is the second class Ive taken that hes created from scratch. They are unreasonably difficult for the information given through lecture. The assignments are vague and give you an outline of what he expects, without giving you the resources to comprehend them. By design, he expects you to just figure it out.
+---
+Course: SER222
+Date: May 4th, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, TEST HEAVY
+Comment: Stress heavy class, extremely difficult assignments/exams. If you don't know the material already, you are going to struggle a lot in this class. Lectures are hard to follow/understand, fortunately there are a lot of valuable resources online and in the book. All the material was from the book which is nice. Take someone else if possible.
+---
+Course: SER334
+Date: May 3rd, 2018
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: LOTS OF HOMEWORK, CLEAR GRADING CRITERIA, TEST HEAVY
+Comment: Acuna clearly knows his stuff. but his accent and in-class lectures are fast paced and difficult to concentrate. fortunately, he uploads lectures videos for every chapter to learn them at your own pace. exams are not hard but tricky. if you do homework and in-class assignments, you can do well in the exam. fair grader and curves a lot.
+---
+Course: N/A
+Date: Apr 23rd, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK
+Comment: Lectures are lightning fast and hardly cover the material. Test and homework are insanely difficult.
+---
+Course: SER222
+Date: Feb 1st, 2018
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: TOUGH GRADER, SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK
+Comment: Unfortunately, he cannot be avoided since he's the only one teaching the course. He teaches straight from the book and doesn't teach anymore than that. He makes lectures simple but tests and homework are unreasonably difficult. Demands a lot w/o giving substance in return. Pretty arrogant. Not sure why he chose to teach. Not spectacular at it.
+---
+Course: N/A
+Date: Dec 15th, 2017
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, TESTS ARE TOUGH
+Comment: Lecture quality is poor. Clearly knows his stuff but does not know how to teach it to you. Tests are insanely hard and the homework is very difficult and time consuming. Don't expect a lot of specific assistance either. If there's an option for another teacher, take it. You'll regret taking his class.
+---
+Course: N/A
+Date: Dec 9th, 2017
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: No
+Tags: TOUGH GRADER, TEST HEAVY, TESTS ARE TOUGH
+Comment: Very nonspecific in lectures. Tests are ridiculously hard. Home work and tests barely covered in class. Take someone else.
+---
+Course: N/A
+Date: Sep 14th, 2017
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Tags: GET READY TO READ, PARTICIPATION MATTERS
+Comment: Hes lectures go really fast. I just wish he would hit the brakes in between sentences. Probably best to watch a lecture online from another source. Does not go more in depth than what the text already covers.
+---
+Course: SER222
+Date: May 10th, 2017
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, BEWARE OF POP QUIZZES, LECTURE HEAVY
+Comment: This guy will do his utmost to make you feel stupid about the material. Just read the text ahead of each lecture and save yourself some agony by not having to go to him with questions. Not to mention the obnoxious way he starts each class with a unnecessary loud "ALRIGHT!". Its fine if he has an offbeat sense of humor, but hes not very professional
+---
+Course: SER222
+Date: May 2nd, 2017
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: Really knowledgeable guy, but goes a bit too fast during lectures and mumbles a bit. Could have used some refreshing instead of the usual "You guys know this, right?" Start the weekly homework assignments after the first lecture because waiting until the day it's due will cause you some really horrific stress. Book and indie reading required.
+---
+Course: SER222
+Date: Dec 9th, 2016
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK, AMAZING LECTURES
+Comment: Phenomenal professor. Great content-heavy lectures that were always interesting and well done. Assignments were excellent. They took time to complete, but they were very comprehensive and left you with a complete understanding of the material. They did not feel like busy work. Take this professor if you want to learn the concepts.
+---
+Course: SER222
+Date: Nov 18th, 2016
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK, CARING
+Comment: Very caring instructor. Willing to work with students on difficult assignments. Will give a lot of homework, but are designed to help you learn the material. Those who don't do well procrastinate or do not do the assignments. He is extremely fair when grading. This class is extremely important for all future classes in the degree program.
+---
+Course: SER200
+Date: Oct 13th, 2016
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: TOUGH GRADER, SKIP CLASS? YOU WON'T PASS., BEWARE OF POP QUIZZES
+Comment: Hey 3.8 gpa student here. He treats everyone like a number, there is homework every week, the class average for homeworks were a constant 70-73%. I cant imagine casual college students to pass since he always finds something to dock one or two points off of.
+---
+Course: N/A
+Date: May 6th, 2016
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: D+
+Textbook: Yes
+Comment: If you take the class online, be ready to learn a programming language from powerpoint slides directly from the textbook publisher and from a couple youtube videos. Not very easy. Expect to put in at least 30 hours a week into assignments. Midterm and final are basically 70% of your grade. Grades tough and there is no E.C., rounding, or curves.
+---
+Course: N/A
+Date: Mar 3rd, 2016
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: C+
+Textbook: Yes
+Comment: I am not a fan of programming but the class was bearable. It can be difficult if you have never dabbled in Java like myself. The mid-term and final exams are tough but students can use cheat sheets, probably to justify the difficulty of the exams. The two exams will make or break you, they count for 24% and 30% respectively of your overall grade.
+---
+Course: SER315
+Date: Jan 4th, 2016
+Quality: 2.5/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: No
+Comment: once a week 3 hour class instructor lectured for the whole time most meetings had a semester long group project no in class time provided to work on it. Homework assignments where time consuming but not too hard, seemed like busy work. I had a really poor experience because I basically did a group project on my own.
+---
+Course: CST315
+Date: Dec 23rd, 2015
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: No
+Comment: From week one students get split up into groups and assigned a project to work on for the rest of the semester. If you work hard in this class, expect an easy A. Professor Acuna is very clear on grading criteria and provides a lot of help in and outside the class. Very approachable teacher, I highly recommend him!
+---
+Course: SER222
+Date: Dec 23rd, 2015
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B-
+Textbook: Yes
+Comment: Professor Acuna takes care of each and every one of his students and provides help whenever he can! This professor makes the process of learning SER222 seem a lot easier as he breaks down and explains everything clearly in class! Clear grading criteria, so you will exactly know what to do on assignments and exams. Would definitely take him again!
+---

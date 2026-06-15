@@ -1,0 +1,172 @@
+Professor: Bertan Bakkaloglu
+Department: ECE
+Overall Rating: 4.6/5
+Would Take Again: 86%
+Total Reviews: 16
+========================================
+
+Course: N/A
+Date: May 14th, 2024
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, GIVES GOOD FEEDBACK, CARING
+Comment: Hands down one of the best professors I've ever had. All lectures and assignments are open on Day 1. There are only 5 grades total (2 exams + 3 projects). He provides past exams to study from and they are true to form. The projects can be large and challenging, but you have plenty of time for each one. If he taught more classes, I would sign up!
+---
+Course: EEE523
+Date: Apr 29th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: AMAZING LECTURES, GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS
+Comment: Prof Bertan is truly the best instructor. His lectures were engaging and informative, and he always made time for questions and discussion. He went above and beyond in providing extra help and feedback, and his genuine interest in his students' success was evident. I feel lucky to have had him as a prof and would take any class he teaches
+---
+Course: N/A
+Date: May 6th, 2022
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Tags: GRADED BY FEW THINGS
+Comment: Decent professor, and usually timely answers on Slack. This semester had extremely dedicated TA's, always active and gave good feedback. Content very difficult, course consisted of pre-recorded videos. 2 Exams, multiple choice (gives previous years' exams, ~65% of questions are new, 35% repeated). 3 projects, VERY intensive. No HW.
+---
+Course: EEE523
+Date: Apr 29th, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A+
+Textbook: Yes
+Tags: RESPECTED, CLEAR GRADING CRITERIA, AMAZING LECTURES
+Comment: Dr. Bakkaloglu is one of the very best professors that I have ever had. His teaching style and his remarkable ability to explain IC design concepts is truly outstanding. He is absolutely brilliant and I hope that he considers teaching more classes besides EEE 523. I highly recommend his class to anyone interested in IC design.
+---
+Course: EEE523
+Date: Dec 6th, 2016
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: TEST HEAVY, GRADED BY FEW THINGS, AMAZING LECTURES
+Comment: Very conceptual and bright professor. Class has no hw, only projects and exams. Goes quickly through lecture.
+---
+Course: EEE523
+Date: Oct 28th, 2016
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Comment: Overall a great professor. Does a lot more conceptual and applications based stuff as opposed to 433. Very bright and is pretty lenient in the grading.
+---
+Course: EEE523
+Date: Jun 8th, 2016
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Comment: He is an amazing person and professor. He is really good at analog and explains concepts very well. It is an advanced course, so won't be as easy as 433.
+---
+Course: EEE523
+Date: Apr 22nd, 2016
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Comment: His lectures are really good. Brings so much clarity to every topic. He explains every concept from the basic that it made me think I should have skipped EEE 433 and directly taken EEE 523. He is extremely helpful outside the class too. I would definitely take under him again. He is lenient in grading.
+---
+Course: EEE523
+Date: Dec 8th, 2015
+Quality: 4.5/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Comment: Dr. Bakkaloglu is a great professor. His lectures are very clear and informative, and the course is not too difficult. Most of the workload in the course comes from the lab, particularly the last two.
+---
+Course: EEE523
+Date: Dec 30th, 2011
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Really great person and a professor.
+---
+Course: EEE523
+Date: Aug 11th, 2010
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Do take his class and it will be one of the best classes you have ever taken!!
+---
+Course: EEE334
+Date: May 13th, 2009
+Quality: 4.5/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Class and lab were so well designed. It's one of the best class I've had at ASU. He was very clear and tried to explain materials to students. Final exam was a killer! Midterms were fair.
+---
+Course: EEE523
+Date: Jan 16th, 2009
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Analog Circuit Design and Advanced Analog Circuit Design. Very reachable. Killer final exams.
+---
+Course: EEE523
+Date: Nov 7th, 2008
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Take his course
+---
+Course: EEE334
+Date: Apr 26th, 2007
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Dr. Bertan is one of the best professors, period. Very helpful outside of class
+---
+Course: EEE523
+Date: Feb 17th, 2006
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: Excellent prof. Projects and tests are difficult but grading is liberal. and very helpful too.
+---

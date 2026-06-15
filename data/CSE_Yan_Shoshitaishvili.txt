@@ -1,0 +1,517 @@
+Professor: Yan Shoshitaishvili
+Department: CSE
+Overall Rating: 4.3/5
+Would Take Again: 79%
+Total Reviews: 47
+========================================
+
+Course: N/A
+Date: Dec 21st, 2025
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: A+
+Textbook: N/A
+Tags: INSPIRATIONAL, LOTS OF HOMEWORK, HILARIOUS
+Comment: I LOVE YOU ZARDUS YOURE BETTER THAN DADDY NELSON I LOVE YOU
+---
+Course: N/A
+Date: Dec 19th, 2025
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: ONLINE SAVVY
+Comment: If you watch video lectures and do the challenges, you get an A+. No tests or anything else. The hard part is just doing all the challenges. Be ready for a 14 hour Hayden lock in sesh to finish all of Reverse Engineering. There are extensions though if you cant finish a module in time. Would recommend getting ahead in pwn college before the class.
+---
+Course: N/A
+Date: Dec 11th, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA, LOTS OF HOMEWORK
+Comment: Solve a coding challenge to get a code. Submit the code to get a grade. That's the course. It's well put together with clear lectures and generous late policies. The professor created an online course that's used/talked about outside of ASU for teaching cybersecurity. That should say enough about his credentials. The only great CS professor at ASU.
+---
+Course: N/A
+Date: Aug 24th, 2025
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK, CARING
+Comment: One of the smartest professors I've ever had. I thought the video lectures were engaging and not a chore. Very difficult class if you don't put in the time to understand concepts but very rewarding in the end.
+---
+Course: N/A
+Date: May 12th, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GET READY TO READ, EXTRA CREDIT, CLEAR GRADING CRITERIA
+Comment: One of the most enjoyable and useful classes at ASU. It's content-heavy for sure but that's what makes it useful. A lot of work but there's no tests to stress over so very much a go at your own pace class. Always cheers up the class with "Hello Hackers"
+---
+Course: N/A
+Date: May 12th, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, EXTRA CREDIT, LOTS OF HOMEWORK
+Comment: If you're a CS student, you should know that this is the most time-consuming yet the most wholesome class you will take here. This class is the definition of unconventional, where it forgoes traditional lectures in favor of solving a few dozen puzzles every week. Yan makes every bit of your effort worth it, with support from TAs and considerate EC.
+---
+Course: N/A
+Date: May 8th, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: The lectures don't help, and tbh he doesn't really directly teach you anything, but this class is my favorite class I've ever taken. pwn college is such an incredible website and a great experience. I'm sure I don't have to tell you that it will be the hardest class you've ever taken, but if you're willing to put in work, you will love it.
+---
+Course: N/A
+Date: May 3rd, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: W prof and very understanding. Challenges are hard but in a way where you are forced to learn and not just bang your head against a wall. Plus the belts give you a reason to care about the class outside of just a grade.
+---
+Course: N/A
+Date: Apr 30th, 2025
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: N/A
+Tags: HILARIOUS, ACCESSIBLE OUTSIDE CLASS, ONLINE SAVVY
+Comment: mixed bag tbh liked Dr. Yan, thought he was cool and he knows his stuff pwn college is a cool platform that i wish i had more time on but man 2 weeks for most modules (and they're hard) sucks bro esp. if u got other stuff/classes/work going on u def learn alot but for me personally, i feel like i didn't take as much as i would've wanted to.
+---
+Course: N/A
+Date: Apr 28th, 2025
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA
+Comment: Yan is the goat, GOD tier lectures and the greatest hype videos to ever exist. Yan is a grace for the eyes and his lectures are a grace for the brain.
+---
+Course: N/A
+Date: Apr 5th, 2025
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, LOTS OF HOMEWORK, ONLINE SAVVY
+Comment: Yan is knowledgeable. Expects you to devote 20+ hrs a week to his course. No extra credit in 2025. The syllabus was not out at the start of the semester, so people lost points on things they didn't know they had to do. He does not use Canvas, only pwn college that will ruin your eyes from bad contrast, dark-mode only. Discord is disorganized.
+---
+Course: N/A
+Date: Jan 29th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: he added DOZENS of challenges to each module so far, each module has 50-100 challenges due in a week. removed EC with the excuse that people don't do all the modules. also wants to "take over" other classes to implement pwn college there. recitations are useless & replies in discord are non-existent unless it's to threatenyou for helping others.
+---
+Course: N/A
+Date: Dec 16th, 2024
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: He is a good prof, however he still plays a huge role in how the class is structured, therefore bad rating. Lectures do not prepare you in the slightest to tackle the unreasonably difficult homework's. The knowledge needed to solve challenges comes from external tools, not from the prof. In order to succeed you must be good at self learning.
+---
+Course: N/A
+Date: Dec 8th, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: Very challenging pwncollege (check website for syllabus) CTF based course, but professor is incredibly goated. Gives 15% extra credit opportunities throughout the course, personally didn't need to do last 1 and half modules for A+. If you care, will/can put in time to learn/do (it's a lot tbh), this class WILL pay off. Incredible knowledge given.
+---
+Course: N/A
+Date: Dec 4th, 2024
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: EXTRA CREDIT, GIVES GOOD FEEDBACK, INSPIRATIONAL
+Comment: Goated professor simple as it is, class is tough so most of the low rating votes here were meant for the class not the professor.
+---
+Course: N/A
+Date: Nov 25th, 2024
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: This class is graded entirely on completion of homework challenges on pwn college. If anyone is new to linux or cybersecurity concepts, expect to spend multiple hours weekly on challenges since they require you to actually understand the concepts. The class was not too challenging with prior knowledge, but I know others struggled with the workload.
+---
+Course: N/A
+Date: Nov 7th, 2024
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: LOTS OF HOMEWORK
+Comment: He seems like he would be a good professor, but cse365 is horrible and he has a part in teaching that. He seems like a nice guy so I don't want to give him this rating, but the experience with him has been horrible.
+---
+Course: N/A
+Date: Oct 18th, 2024
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: He should feel ashamed for promoting Connor's terrible pwn college platform. Extremely buggy site and non-existent instruction.
+---
+Course: CSE466
+Date: May 6th, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GET READY TO READ, EXTRA CREDIT, LOTS OF HOMEWORK
+Comment: CSE 466 was a great time, but be ready to put in the work (with potential external reading) to complete the challenges in time (and obtain a physical yellow martial arts belt!). Yan is an expert in his field and it shows in his lectures. Enjoyed learning from basic x86 assembly up to kernel exploitation in a custom architecture.
+---
+Course: CSE466
+Date: Dec 23rd, 2022
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, AMAZING LECTURES, LOTS OF HOMEWORK
+Comment: Yan is one of the best professors you will have. He is passionate and entertaining during lectures while showing a true passion for the material. THIS CLASS REQUIRES A SIGNIFICANT TIME COMMITMENT. The material itself is easily digestible but the application in the modules takes on average of 25-30 hours per week. Extra credit pays dividends.
+---
+Course: N/A
+Date: Dec 12th, 2022
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Tags: CLEAR GRADING CRITERIA, GIVES GOOD FEEDBACK, LOTS OF HOMEWORK
+Comment: I had him for his CSE466 class. His class is doable, but difficult. Expect to spend at least 20-30 hours a week on this class. Office hours by the TAs/Yan are very useful to get a better understanding of the application of things covered in lecture. Lots of extra credit opportunities.
+---
+Course: CSE466
+Date: Dec 9th, 2022
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: LOTS OF HOMEWORK, RESPECTED, ACCESSIBLE OUTSIDE CLASS
+Comment: Expect to spend a lot of time working through material each week.(20+ hours on some weeks) This is just the nature of the material though, and it just takes time to be able to grasp some of this stuff. Yan is amazing though. His material is brilliant and does a really great job of giving students a hand on experience in a bunch of different topics.
+---
+Course: N/A
+Date: Dec 9th, 2022
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: N/A
+Tags: TOUGH GRADER
+Comment: Hard lecture
+---
+Course: CSE466
+Date: Dec 8th, 2022
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, AMAZING LECTURES, LOTS OF HOMEWORK
+Comment: Its really obvious how passionate this whole team is about this course this was by far the most well laid out course I have ever taken. Seriously wish every course I've taken here was like this. Even if this was the hardest I've taken yet (possible tie with Coulbourn's 355). Start the modules early, make friends in the discord, and take all the EC
+---
+Course: CSE466
+Date: Nov 29th, 2022
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK, ONLINE SAVVY
+Comment: Best and hardest class, I've taken at ASU. The entire class is only homework assignments, gamified as levels to solve. Lecture and office hour recordings are extremely helpful. Lots of chances for extra credit such as early level solves, memes, etc. Learned way more in this course than out of the entire CS program. Take with a lighter course load.
+---
+Course: CSE466
+Date: Nov 29th, 2022
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, AMAZING LECTURES, RESPECTED
+Comment: Excellent course (CSE466). Very demanding, but very rewarding. Take this with a lighter course load if possible. Very well instructed from the top down (Professor + TAs).
+---
+Course: CSE466
+Date: Oct 29th, 2022
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: Yan's class demands your entire schedule. He won't be satisfied until you're thinking about computer security with your every free second. I was once so stressed one week, the most I'd ever been, and I found out it was supposed to be Fall Break?! He had assignments due on Fall break! He tried to make one due before he even had a lecture! Too much!!
+---
+Course: CSE466
+Date: Dec 14th, 2021
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: RESPECTED, LOTS OF HOMEWORK, EXTRA CREDIT
+Comment: Best class I've taken at ASU and probably in my entire education to date. Yan has incredible lectures that break down extremely hard material into easy to understand concepts and he re-enforces the material via hacking challenges that are a lot of fun to complete. The only downside is that it requires about 20-30hrs/week for homework so be prepared
+---
+Course: CSE466
+Date: Dec 2nd, 2021
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, LOTS OF HOMEWORK
+Comment: Yan is absolutely the best professor i have ever had. If you have a chance to take him, do it. He is a genuinely caring and kind educator and goes out of his way to make sure everybody is learning and is engaged. I have nothing but great things to say about this class and its teacher. Be warned, this is hard! I advise maximum 12 credits with cse466
+---
+Course: CSE466
+Date: Nov 30th, 2021
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: LOTS OF HOMEWORK, AMAZING LECTURES, EXTRA CREDIT
+Comment: this is THE best CSE course ASU offers. Yan is the goat, Conner is amazing, and I learnt more in this course than I did in the entire rest of my degree. Take with a light course load.
+---
+Course: CSE466
+Date: Nov 21st, 2021
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: No
+Tags: LOTS OF HOMEWORK, EXTRA CREDIT
+Comment: 20-40 hours of homework every single week. So fast paced theres not enough time to absorb the material. If u have to take this course be ready to not sleep or have any free time. The professor seems unaware that other classes exist and that some of his students may have jobs. Only take this course if ur only passions and hobbies are cybersecurity.
+---
+Course: CSE466
+Date: Mar 8th, 2021
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: No
+Tags: RESPECTED, LOTS OF HOMEWORK, CLEAR GRADING CRITERIA
+Comment: No Joke as I and anyone can attest to 40 hours a week for homework is no joke (if not more). Yan has no idea that there exists anything besides his class. That being said this is far beyond the best class I have taken at ASU you will learn more then all your previous classes combined. Over all would take again but only if it was my only class
+---
+Course: CSE466
+Date: Dec 27th, 2020
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A+
+Textbook: No
+Tags: RESPECTED, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: Fantastic teacher, fantastic class. Expect to work your butt off. I learned more in CSE 466 than I learned in all of my other classes that I took the same term put together but I also worked more in CSE 466 than I worked in all of my other classes put together.
+---
+Course: CSE466
+Date: Dec 18th, 2020
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS, CARING
+Comment: Definitely the hardest undergraduate course you'll take at ASU, easily a 30 hour/week course if your goal is an A+. That being said, the course is incredibly fulfilling/rewarding if you're into cybersecurity. Prof Yan also was extremely good at taking feedback and would push due dates back if we were struggling which was great to see. Awesome guy!
+---
+Course: CSE466
+Date: Dec 17th, 2020
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: ACCESSIBLE OUTSIDE CLASS, HILARIOUS
+Comment: The class is going to be really difficult. Only take it if you have a heavy background in cybersecurity/have done a lot of CTFs or if you have the time to sit down and really learn how to do exploits. That said despite the course being scary, Yan is a really good professor. He's passionate about the subject, knowledgeable, and gives plenty of help.
+---
+Course: CSE466
+Date: Dec 9th, 2020
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: No
+Tags: LOTS OF HOMEWORK, EXTRA CREDIT
+Comment: THIS IS THE HARDEST CLASS IN CS, BE VERY CAREFUL IF YOU'RE TAKING THIS CLASS. EXTREMELY HARD HANDS ON LEARNING WITH VERY LITTLE GUIDANCE. Don't sign up unless you're ready for 30-40 hr weeks on just this class alone, even more. That being said, he does curve a lot so if ur about the grind you'll prob pass. Come ready im srs or dont sign up its hard
+---
+Course: CSE466
+Date: Dec 6th, 2020
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: RESPECTED, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: Yan is one of the best professors at ASU (also shout out to Connor as one of the best TAs). There are no quizzes or exams. Each week you get a set of challenges that you need to solve in order to get credit for homework. These challenges are very difficult and you definitely can't do them last minute, but you learn a lot from them.
+---
+Course: CSE466
+Date: Dec 2nd, 2020
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: This class is a huge time commitment. Do not take it if you are not prepared to spend over 30 hours a week working on the challenges. However, if you invest the time in the class, you will learn a lot. I would not recommend taking this class with some of the tougher CSE classes at ASU like CSE 471 or any of the trifecta classes.
+---
+Course: CSE466
+Date: Dec 2nd, 2020
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: LOTS OF HOMEWORK, AMAZING LECTURES, CARING
+Comment: Dr. Yan is hands-down the best professor Ive had. Coming into the class with zero experience in binary exploitation, I now feel comfortable to continue learning it independently. I have never learned more from one class, its insane. The 3 hour lectures feel like 20 minutes because the professor is hilarious and relatable. Couldnt recommend more
+---
+Course: N/A
+Date: Nov 29th, 2020
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: LOTS OF HOMEWORK, AMAZING LECTURES, CARING
+Comment: 466 is the hardest class in CSE undergrad by far, you will spend upwards of 30 hours some weeks. But, you will learn more than every other CSE4** you take combined. Yan is hilarious, and super qualified for teaching this course. He takes feedback seriously (adjusts deadlines/makes supplement videos,etc). If you wanna learn this stuff, take Yan!!!!!
+---
+Course: N/A
+Date: Oct 27th, 2020
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: Not sure yet
+Textbook: No
+Tags: LOTS OF HOMEWORK, HILARIOUS, EXTRA CREDIT
+Comment: I will be honest, this class is harder than anything you will take for Computer Science at ASU, There is a huge time commitment (MINIMUM of 30 hours going on to over 40) that if you don't account for then it will be a miserable experience. I will also state that this class and the content are the best around, Tough but rewarding in the content.
+---
+Course: CSE466
+Date: Oct 27th, 2020
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: No
+Comment: Unprofessional and has no sense of time management for this course. Avoid if you can.
+---
+Course: ASU101
+Date: Oct 23rd, 2020
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, HILARIOUS
+Comment: Awesome, fun teacher, very helpful, made an extremely boring class one of my favorites throughout the year and definitely looking to take him again in the future for CSE classes
+---
+Course: CSE466
+Date: Oct 7th, 2020
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: No
+Tags: LOTS OF HOMEWORK
+Comment: If you know the material beforehand then this class is an easy A. However, good luck if any of this is new to you. Most of the class is either getting an A or F through each module. I wish I hadn't taken this class...
+---
+Course: CSE466
+Date: Dec 17th, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: Yan is awesome. No exams in this class. All you need to do is trying to solve different CTF challenges. And you can learn a lot of things from the CTF challenges he designed.
+---
+Course: CSE466
+Date: Dec 13th, 2019
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: One of the best and most interesting CSE classes I've had. Yan is a great professor who really knows his stuff and makes sure that everyone understands is and really helps on google groups for explanations. The class could get hard at times, but overall it's not that bad.
+---
+Course: CSE466
+Date: Oct 24th, 2019
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: RESPECTED, LOTS OF HOMEWORK, CLEAR GRADING CRITERIA
+Comment: Hardest and best CSE class I've taken so far (compared to 340, 355, 471, 445, 450, 468). Learned more than any other class. Challenge-oriented format is a lot more fun and informative than traditional study/test BS. Yan's super interesting and smart, though his inexperience lecturing sometimes showed (Fall 2018).
+---

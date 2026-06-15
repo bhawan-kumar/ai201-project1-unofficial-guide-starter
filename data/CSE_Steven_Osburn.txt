@@ -1,0 +1,1473 @@
+Professor: Steven Osburn
+Department: CSE
+Overall Rating: 4.1/5
+Would Take Again: 79%
+Total Reviews: 135
+========================================
+
+Course: CSE424
+Date: May 4th, 2026
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: The professor was great. Honestly the class would have been better if almost any professor other than Prof. Chavez was part of it.
+---
+Course: FSE100
+Date: Nov 29th, 2025
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, ACCESSIBLE OUTSIDE CLASS
+Comment: Super kind professor that is always willing to work with you, and is always available. His grading scale is fair (work graded by the TA), although rubrics are a little inconsistent from time to time. He is super funny and personable, highly recommended.
+---
+Course: SER316
+Date: May 15th, 2025
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, INSPIRATIONAL
+Comment: This review is for CSE 423 Capstone (didn't see an option for this). This professor brings helps restore some of my confidence in ASU's CSE program. It is extremely nice to have a competent professor that provides a great learning environment. I never once had to guess when an assignment was due or how something should be done. Great professor!
+---
+Course: CSE320
+Date: May 10th, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: EXTRA CREDIT, GROUP PROJECTS, HILARIOUS
+Comment: No wonder he is the only respected CS professor left on campus. He is super nice and is always willing to help out. Although he ends class early a lot of the time, he would always stay to answer your questions. Now this class is not easy at all, so find a good group because the labs are VERY hard. If you want to take this class, take it with osburn
+---
+Course: CSE320
+Date: May 8th, 2025
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GROUP PROJECTS, HILARIOUS, CARING
+Comment: Osburn is the GOAT. I'm not going to lie I didn't pay much attention during the lectures (they were meh) but I would go anyways because he has a great personality. Although, sometimes I think he made it a little too easy because I could have probably learned more. Definitely my favorite professor I have had, he truly cares about his students.
+---
+Course: CSE230
+Date: Mar 20th, 2025
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: CARING, LECTURE HEAVY, ACCESSIBLE OUTSIDE CLASS
+Comment: He co-taught w/ Osburn in F2024 and is really caring. Gave 5% overall extra credit. He's pretty understanding that the class is hard.
+---
+Course: CSE259
+Date: Feb 10th, 2025
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: N/A
+Comment: he made us design a game of chess in a language he didn't teach us, with little to no guidance by him or the TAs. incredibly disorganised.
+---
+Course: FSE100
+Date: Dec 13th, 2024
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, HILARIOUS
+Comment: Osburn is a great teacher who genuinely wants to see all of his students succeed.
+---
+Course: CSE230
+Date: Dec 13th, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, LOTS OF HOMEWORK
+Comment: W Professor, he didn't teach the class for my section but the discord and the extra credit made the class so much easier. CSE230 is a lot of busy work and it's easy to slip up if you don't do the assignments, Osburn's discord and extra credit (by attending class) make it so much easier.
+---
+Course: FSE100
+Date: Dec 11th, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, RESPECTED
+Comment: FSE100 is not a serious class and Osburn just makes it fun by being a likable guy. You do like 3 group projects and for the final one, if you finish early you are just done with the class. If you show up and turn stuff in its really hard to not get an A.
+---
+Course: N/A
+Date: Dec 8th, 2024
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: N/A
+Comment: This professor runs a solid class - the lectures can be a bit disorganized at times, but engaging with the material through the videos and in-class problem solving makes it worth it. Using unstuck ai alongside the course resources really helped me stay on top of things.
+---
+Course: N/A
+Date: Jul 9th, 2024
+Quality: 2.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, CLEAR GRADING CRITERIA
+Comment: Was placed into a group of 5 for projects throughout the course. Only one other person contributed and when I discussed it with professor Osburn he blew me off. Class was heavy on coding for never having been introduced to it.
+---
+Course: N/A
+Date: Jul 7th, 2024
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: TOUGH GRADER, PARTICIPATION MATTERS, LECTURE HEAVY
+Comment: Overall easy course. Had 6 Homework assignments that weren't too bad, exams were free response which sucked. Projects are easier when done in a group of 2-3 people.
+---
+Course: CSE230
+Date: May 18th, 2024
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, INSPIRATIONAL, CARING
+Comment: Osburn took over this class 2 weeks before finals, and he completed rescued the entire class. I don't know what he had to do on his end to fit a whole semester worth of important content in 2 weeks, AND still appear manageable and caring and understanding, but he did it. He clearly cares for our learning, and he has my utmost respect.
+---
+Course: CSE320
+Date: Apr 21st, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: INSPIRATIONAL, HILARIOUS, BEWARE OF POP QUIZZES
+Comment: Osburn is the real goat. He tries his best to explain concepts, and is very lenient on grading. 320 is a very broad course, and it is the first time students are introduced to hardware programming. He tries his best to teach, and I learned a lot of new things from this course. Osburn really cares about students, and is very approachable.
+---
+Course: CSE320
+Date: Apr 16th, 2024
+Quality: 2.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: CARING
+Comment: Acts like he knows what he's talking about but it often seems like a load of malarkey to me. He's a nice guy and good at giving us chances on homework and exams, but we don't seem to learn much.. The TA is goat and good at teaching and helping students, so many people just learned through the labs if they actually put in effort on those.
+---
+Course: N/A
+Date: Apr 14th, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GROUP PROJECTS, CLEAR GRADING CRITERIA, ACCESSIBLE OUTSIDE CLASS
+Comment: This professor is amazing because he helps the students with homework and test reviews. The quizzes and homework are based off the slide presentations and videos provided. The midterms are easy and the projects are easy. You can work as a group for the projects. I would definitely take him again.
+---
+Course: CSE259
+Date: Apr 11th, 2024
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Tags: GROUP PROJECTS
+Comment: while he seems like a good person, his lectures were incoherent and hard to follow. i don't really think i learnt anything even though i got a good grade.
+---
+Course: CSE330
+Date: Mar 18th, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, INSPIRATIONAL, ACCESSIBLE OUTSIDE CLASS
+Comment: Osburn was a great professor to have for this class! As long as you start the projects at least a week in advance, you will be fine. If you are stuck on a part of the projects, Osburn is fantastic in his office hours and ready to help. He cares about his students, and he wants to see you succeed. One of the best professors in the department.
+---
+Course: CSE259
+Date: Dec 13th, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Tags: INSPIRATIONAL, HILARIOUS, RESPECTED
+Comment: This is by far the best Engineering teacher I have had to date. I loved his witty banter and everything about the lectures. He has amazing feedback, is amazing at communication, and is a honest grader. This is one of the few teachers I have had at ASU that focuses on student success. This man is more than a teacher, but also a mentor.
+---
+Course: FSE100
+Date: Dec 13th, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: HILARIOUS
+Comment: Professor Osburn is really funny, but more like a sarcastic, cynical funny. So don't be surprised if he makes fun of you. Other than that, he gives straightforward instructions and is really nice and understanding about unintentional plagiarism.
+---
+Course: FSE100
+Date: Dec 13th, 2023
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, ACCESSIBLE OUTSIDE CLASS
+Comment: This class is all group projects. The professor doesn't teach anything, it's just a bunch of work you do in the same group all semester. The final project is most of your grade and most of that grade is peer review. Osburn is super annoying about academic dishonesty, you won't hear the end of it. He is not afraid to report you, even for homework 0
+---
+Course: ASU101
+Date: Dec 11th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, CARING, GRADED BY FEW THINGS
+Comment: Very caring and forgiving towards us Freshman. Class is practically an automatic A+, and he's nice to talk to. He stayed behind with me after a class to talk about life, and it's like he genuinely cares about his students. Just make sure you do the work given, you should be good. Couldn't recommend him more.
+---
+Course: CSE259
+Date: Dec 9th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, CLEAR GRADING CRITERIA, RESPECTED
+Comment: My post was removed as well. I do not believe that the professor is the one removing them. Look at the post. Many of them have been reviewed. This course was a tough course, but he made it enjoyable. May be a little disorganized at times, because he teaches a lot of different courses.
+---
+Course: FSE100
+Date: Dec 8th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: He is an engaging, energetic, and transparent professor. This class is full of group projects that are pretty easy. Grading can differ based on the TA, but mine were lenient and I got an easy 100. While Osburn was not always there, I had a great time working on projects with my team. He makes sure you know where to reach him. Don't miss class tho
+---
+Course: FSE100
+Date: Dec 6th, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, GIVES GOOD FEEDBACK, CARING
+Comment: This was a great class to start with. We spent the time working on projects in class that span over weeks. The class is 2 hours per class, 2x week. He made the class fun and engaging. Great class.
+---
+Course: CSE259
+Date: Dec 5th, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: Yes
+Tags: EXTRA CREDIT, CARING, RESPECTED
+Comment: He's an alright professor and can be disorganized sometimes in this class. However, if you keep up the lecture videos, do examples in class (extra credit for doing so, even if you suck at it), and turn in assignments on time, you should get an easy A if you put in the effort. He's pretty easygoing with the grading system and wants you to succeed.
+---
+Course: CSE259
+Date: Dec 5th, 2023
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS
+Comment: The class was amazing! The class is flipped meaning that you will need to spend time watching lecture videos and then in-class we spent time solving problems. Best instructor that I have ever had so far. Easy to talk to when you run into issues.
+---
+Course: CSE259
+Date: Nov 28th, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: HILARIOUS, RESPECTED, ACCESSIBLE OUTSIDE CLASS
+Comment: He is a great professor. CSE259 is not an easy course but this professor made it easy and stress-free. He doesn't stress the students on assignments but makes sure that everyone gets the concept. A lot of extra credit opportunities. Any class is a happy class with this professor. This is my second time being in his class for two different courses.
+---
+Course: CSE230
+Date: Oct 11th, 2023
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: RESPECTED, ACCESSIBLE OUTSIDE CLASS
+Comment: Honestly, a medium difficulty class and compared to some other professors, Osburn did way better at teaching it. He cares about students opinions and allow cheat sheets on tests. However, exams were somewhat difficult and the zybooks were okay, but not useful for learning concepts. Some chapters felt pretty rushed through lectures, but overall ok.
+---
+Course: N/A
+Date: Jul 10th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: CARING, RESPECTED, ACCESSIBLE OUTSIDE CLASS
+Comment: I would take Professor Osburn again for any course. He knows that engineering is tough and he is willing to help you understand engineering towards becoming a successful engineer.
+---
+Course: CSE230
+Date: Jul 10th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, AMAZING LECTURES, CLEAR GRADING CRITERIA
+Comment: Not a lot of homework. Lectures were short, but to the point. Projects were clear and had lectures on how and what was required.
+---
+Course: CSE259
+Date: Jun 26th, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: GROUP PROJECTS, LECTURE HEAVY, ACCESSIBLE OUTSIDE CLASS
+Comment: Lots of lecture and video materials available. Cares about you understanding the material and is willing to offer help during office hours.
+---
+Course: CSE230
+Date: May 26th, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, INSPIRATIONAL, CARING
+Comment: This class is hard regardless of who teaches it, but Osburn cares deeply about his students. He goes above and beyond to make sure you have the tools you need for success. He does his best to make the tests and hw reasonable. If you have to take this class, do it with him because he'll be far more understanding and patient than anyone else would.
+---
+Course: CSE230
+Date: May 21st, 2023
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: GET READY TO READ, LOTS OF HOMEWORK
+Comment: Absolute MESS. The syllabus was missing for half the semester and he made over 3 MAJOR changes to the syllabus. He originally had this assignment be droppable, later changed his mind after the due date, and as a result dropped my grade by 10% overall. Completely disregards how EEE students might not have taken prior classes he references heavily.
+---
+Course: CSE230
+Date: May 10th, 2023
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ, EXTRA CREDIT
+Comment: Osburn is a good guy and cares a lot about his students. If you put in even moderate effort, you're sure to get an A thanks to his lax grading and EC. However, the course content and tests are extremely difficult, and his lectures do very little to explain them. I felt like I learned little in this class, and don't understand the material.
+---
+Course: CSE230
+Date: May 8th, 2023
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, CARING, LECTURE HEAVY
+Comment: Osburn is a nice guy, but honestly I got absolutely nothing out of CSE230. It felt like it was all over the place most of the time, and the one time he gave us a practice exam, it was nothing like the actual exam. Zybooks is horrible and you have to read a lot to follow somewhat what is going on. Videos are much more helpful than the lectures were.
+---
+Course: CSE230
+Date: May 6th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: HILARIOUS, CARING, RESPECTED
+Comment: I mean you couldn't fail his class if you tried. Awesome and understanding professor if you can take him, would recommend 10/10
+---
+Course: CSE259
+Date: May 6th, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+Comment: Probably the best CS prof. Class was not too bad, homework was easy but prolog projects sometimes a little difficult since you have to learn the language if not already presented in 240. Exams were slightly difficult. 2 exams and one final but your lowest exam gets dropped. He has extra credit. Good lectures. Take Osburn.
+---
+Course: N/A
+Date: May 5th, 2023
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: EXTRA CREDIT, GRADED BY FEW THINGS, ACCESSIBLE OUTSIDE CLASS
+Comment: Didn't adapt well during Covid in my opinion, may be different now. Class time was dedicated to optional in-class demonstrations rather than lectures, encouraged to learn how to code on your own using the textbook to work ahead. Would recommend for people who have programming experience, not for those who are novice coders.
+---
+Course: CSE205
+Date: May 1st, 2023
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: GROUP PROJECTS, LOTS OF HOMEWORK, HILARIOUS
+Comment: Attendance wasn't really required, which was good because it was a morning class. Although, he does give good advice during class, like telling you certain things he recommends you to know for internship interviews and for industry too. Although, the assignments on Zybooks could be too much sometimes and the final project too.
+---
+Course: CSE230
+Date: May 1st, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, RESPECTED, LECTURE HEAVY
+Comment: Professor Osburn is an amazing teacher. CSE 230 is a super difficult class but because of the practice problems he does in class, it's so much easier to understand. He's also super funny, and it's a nice environment in his classroom. Would highly recommend taking it if you have the choice.
+---
+Course: CSE230
+Date: Apr 30th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: GROUP PROJECTS, HILARIOUS, CARING
+Comment: For how tough this class could have been he really prioritized our learning rather than throwing us with extremely hard exams. From the first day of class, you can tell he really cares about our well-being and taking the time we need to actually understand the material. His office hours are very helpful and an all-around great time.
+---
+Course: CSE230
+Date: Apr 30th, 2023
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: Osburn is definitely a caring professor, but he does not teach well. A lot of the material on the exams were not practiced in class heavily or even in homework, which made the exams extremely frustrating. He definitely is not a 5 star professor. You'll most likely do great grade wise, but actual learning is unlikely.
+---
+Course: CSE230
+Date: Apr 30th, 2023
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: EXTRA CREDIT, CLEAR GRADING CRITERIA, CARING
+Comment: This class was very difficult. However, Professor Osborn clearly cares a lot about his students and does a lot to help them do well in his class including many extra credit opportunities and generous grading! You wont go wrong taking him as long as you do your best.
+---
+Course: CSE259
+Date: Apr 29th, 2023
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Tags: GET READY TO READ, GROUP PROJECTS
+Comment: Professor Osburn is a very accommodating professor who really cares about his students. The topics for CSE 259 can be hard to follow but all the resources are posted to the Canvas to help you stay up to date. I recommend downloading a copy of the textbook as a lot of the homework directly relates to it.
+---
+Course: CSE230
+Date: Apr 29th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: EXTRA CREDIT, RESPECTED, ONLINE SAVVY
+Comment: CSE230 is a difficult class but Professor Osburn makes it doable. The Zybook is very helpful in the class, and make sure not to forget to review using his lecture slides.
+---
+Course: CSE259
+Date: Apr 28th, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, CARING, GRADED BY FEW THINGS
+Comment: Very caring professor. Material in the second half of the semester is confusing, but he grades very generously. If you do your best there's no reason to not get a A+. Recitation is only 1% of the grade, and he hardly assigns anything. Osburn also offers extra credit, so take advantage of that. Definitely glad I took this instead of Calc 3.
+---
+Course: CSE100
+Date: Apr 27th, 2023
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: Not my first class with him. Class content was good. He is a very unprofessional communicator and not very helpful when unexpected things occur. Syllabus full of errors and dates for wrong semester. Test instructions are unclear. Seems to play favorites. Helps some students and ignores others. Will avoid like the plague in the future.
+---
+Course: CSE230
+Date: Apr 26th, 2023
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: GET READY TO READ, CARING
+Comment: He is a genuinely caring professor who prioritizes student mental health, and makes himself as available as possible to students. In this aspect, he is one of the best professors I've had. While it is clear that he understands the material, the lectures were often a bit disorganized. Towards the end of the year, the class schedule was quite messy.
+---
+Course: CSE230
+Date: Apr 26th, 2023
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GET READY TO READ, EXTRA CREDIT, LOTS OF HOMEWORK
+Comment: Caring guy, but class is extremely disorganized. Our final exam is coming up and he expects us to prepare with material not even covered in class. He is high on mental health, but the lack of preparation for exams is very anxiety inducing. He also is a very surface level instructor, examples are gone over so fast.
+---
+Course: CSE230
+Date: Apr 25th, 2023
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, HILARIOUS, CARING
+Comment: You have to differentiate the professors as a person and the professor as a professor. He is a great guy, and genuinely cares for his students. That is a trait I see in very little professors. However, his lectures at times seem unorganized, and the instructions on his quizzes and the grading criteria can be wonky. Left a bitter taste in my mouth.
+---
+Course: CSE230
+Date: Apr 25th, 2023
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: AMAZING LECTURES, INSPIRATIONAL, CARING
+Comment: Wow, I can't believe all of these negative reviews! He is an amazing professor who understands MIPS in and out. These negative reviews have to be from students outside of the class because if you are in his class you know he is a top of the line professor and master of this field
+---
+Course: CSE230
+Date: Apr 25th, 2023
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: F
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, BEWARE OF POP QUIZZES
+Comment: He doesn't even know how to code in outdated MIPS. He said he would switch to ARM but that was a complete lie. He always says he cares about his students but obviously doesn't since he still uses an outdated curriculum that doesn't prepare us for the real world.
+---
+Course: CSE330
+Date: Apr 17th, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: At first the class was rough... We only met once a week and he covered an entire chapter in one session. This was the first time teaching the course with a course coordinators shell. He taught the class as it was given. Near the end of the semester he made changes to better the course overall. This class only meets 1 day a week
+---
+Course: CSE330
+Date: Apr 4th, 2023
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: GET READY TO READ, CARING, GRADED BY FEW THINGS
+Comment: Hope you put that one specific sentence from the textbook on your cheat sheet...
+---
+Course: N/A
+Date: Mar 27th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, PARTICIPATION MATTERS, LOTS OF HOMEWORK
+Comment: Can sometimes take time to respond, but this is entirely understandable (he's a busy person). This is a good professor. Very understanding also, just don't be lazy.
+---
+Course: CSE205
+Date: Mar 9th, 2023
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: Professor seems really caring although he takes a while to respond. Not the best at actually teaching and didn't feel like he had an advanced overview of the ideas (in spite of him saying otherwise). However, I found the class very easy with previous coding experience and only attended ~5 lectures. The TA, CJ, is an amazing resource. Recommend him!
+---
+Course: CSE205
+Date: Dec 29th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: GROUP PROJECTS, INSPIRATIONAL, CARING
+Comment: Easily the most caring professor I've had thus far; he wants to see every student succeed and provides plenty of opportunities and due date flexibility for that reason. Regular homework and quizzes that are pretty easy, especially considering his lectures help immensely in completing both. Long assignments can be challenging, exams easy with prep.
+---
+Course: FSE100
+Date: Dec 23rd, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, CLEAR GRADING CRITERIA
+Comment: Expectations are exceptionally easy to meet if you put in the effort with Osburn. Criteria for grading was consistently clear across all assignments.
+---
+Course: CSE259
+Date: Dec 14th, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: INSPIRATIONAL, CARING, RESPECTED
+Comment: I was astonished when Professor Osburn gave us his phone number if we needed to reach him. I was even more amazed when he hosted a thanksgiving lunch for students with no plans over the holiday. This shows how professor Osburn is the ideal professor, placing his students' well-being first and being a fantastic professor to learn from.
+---
+Course: FSE100
+Date: Dec 7th, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, HILARIOUS
+Comment: Professor Osburn's class was one of the best. His lectures were short, but interesting. The class was based on group projects, one of them the final project which was half of the semester. I took FSE100 as CS major. Attendance was mandatory in the beginning, but later not. Participate in class, complete assignments and you'll be good to go.
+---
+Course: CSE335
+Date: Dec 7th, 2022
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: LOTS OF HOMEWORK, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: I have mixed opinions about Professor Osburn. He is probably the most caring professor in the engineering department. He will make time to help you outside of class. When it comes to teaching Osburn may not be the best professor as he didn't know a lot of the things that he was teaching and he basically took all canvas modules from previous prof
+---
+Course: CSE259
+Date: Dec 4th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Tags: INSPIRATIONAL, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Professor Osburn is the most caring professor I have ever met. He explains concepts well and always asks if we have any questions. He gives students his personal phone number on the first day of class and said we could message him if we had any questions on the course or just needed someone to talk to. I will definitely take him in the suture.
+---
+Course: FSE100
+Date: Nov 30th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: He is an amazing person and truly cares about every student. My original FSE 100 teacher was awful and made us so far behind in the class, but when Osburn noticed this, he stepped in right away, got us back on track, and made us feel supported. We all woulda failed the course if he hadn't taken over the class. I would definitely take again
+---
+Course: CSE259
+Date: Nov 28th, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: HILARIOUS, RESPECTED, GRADED BY FEW THINGS
+Comment: Osburn is truly a class act. He knows how to treat his students in a way few engineering teachers can. He is so good at explaining things and rarely misspeaks. He is clearly not a pseudointellectual and is a member of the 1%. I would trust him with my life. He also drops all your lowest grades and gives you automatic 100's!
+---
+Course: CSE259
+Date: Nov 28th, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, HILARIOUS
+Comment: Wow! I can't believe there are any negative comments! Prof Osburn is the most inspiring professor I have ever had. He clearly explains the material so that students understand it clearly. He gives out hundreds on everything and drops the lowest project at the end of the semester(don't tell him I told you ;) )
+---
+Course: FSE100
+Date: Nov 26th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, CARING, RESPECTED
+Comment: Professor is very nice and understanding. No issues with him. The course is fairly easy as well, although I've heard it varies depending on which project your class is assigned. The project we were assigned was super easy, we finished by late October and were done with the class for the semester.
+---
+Course: FSE100
+Date: Nov 23rd, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: INSPIRATIONAL, HILARIOUS, RESPECTED
+Comment: Osburn is one of, if not the greatest teacher I have ever had. At first, FSE seemed stressful, but the class is completion-based and turning in work will always give you 100%. Osburn tries to make a connection with his students, and he very clearly cares about everyone in his class. He is an incredible person whose class I would easily take again.
+---
+Course: CSE259
+Date: Oct 30th, 2022
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B-
+Textbook: Yes
+Tags: GROUP PROJECTS, LECTURE HEAVY, GRADED BY FEW THINGS
+Comment: Funny and engaging, but his lectures are very obscure and full of handwritten notes that are hard to read. He glosses over extremely complex subjects but expects you to understand them regardless. I feel bad giving him such a poor score as he's such a caring person but no one in my class understood the material whatsoever.
+---
+Course: FSE100
+Date: Oct 23rd, 2022
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, CARING, GRADED BY FEW THINGS
+Comment: The teacher was a good person, but his TA's were pain; they would literally say the exact opposite of what he told us 5 minutes ago. I would definitely take his class again, but not with the same TA's.
+---
+Course: FSE100
+Date: Oct 5th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, CLEAR GRADING CRITERIA, CARING
+Comment: Absolute sweetheart; Course assignments may be confusing at first but follow canvas deadlines (Unless told otherwise by the professor). Longest class I have (2 hours), yet the one that goes by quickest. Professor Osburn is an extremely understanding and caring professor who looks out for his students, I would definitely recommend him for FSE 100.
+---
+Course: N/A
+Date: Jul 4th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: TOUGH GRADER
+Comment: Disorganized, assignment requirements didn't align with grading rubric. Had to look at both to get clear picture of what was expected. Sometimes additional requirements mentioned elsewhere. Announcements,like deadlines,existed from a previous class (confusing). Grades subjectively penalized on material that was optional to include, not required
+---
+Course: N/A
+Date: Jul 4th, 2022
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Tags: TOUGH GRADER, GROUP PROJECTS
+Comment: Unresponsive, subjective grading (ex. multiple choice: textbook explicitly states 4 required sections of a document, question listed 5, chose the 4 from textbook, graded wrong because prof thought the 5th should be included, nowhere in textbook/lectures/assignments/etc was the 5th listed). Questioned prof about grade with no reply. Happened often
+---
+Course: N/A
+Date: Jun 19th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, ACCESSIBLE OUTSIDE CLASS
+Comment: He is accessible outside of class, responds in a timely manner, and provides any help he can. He is understanding situations may occur and will often grant an extension if you communicate ahead of time. FSE 100 is heavy in group projects and assignments. Stay ahead of your assignment, use office hours, stay ahead of assignments and you will pass!
+---
+Course: CSE320
+Date: May 7th, 2022
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: GROUP PROJECTS
+Comment: He got covid at the start of the semester because he didn't wear a mask because of this he missed a couple classes and never had enough content. He made up the course as he went. The project was almost impossible to do without the help of a generous student who came in everyday to help others. Very disorganized, barely learned anything from him.
+---
+Course: CSE205
+Date: May 4th, 2022
+Quality: 3.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Comment: One good thing about this class was that we had to work on a group project that you can put on your resume, teaching wasn't that great as he was most of the times sick or something else and really disorganized. Assignments aren't that bad, just take the help from TA or go to tutoring and you should be good.
+---
+Course: N/A
+Date: May 4th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Comment: The assignments are pretty straight forward, all related to the modules. Prof is very caring and gives extension too, the TAs were really good that helped. Exams were also easy. This class itself is a easy class if you are CS or related major, even for non-CS majors prof make it really easy.
+---
+Course: CSE110
+Date: May 2nd, 2022
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, RESPECTED
+Comment: He's the best. This class couldn't be better if its not with him. One midterm one final done!!!
+---
+Course: CSE320
+Date: Apr 30th, 2022
+Quality: 1.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: GROUP PROJECTS, BEWARE OF POP QUIZZES, GRADED BY FEW THINGS
+Comment: Steven Osburn is a great person, but NOT a good professor. Lectures covered very little and were extremely disengaging. Tests were way to long and was only loosely with material taught. Overall, just not a good teacher. He tried to blame it on the TA's, which may have partially been true, but he definitely didn't help much.
+---
+Course: FSE100
+Date: Apr 13th, 2022
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GROUP PROJECTS, LECTURE HEAVY
+Comment: The class itself was a bit disorganized feeling. Often times, I did not even know if we had homework or not. You'll be assigned to a group. In the end, as long as you get your final group project done, you'll be fine. Pretty freaking easy class. Need to attend class, else you'll definitely screw over your group mates.
+---
+Course: CSE320
+Date: Apr 10th, 2022
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: CARING
+Comment: Professor Osburn has good curriculum, cares about his students, and is knowledgeable of his field. However, I often have trouble contacting him over e-mail - he's like a relative who replies to all your texts with 2 word answers instead of explaining things. The syllabus is also really inaccurate, so communication is difficult in general.
+---
+Course: CSE320
+Date: Mar 22nd, 2022
+Quality: 2.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: EXTRA CREDIT, HILARIOUS, RESPECTED
+Comment: Professor Osburn is great as a person but I don't really like how the class was run. Class/notes were disorganized and hard to follow, the "recitation" part of the class takes an average of 4 hours so plan for that. Tests were ok since they were open notes, there is also extra credit given throughout the semester.
+---
+Course: FSE100
+Date: Mar 21st, 2022
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, EXTRA CREDIT, GROUP PROJECTS
+Comment: The course was easy and Osburn made it easier.
+---
+Course: FSE100
+Date: Dec 27th, 2021
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, ACCESSIBLE OUTSIDE CLASS, GROUP PROJECTS
+Comment: Very easy class. Group projects make up most of your grade.
+---
+Course: ASU101
+Date: Dec 8th, 2021
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: He spent most of the class rambling about nonsense and was difficult to reach outside of class. When I had some issues with grading, it took literal weeks to resolve them because he doesn't respond to emails. However, the class is still an easy A as long as you keep an eye on the canvas page.
+---
+Course: N/A
+Date: Aug 6th, 2021
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Comment: He was responsive and gave good feedback. Good all around instructor.
+---
+Course: SER316
+Date: Jul 2nd, 2021
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: RESPECTED, LOTS OF HOMEWORK, EXTRA CREDIT
+Comment: Knowledgeable professor -treats you like a person. This course was designed to be hard and prepare you for the industry. There is a group project that spans the entire quarter that is a huge time commitment. However, he isn't the course coordinator (designer of the course), just the instructor for it this time around. He's a good pick for this one.
+---
+Course: FSE100
+Date: Apr 30th, 2021
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: Great professor, very approachable and has a lot of experience. The course is an easy A as long as you have a good group. I recommend beginning the final project as soon as possible. The rest of the deliverables were graded pretty easily.
+---
+Course: CSE205
+Date: Apr 29th, 2021
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: LOTS OF HOMEWORK, CLEAR GRADING CRITERIA, AMAZING LECTURES
+Comment: He's the best teacher I've had at ASU so far. It's so sad to say that he's been the one who genuinely care about students' education. He is making the teachers at SE Poly look really bad. For once I can actually do homework based off a teacher's lecture. Exams are very fair.
+---
+Course: CSE205
+Date: Apr 27th, 2021
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, AMAZING LECTURES
+Comment: I've taken Osburn for cse 110 and cse 205 and he is with out a doubt one of the best professors at ASU. Super knowledgeable in java and is always willing to help out. He also gives great advice about the industry. Truly one of the only professors that cares about his students.
+---
+Course: CSE110
+Date: Apr 19th, 2021
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, INSPIRATIONAL
+Comment: I'm watching a youtube video right now and the guy looked like Osburn, and I remembered how much of an absolute beast of a teacher that guy is. Literally took his class a year ago. Master of Java. Talk to him and you'll gain a deeper understanding of Java and coding in general. Dude showed us sorting algos in the intro class. GOAT.
+---
+Course: CSE205
+Date: Apr 7th, 2021
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, GRADED BY FEW THINGS, CARING
+Comment: Steve is a GOAT: interactive,caring, and understanding. He teaches what other prof dont, he teaches real world skills. Class has project, quiz and exam, same txtbk as cse110 but he is not fan of it. But read it, super helpful some test question come from it. I never watched class vid, skiped class, never read txtbok but don't do dat u wont pass.
+---
+Course: N/A
+Date: Mar 24th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Comment: In my CSE110 class, I never actually spoke with Osburn after syllabus day. He was a very caring teacher, just know that you will only ever see or talk to him if you go to his office hours. I only ever saw my TA. Changed my major a month after I started this class
+---
+Course: CSE110
+Date: Mar 9th, 2021
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: INSPIRATIONAL, HILARIOUS, CARING
+Comment: I learned so much during his class that it is still helping me. He is probably the best professor at ASU for CSE 110. He will give you his personal phone number and pick up your calls anytime you call him. He loves teaching students and when they ask him questions. He is really easy to understand because he doesn't have a thick accent.
+---
+Course: N/A
+Date: Jan 6th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Comment: Osburn was the worst teacher i've ever had for a multitude of reasons. The first of which is that he was constantly scattered, and would even confuse his TA's with how he assigned his work. One story to show the lack of competence of Osburn, is that his one and only office hour he held, he was making furniture instead of actively paying attention.
+---
+Course: N/A
+Date: Dec 14th, 2020
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: LOTS OF HOMEWORK, GET READY TO READ, CLEAR GRADING CRITERIA
+Comment: He is available to students, is a fair grader and has good review sessions. I can tell he actually cares about his students. The textbook is not necessary but its actually really good. The lecture videos could have been better though. Make sure to always start assignments ASAP. Warning: he will not tolerate any form of plagiarism.
+---
+Course: N/A
+Date: Dec 9th, 2020
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: RESPECTED, LOTS OF HOMEWORK, CLEAR GRADING CRITERIA
+Comment: Seldom interacted with him, most of the class sessions were done by his TA. However, our few interactions were very insightful and informative. He provides supplemental material and will respond to emails fairly quickly. There is a learning curve in the class, which can be intimidating to newbies, but I think it's beginner-friendly enough.
+---
+Course: N/A
+Date: Dec 9th, 2020
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: RESPECTED, LOTS OF HOMEWORK, CLEAR GRADING CRITERIA
+Comment: Seldom talked to him specifically, primarily conversed with the TA. However, the interactions I did have with him were positive and the curriculum was relatively beginner-friendly. Not super difficult to pass if you keep up with the assignments, but the class definitely has a difficult curve down the line.
+---
+Course: N/A
+Date: Dec 4th, 2020
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, EXTRA CREDIT
+Comment: The class itself was kind of a mess, which I don't know if that is due to COVID or how this Professor usually operates. The ability to view your grade is made way harder then it should be. Since it is online the lectures are pre-recorded and not by him. Watch the watch or attend supplementals! Those are done by him and where you will learn the most
+---
+Course: CSE110
+Date: Dec 3rd, 2020
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: No lectures, just forced to go into labs where you just copy what the TA shows you without really being taught what to do. Then you are given assignments that say can take up to 10 hours to complete in the syllabus, with almost no instruction on what to do. Grading takes way too long, one day left in sem. and I still don't know what my grade is.
+---
+Course: CSE110
+Date: Dec 2nd, 2020
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: B
+Textbook: No
+Tags: RESPECTED, CLEAR GRADING CRITERIA, EXTRA CREDIT
+Comment: Great professor, helped me when I struggled but you will need to work hard for a good grade its not easy. Dont buy the text book never used it and got a B
+---
+Course: CSE110
+Date: Nov 21st, 2020
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: You are going to have a quiz, homework assignment, and lab due every week. The tests aren't super hard however they ask some dumb questions. He will usually give extra credit on the labs however it is hard to reach the TA and the professor outside of office hours and class time. You basically have to teach yourself but the professor isn't horrible.
+---
+Course: N/A
+Date: Nov 2nd, 2020
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: RESPECTED, ACCESSIBLE OUTSIDE CLASS, CARING
+Comment: I took his CSE 110 icourse, and I really enjoyed it. For an icourse, he is really accessible outside of class and you can tell he wants all of his students to succeed. He holds office hours multiple times a week and is prompt to respond to his email and text. If you put in the work you will pass this class.
+---
+Course: CSE110
+Date: Jul 20th, 2020
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Audit/No
+Textbook: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, INSPIRATIONAL, CLEAR GRADING CRITERIA
+Comment: Professor Osburn is an extremely caring professor that provides you with all the resources to be successful in his class. I came from a point where I had never taken any java class or had any exposure to the material whatsoever and the Professor made himself available to us constantly. Very inspirational and truly understanding of everyone.
+---
+Course: CSE110
+Date: Jul 8th, 2020
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Osburn was a very good professor who explained the content well and made sure students understood and was a very nice professor until the last 2 weeks of class. With COVID we had to switch all online, and he gave a final that was VERY unfair and (class average 35%), tanked nearly everyones grade multiple letter grades because of this.
+---
+Course: FSE100
+Date: Feb 4th, 2020
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: RESPECTED, HILARIOUS, CARING
+Comment: Osburn clearly cares for his students, and is a great teacher. If you get all the assignments done on time and do your best you should get an A.
+---
+Course: ASU101
+Date: Dec 21st, 2019
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: HILARIOUS, CARING
+Comment: ASU101 itself isn't a very important class and it's easy to not show up every week but I have to give some credit to Osborn. He made the class interesting and didn't have bland and repetitive lectures. He is also super caring about each of his students. Sometimes it can be easy to zone out when he's talking but overall an enjoyable class.
+---
+Course: FSE100
+Date: Dec 18th, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: RESPECTED, ACCESSIBLE OUTSIDE CLASS, CARING
+Comment: Professor Osburn gives relevant real world experience of how the industry is and how to be competitive in that environment. All his lectures are interesting and make you think critically. He also takes the time to help students with programming or other engineering type work. Would take again!
+---
+Course: FSE100
+Date: Dec 11th, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: GROUP PROJECTS, HILARIOUS, CARING
+Comment: Osburn is the best. This class is really group work heavy, so it depends if you have a good group. If one person in the group doesn't do anything he marks the whole group down for it. Make sure you do work whenever he's around. He thought I didn't do work even though I did, so I got a B on a project. Really awesome and fun professor though.
+---
+Course: N/A
+Date: Aug 16th, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, RESPECTED, ACCESSIBLE OUTSIDE CLASS
+Comment: It is a bit rare in the online learning environment to actually experience live time interaction and attention from the professor. It is usually, in many cases, fairly old recorded lessons and AI bots that the student gets to interact with. Osburn took the time to interact with us and get to know us. He is a true credit to the profession.
+---
+Course: N/A
+Date: Jul 23rd, 2019
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: Yes
+Tags: GET READY TO READ, PARTICIPATION MATTERS, CARING
+Comment: You absolutely will need the textbook to understand the material, because he doesn't make his own lectures for the online courses and the lectures are hit or miss. He's very willing to help and even gives out his cell but he's not very good at explaining things simply, expect to struggle. Be upfront, he'll help u best he can
+---
+Course: FSE100
+Date: Jun 26th, 2019
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A+
+Textbook: No
+Tags: ACCESSIBLE OUTSIDE CLASS, GROUP PROJECTS, CLEAR GRADING CRITERIA
+Comment: This professor is extremely accessible and willing to help. Even gives out his personal cell# and responds to texts. He is also very understanding if personal issues arise. I see some people complained about him change due dates. He did for a few assignments but the changes were made well in advance of any due date. You are able to work ahead .
+---
+Course: FSE100
+Date: Apr 25th, 2019
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, ACCESSIBLE OUTSIDE CLASS
+Comment: One of the best professors ever!! He is very caring and is more than willing to help students out with any other subject they are in. Even after you have finished his class you can go to him with questions for other classes. Such a good man
+---
+Course: N/A
+Date: Apr 1st, 2019
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A+
+Textbook: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, CARING, EXTRA CREDIT
+Comment: Steven Osburn is easily the best professor I have ever had! He replies to phone calls and texts at any time, day or night (and even once while he was in church haha!) He is always ready to help troubleshoot, answer dumb questions, and walk you through concepts. The class is fun, informative, and fairly simple if you put some effort into it. A+++++!
+---
+Course: N/A
+Date: Mar 12th, 2019
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, TEST HEAVY
+Comment: Very unorganized. Doesnt respond to messages on canvas and maybe responds to your emails. Constantly changing the course throughout the course, such as textbook etc. terrible look elsewhere.
+---
+Course: N/A
+Date: Feb 28th, 2019
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: Not sure yet
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, EXTRA CREDIT
+Comment: I know nothing about majority of the topics in this class, but I was able to figure it out with the help of the textbook. Textbook is online but still needs to be paid for. I got 100% on every quiz and assignment. The answers for quizzes are not hard to find if you know what I mean. There is a cumulative final that I have yet to take.
+---
+Course: N/A
+Date: Feb 25th, 2019
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, TEST HEAVY, EXTRA CREDIT
+Comment: The teacher is super unorganized and posts wrong due dates all the time but the coursework is a breeze. You can also work ahead and go as fast as you want if the quizzes are unlocked because he had them all set as "due" in 2017 & 2018 so I had to contact him multiple times to unlock them. Besides the wrong due dates the class is super easy. Easy A+
+---
+Course: FSE100
+Date: Jan 23rd, 2019
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, CARING, GROUP PROJECTS
+Comment: A great man, would seriously recommend this teacher for FSE100. He really cares about his students. The course is very group project heavy, so would recommend preparing yourself for what comes with that.
+---
+Course: FSE100
+Date: Jan 3rd, 2019
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: INSPIRATIONAL, CARING, GROUP PROJECTS
+Comment: One of the best professors. He taught us engineering, but also lots of important life lessons. The class was also very simple and as long as you try, you will do well. He is also very caring and understands that things happen and is willing to work with you. Highly recommend!
+---
+Course: FSE110
+Date: Dec 13th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: PARTICIPATION MATTERS, INSPIRATIONAL, CARING
+Comment: If you have an option to take any class with this professor, I urge you to take it. Osburn's class was one I always looked forward to, because he taught us real things in the engineering field, while making us all feel valued and cared for as students. Coursework was challenging at times, but far from unmanageable. Great prof, even better person.
+---
+Course: FSE100
+Date: Dec 11th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, GROUP PROJECTS
+Comment: Prof Osburn is, without a doubt, one of the best teachers I've ever had. He genuinely cares about his students and his job and it shows from day 1. Almost every class he came with a treat for the class and gave real-world advice and applied it to the class. The group projects are not too difficult and Osburn will understand if you get a bad group.
+---
+Course: FSE100
+Date: Dec 10th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: RESPECTED, CARING, GROUP PROJECTS
+Comment: He is a really great professor that actually cares about his students. He treats everyone like family which was awesome. Respectable professor as he also shakes everyone's hand at the end of the day. He was a bit tough, which is a given since this is a starting engineering course. The class entirely is based on group projects. Highly recommend!
+---
+Course: FSE100
+Date: Dec 7th, 2018
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: RESPECTED, ACCESSIBLE OUTSIDE CLASS, CARING
+Comment: Very open to helping you with other classwork. Fun class, great kind and caring professor.
+---
+Course: FSE100
+Date: Dec 7th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: INSPIRATIONAL, CARING, GROUP PROJECTS
+Comment: Amazing dude with so much life experience. Truly wants all his students to succeed. Big emphasis on comunication and teamwork.
+---
+Course: FSE100
+Date: Oct 23rd, 2018
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Tags: RESPECTED, INSPIRATIONAL, AMAZING LECTURES
+Comment: Hes cool and real down to earth.
+---
+Course: FSE100
+Date: Oct 13th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Comment: This teacher genuinely cares about the success of his students. He treats his students like family. Gladly helps his students outside of his class hours and is open to helping with other related courses. Course organization was above average but minor adjustments could push the class over the top. ASU is a better school with him.
+---
+Course: CSE259
+Date: Apr 29th, 2018
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: First professor I've had where I felt like he actually cared about us learning and understanding the material, especially on a deep and fundamental level. Great teacher and a great person as well. Wish he taught every CS class at ASU.
+---
+Course: FSE100
+Date: Apr 18th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: No
+Tags: INSPIRATIONAL, ACCESSIBLE OUTSIDE CLASS, CARING
+Comment: He is the best FSE100 professor. He explains everything very well if you ask him, and he's class is really fun. I will definitely take other classes with him. He was wonderful.
+---
+Course: CSE259
+Date: Mar 23rd, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: INSPIRATIONAL, ACCESSIBLE OUTSIDE CLASS, HILARIOUS
+Comment: Steve is hands down one of my favorite professors at ASU. He designs his class with the intent of students learning the material, rather than just passing the class. There are 5 exams, all of which mirror the homework from that section, and he will organize study sessions outside of class for difficult sections, definitely a must take!
+---
+Course: FSE110
+Date: Feb 28th, 2018
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, RESPECTED, CARING
+Comment: Steve is likely the best professor I've had at ASU so far. He's an awesome guy, and really everything he does is for the betterment of his students. He's super reachable and approachable, and he's super friendly. If you can take him, please do. It'll be well worth it.
+---
+Course: N/A
+Date: Feb 27th, 2018
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: No
+Tags: PARTICIPATION MATTERS, EXTRA CREDIT, GROUP PROJECTS
+Comment: Strongly recommend. Its an intro to engineering, so its clear that you will have to work for it. Through out the whole semester there is one big team project, there are additional individual assignments each week but everything is duable and instructions are straight forward so you know what it expected. Enjoyable class, recommend the instructor.
+---
+Course: CSE259
+Date: Feb 27th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, RESPECTED, TEST HEAVY
+Comment: Professor Osburn really cares about his students. He'll make time even on weekends to meet with you and go over your questions. He responds super fast to e-mails and will even let you know when he'll answer your question in an e-mail if he isn't currently able to do so. He tests mostly on quizzes, but also has extra credit. 20/10 professor. :)
+---
+Course: FSE100
+Date: Nov 29th, 2017
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: No
+Tags: ACCESSIBLE OUTSIDE CLASS, GROUP PROJECTS
+Comment: Steve Osburn is a really nice professor. He jokes around with students, shakes your hand every day, and makes the class interesting. The entire class is group projects with random teams. There are open note quizzes over the lectures, but if you really carefully search the lecture slides they're easy (they're very semantic-based though).
+---
+Course: FSE100
+Date: Nov 15th, 2017
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: RESPECTED, ACCESSIBLE OUTSIDE CLASS, GROUP PROJECTS
+Comment: Good personality and easily accessible. Hes willing to work with you on homework thats not related to his class.
+---

@@ -1,0 +1,72 @@
+Professor: Ajay Bansal
+Department: CSE
+Overall Rating: 4.3/5
+Would Take Again: 84%
+Total Reviews: 6
+========================================
+
+Course: N/A
+Date: Oct 10th, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK, CARING
+Comment: CSE 240 is a tough class in general, but Professor Bansal makes it easier to deal with. The curves and extra credit also make the course bearable. Just make sure to read the slides or videos, try to understand the concepts discussed, but the assignments also help with that. Very caring professor/TA, they are always available to help through slack.
+---
+Course: SER501
+Date: Sep 29th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: AMAZING LECTURES, CARING, RESPECTED
+Comment: Nicest professor here, very considerate and reasonable.
+---
+Course: SER501
+Date: Dec 13th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, CLEAR GRADING CRITERIA, INSPIRATIONAL
+Comment: Amazing professor. He spends a lot of time making sure that everything he taught in class is clearly understandable to the students and he gives an extra credit assignment which is really helpful. I prefer everyone to take his course.
+---
+Course: SER501
+Date: Nov 17th, 2021
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: AMAZING LECTURES
+Comment: The lectures and assignments are really well thought. If you want to really learn, take his courses. It's a no brainer
+---
+Course: N/A
+Date: May 30th, 2021
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Rather not say
+Textbook: No
+Comment: TAKE THIS CLASS SOMEWHERE ELSE. LECTURES DO NOT MATCH HOMEWORK. LECTURES ARE HORRID.
+---
+Course: N/A
+Date: Dec 9th, 2020
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, CLEAR GRADING CRITERIA, CARING
+Comment: Great professor! Professor and TA were accessible outside of class to help with specific questions. Professor cares about his students and treats them with respect. I highly recommend you complete any test study guides he provides otherwise you will have a much harder time for midterm/finals. I found LISP and PROLOG the easiest languages to learn.
+---

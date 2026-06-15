@@ -1,0 +1,236 @@
+Professor: Seth Abraham
+Department: ECE
+Overall Rating: 3.9/5
+Would Take Again: 72%
+Total Reviews: 21
+========================================
+
+Course: EEE333
+Date: May 13th, 2025
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: EXTRA CREDIT, LOTS OF HOMEWORK, BEWARE OF POP QUIZZES
+Comment: Prof Abraham is extremely knowledgeable in this topic. Go to lectures, because there are no lecture slides or videos. A lot of quizzes, in-class assignments, and homework, with difficulty picking up in the middle of the semester. HW and labs are structured where he gives what the design should do, and then you figure it out. Great office hours.
+---
+Course: EEE333
+Date: Jul 22nd, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, EXTRA CREDIT, BEWARE OF POP QUIZZES
+Comment: I am not a very good student by any means, but if you listen to professor Abraham, and go to his office hours, you could get close to a 100% (It is absolutely necessary you have time for his office hours, or else you might not even pass)
+---
+Course: EEE333
+Date: May 1st, 2024
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Comment: Excellent class that encourages creative problem solving. Very good at leading you to the answer without outright telling you, and exposes you to a lot of interesting concepts. No exams, only homework and labs, which makes this class relatively stress free.
+---
+Course: EEE333
+Date: Feb 6th, 2024
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Tags: TOUGH GRADER, CLEAR GRADING CRITERIA, LECTURE HEAVY
+Comment: This is tough professor but he force you to learn and will guide you to answer. If you hate thinking you will fail. If you put effort you learn lot
+---
+Course: EEE333
+Date: Dec 18th, 2023
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: N/A
+Tags: TOUGH GRADER, BEWARE OF POP QUIZZES
+Comment: What u get is what u get no extenstions better come to class or else
+---
+Course: EEE333
+Date: May 6th, 2023
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Tags: BEWARE OF POP QUIZZES, LECTURE HEAVY, ACCESSIBLE OUTSIDE CLASS
+Comment: Knowledgeable, incorporates lots of his industry knowledge into his lectures. Only uses slides for the first 3 weeks; the rest of the semester is pure whiteboard lessons with no online notes/recordings. You will be doomed if you don't attend class since his content is really specific. No exams, just projects on top of projects. Good office hours
+---
+Course: EEE333
+Date: Apr 30th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: AMAZING LECTURES, INSPIRATIONAL, ACCESSIBLE OUTSIDE CLASS
+Comment: Dr. Abraham is one of those professors who can change your life if you embrace his class. His structure is unorthodox with no exams, only projects, which enables students to really learn! Dr. Abraham is incredibly generous with his time--he offered 9 hours of office hours every week. He is a master of Verilog and truly an expert in his field.
+---
+Course: EEE333
+Date: Dec 3rd, 2022
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, LOTS OF HOMEWORK, BEWARE OF POP QUIZZES
+Comment: This class is not your typical class where you regutitate learned principles. Rather you use design principles to design and troubleshoot your own design of digital hardware. Dont expect him to tell you the answer to all problems, rather he'll guide you to the answer. Which is honestly better, and is a must skill to have in the industry.
+---
+Course: EEE333
+Date: Jan 12th, 2020
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., GROUP PROJECTS, BEWARE OF POP QUIZZES
+Comment: I would definitely take this class with Professor Abraham. Hes a great teachers and really cares about his students. You have to attend class because you cant learn the material otherwise and there are a lot of pop quizzes. The only test is a take home final, so the grading consists of doable, group assignments and labs. Find a good partner(s)!
+---
+Course: EEE333
+Date: Jan 2nd, 2020
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: ACCESSIBLE OUTSIDE CLASS, SKIP CLASS? YOU WON'T PASS., EXTRA CREDIT
+Comment: Abraham loves the material. He knows everything there is to know about computer design. He also knows this class is hard. It takes a lot of time if you aren't willing to check your code as you write it. He has the most office hours I've ever seen a professor offer. He also hosts quizzes that are worth 10 points where writing your name is 5/10
+---
+Course: EEE333
+Date: May 9th, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: LOTS OF HOMEWORK
+Comment: Arguably the worst professor I have ever had. He uses lecture slides for the first 2 weeks, then goes into random tangents on the boards. He screams the whole lecture and makes the course way harder than it needs to be. I would not recommend.
+---
+Course: EEE333
+Date: May 2nd, 2019
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Comment: He worked at intel and he expects his students to know verilog straight away. Some students were on the same level as him but most weren't. Almost every lecture I went to was pointless because he'd get off topic and start talking about something else. Office hours weren't helpful, I spent 2 hours there to ask one question and he was barely any help
+---
+Course: EEE333
+Date: Apr 24th, 2019
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: ACCESSIBLE OUTSIDE CLASS, SKIP CLASS? YOU WON'T PASS., BEWARE OF POP QUIZZES
+Comment: Dr. Abraham is enthusiastic, engaging, awkward, manages pacing extremely well, explains things in multiple ways, and is always readily available for help outside of class. Overall his class was a delightful experience. However, the problems he assigns aren't trivial and he doesn't just hand you solutions: expect to learn to think clearly.
+---
+Course: EEE333
+Date: Dec 13th, 2018
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: GET READY TO READ, SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK
+Comment: Tried being funny and witty. He kind of expects you to know a lot about the topic even if you don't remember. If you were really good at 120 then this will probably be easy for you but if you were just average and or took it a while back then this class is going to be difficult. So much homework and labs take forever. Beware of this professor.
+---
+Course: EEE333
+Date: Dec 10th, 2018
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK, BEWARE OF POP QUIZZES
+Comment: Prof. Abe was a mix of good/bad. He does not have any written tests but he has very time consuming homework assignments and labs, easily 12+ for an average lab. There are pop quizzes that start very easy and get tough. Handwriting is terrible and his notes can be bad. Final exam is basically all hw again just different problems. very tough.
+---
+Course: CSE120
+Date: Oct 25th, 2018
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, BEWARE OF POP QUIZZES, CLEAR GRADING CRITERIA
+Comment: He was an awesome professor. By far one of my favorites at ASU. He really cared about the students and how well he did. Often gave tons of extra credit through assignments, as well as through tests (extra credit questions). He is easy to understand and knows the material very VERY well.
+---
+Course: EEE333
+Date: Sep 12th, 2018
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK, HILARIOUS
+Comment: Professor Abraham is passionate, dedicated, helpful. However , his class is very challenging unless you have so background/ excellent at EEE120. If you're just a "average " student like me you'll probably find a lot of stuff clueless. professor wasn't in teaching until retired he kinda not explain things nice/slow like some other instructor.
+---
+Course: EEE333
+Date: May 14th, 2018
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: AMAZING LECTURES, CARING, EXTRA CREDIT
+Comment: Pro Abraham is one of best pro I have seen in my life. I am really glad, I took his classes. He teaches the easiest way to do the assignments. He was willing to stay way after his office hours to help u. He does not solve problems, but make u come up with solution. I went to most of his office hours. has awesome jokes and real stories. thanks
+---
+Course: EEE333
+Date: Apr 16th, 2018
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Tags: PARTICIPATION MATTERS, HILARIOUS, EXTRA CREDIT
+Comment: Had a lot of in-class quizzes that were basically freebies. Pretty much just to make sure you attend class. Related a lot of the course material to his 20 years working for Intel which was both hilarious and extremely valuable to someone looking to enter that industry. Pretty great dude.
+---
+Course: CSE120
+Date: Jan 6th, 2018
+Quality: 5.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Tags: BEWARE OF POP QUIZZES, TESTS? NOT MANY, EXTRA CREDIT
+Comment: Its obvious Prof. Abraham cares about his students. Each HW assignment is fairly easy and there is always opportunity for extra credit. Beware of "unannounced quizzes." Great Prof.
+---
+Course: EEE120
+Date: Sep 28th, 2017
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Tags: GIVES GOOD FEEDBACK, BEWARE OF POP QUIZZES
+Comment: Abraham is a good example of someone who cares about his students and their success
+---

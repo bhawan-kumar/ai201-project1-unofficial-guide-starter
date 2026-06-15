@@ -1,0 +1,375 @@
+Professor: Trevor Thornton
+Department: ECE
+Overall Rating: 4.3/5
+Would Take Again: 69%
+Total Reviews: 35
+========================================
+
+Course: EEE435
+Date: Jan 16th, 2026
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: A-
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, LECTURE HEAVY
+Comment: Professor Thornton is great. Class was incredibly organized and I learned a lot from this class (fund. of CMOS/MEMS). Homework is challenging but managable with the lecture videos. No exams (except for small quizzes) but there are in-person labs you must attend. Highly recommend.
+---
+Course: N/A
+Date: May 13th, 2023
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: CLEAR GRADING CRITERIA, LOTS OF HOMEWORK
+Comment: I took EEE 536 with Professor Thornton for my first semester of grad school and it was great! As someone coming in with a non EE undergrad degree, he explained all of the concepts well and concisely in a way that was understandable even with my limited background. Well organized lectures and reasonable assignments. Great professor!
+---
+Course: EEE591
+Date: Nov 30th, 2022
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: PARTICIPATION MATTERS, GROUP PROJECTS, GIVES GOOD FEEDBACK
+Comment: Breakdowns course material well; He is always happy to assist and provides great feedback. Follow his instructions properly, he provides a lot of material to work with, which makes assignments and reports easy. Although you may find his grading to be strict, it is justified once we go through his feedback and his initial expectations of the work.
+---
+Course: EEE202
+Date: Apr 30th, 2021
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Comment: Great professor with a cool accent. The homeworks are pretty similar to the exams and he does a great job explaining things.
+---
+Course: EEE335
+Date: Jan 25th, 2020
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: LOTS OF HOMEWORK, SO MANY PAPERS, TOUGH GRADER
+Comment: This professor is very likely to be tricky and picky, finding trouble for students because he really likes it. He may say your work is pretty well but give your work a D grade in grading. You will also feel uncomfortable to work with him, he is a guy you can seldom see his smile. It is terrible to work with this professor.
+---
+Course: EEE202
+Date: Dec 18th, 2019
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, GET READY TO READ, TEST HEAVY
+Comment: He's a solid choice for circuits. Warning however, he teaches at a fast pace and you NEED to do your reading before coming to class or else you will probably be lost unless you're a quick learner. He's a really chill guy and is very friendly during office hours. Super helpful overall.
+---
+Course: EEE202
+Date: Dec 7th, 2019
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, SKIP CLASS? YOU WON'T PASS., TOUGH GRADER
+Comment: Thornton tries his best to break down the material, but the course itself has too much content to go over it really well. There's no quizzes, but the homework is graded pretty harshly. While attendance is required, none of the examples are posted online, which are kinda required to understand the content.
+---
+Course: EEE334
+Date: Mar 22nd, 2019
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: RESPECTED, HILARIOUS, CARING
+Comment: Prof. Thornton is the best professor! His accent makes the class fun and exotic
+---
+Course: EEE202
+Date: May 8th, 2018
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS., HILARIOUS, LECTURE HEAVY
+Comment: Thornton is pretty nice/funny and good at teaching, but I don't really get all the hype around him. The class was pretty difficult IMO, but also has hard material. He is definitely above average, so he isn't a bad choice. Lectures were done over PPT and could be boring at times. Exams were much more hard and complicated than hw and examples.
+---
+Course: EEE202
+Date: Feb 22nd, 2018
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: GET READY TO READ, PARTICIPATION MATTERS, SKIP CLASS? YOU WON'T PASS.
+Comment: Good thing: he will use 80% of the class time to do practice example, and all document is ready on blackboard. Bad thing: he will not go thru how everything works in detail even though there is new topic. So if you are stuck(most of the student in my class), you will be having a bad time. Even you go to his office hr, he will just ans u shortly.
+---
+Course: EEE202
+Date: Jan 9th, 2018
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Tags: TOUGH GRADER, SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK
+Comment: This is not an easy class. Take this class with Matar and you will definitely pass
+---
+Course: EEE591
+Date: Dec 22nd, 2017
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: Yes
+Tags: RESPECTED, SO MANY PAPERS, GROUP PROJECTS
+Comment: I took this class because I was excited for the lab and I was upset with what actually happened. You put on a clean suit and go in to watch what is being done while they explain it and hardly touch anything. The HW is pretty easy. However there are many lab reports and they take some time, especially the final. But they are done in groups.
+---
+Course: EEE202
+Date: Dec 4th, 2017
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C+
+Textbook: Yes
+Tags: TOUGH GRADER, SKIP CLASS? YOU WON'T PASS., LOTS OF HOMEWORK
+Comment: Well if you think you can pass without attending, you won't. If you don't put hours and hours and hours of work you will not pass. Its not an easy class not an easy professor. Take it with Matar or Yu they are the easiest and you will get an A with them.
+---
+Course: EEE202
+Date: Oct 15th, 2017
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, RESPECTED, AMAZING LECTURES
+Comment: Professor Thornton is one of, if not the best professor I have ever encountered. He has the best teaching methods by far!!! He truly is an amazingly smart and respectable engineer.
+---
+Course: EEE334
+Date: Jan 7th, 2017
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS., HILARIOUS, AMAZING LECTURES
+Comment: Thornton is an awesome professor! The class covers a lot of material, but he gives great lectures that are very clear. Test reviews are the previous year's exams, so the format is very similar, but be prepared for different questions because the test WILL cover different info than the review. Put as many examples as you can on your cheat sheet!
+---
+Course: EEE334
+Date: Jan 5th, 2017
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS., HILARIOUS, AMAZING LECTURES
+Comment: He's a great lecturer and pretty lenient with grading. The exam difficulty was kind of all over the place, though, and I'd recommend going over all the notes and homework beforehand. If you go to lecture, do the homework, and go over the exam review / study the concepts he went over in class you should get a solid grade in his class.
+---
+Course: EEE334
+Date: Dec 26th, 2016
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS., LECTURE HEAVY
+Comment: He is an OK professor. Super nice while giving lectures, but can be very condescending at times. His lectures are clear and he does go over important material. His tests are not consistent. Exam 1 average was about 90% and Exam 2 average was about 63%. Exam review can make exam seem deceivingly easy. Possible to get an A, but requires work.
+---
+Course: EEE334
+Date: Dec 14th, 2016
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Tags: RESPECTED, HILARIOUS, AMAZING LECTURES
+Comment: Professor Thornton is an AMAZING PROFESSOR! I was really struggling to keep up mid way through the semester due to taking too much on (The lab was way more time consuming then EEE202) so I spoke with him. He worked with me to ensure that I not only understood the material but was able to catch up and do well in the class. TAKE HIM!!!
+---
+Course: EEE334
+Date: Dec 12th, 2016
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS., TEST HEAVY, AMAZING LECTURES
+Comment: Thornton is a great professor overall, one of the better professors I've ever had. His lectures are clear and to the point. We had one exam where the review for it was easy and simple but our actual exam was very difficult and caught a lot of people by surprise. The exams are quite doable though if you've been going to class and doing homework.
+---
+Course: EEE202
+Date: May 1st, 2016
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: A
+Textbook: Yes
+Comment: You will not get a better circuits professor. His lectures are great, often ends them early. He is also a very funny man, so you will enjoy the lecture. Homework is mandatory and will help a lot on the tests. 10/10 would recommend. Taking him again at 334 next semester/
+---
+Course: EEE334
+Date: Dec 10th, 2015
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: Best prof I think I have had at ASU. Clear grading criteria, lectures are clear and notes are amazing. Dry but funny. A bit of an "elitist" but it's comical. HW every week. Midterms are very similar to HW. Relates material to industry quite well. Not super difficult but gives a good challenge. Highly recommended prof. Labs are the only lousy part.
+---
+Course: EEE334
+Date: Aug 30th, 2015
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Comment: Dr. Thornton is amazing. In the four years I've been in college he has been the most entertaining and helpful professor I have had. You will learn a lot from his lectures. He expects you to have an in-depth comprehension of the material. Getting a high grade is not unreasonable if you read the book and listen to what he says during his reviews.
+---
+Course: EEE202
+Date: Jun 20th, 2015
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+Comment: He has a dry British sense of humor and it's hilarious. He knows his stuff, and is great at breaking down circuits into understandable puzzles. It gets tough towards the end with AC circuits, but he makes it very doable. There are 2 midterms and a final, but they arent cumulative per se. questions are pulled from past exams, notes and homework.
+---
+Course: EEE202
+Date: Dec 17th, 2014
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Comment: Gives "skeleton" notes for you to print out before lectures but go to every lecture because you will add all the information you need for the hw. Lots of people struggled with this class for some reason. If you study hard, go to every lecture and actually dounderstand the hw instead of just chegging it, you'll do just fine.
+---
+Course: EEE202
+Date: Jun 7th, 2014
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: A+
+Textbook: Yes
+Comment: He does an excellent job at teaching and getting you to understand the material. His tests are fair and straight forward, but you still need to study. He has a good sense of humor! He is okay with you using the solutions manual for the book. I didn't find Thornton particularly "rude" during office hours. If you work hard, you'll get a good grade.
+---
+Course: EEE202
+Date: Apr 30th, 2013
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Thornton is a great teacher IN CLASS. He is funny and brings the point across wonderfully. His homework is difficult, but the tests are very easy and they're usually just simplified homework problems. One page cheat sheet per test. OUTSIDE OF CLASS, he's absolutely terrible. He's condescending, arrogant, and interrupts. I have no idea why.
+---
+Course: EEE202
+Date: Apr 22nd, 2013
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Very funny and witty guy; I took it at 7:30 am, but I was convinced to go every day because he made it pretty interesting. He makes everything relatable and easy to understand for non-EEE majors. He's a little mean at office hours, but will help when needed.
+---
+Course: EEE334
+Date: Jan 11th, 2013
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Fantastic teacher. He is so funny too. I had 730am class with him which sucked but he kept my attention and I learned a lot about the course. Excellent professor.
+---
+Course: EEE202
+Date: Jan 1st, 2013
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: This professor is wonderful. Great guy who is willing to help you when you need it. The material is taught extremely well. Pay attention, take notes, and study. Dr. Thornton will not let you down.
+---
+Course: EEE202
+Date: May 4th, 2012
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Excellent professor! I was worried about Circuits I but Thornton does a great job of explaining the concepts and he's funny too! His tests were pretty straight forward, you can make a cheat sheet for every exam. If you need to take EEE 202, I HIGHLY recommend taking him!
+---
+Course: EEE202
+Date: Mar 30th, 2012
+Quality: 4.5/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Dr. Thornton is a very skilled lecturer and knowledgeable about the subject. He is entertaining and funny in class, but he can be snappy and condescending at times. Very fair exams. Lab is a large portion of your grade so make sure to do well in that also. Overall a great professor who makes class interesting and fun, highly recommend.
+---
+Course: EEE202
+Date: Feb 1st, 2012
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: He's a really good lecturer. He knows what he is talking about and thus is very clear when explaining circuits.
+---
+Course: EEE202
+Date: May 19th, 2011
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: I have no interest in circuits since I'm an ME but Thornton made the class bearable. You get a cheat sheet for every exam which makes them easier. The homework is from the book. I'd suggest getting the solutions manual since the tutors sometimes can't help with the homework. Lab is 20% of your grade so make sure you do well in that too.
+---
+Course: EEE335
+Date: Dec 11th, 2009
+Quality: 4.5/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Great professor. Never saw him after hours, but tests are very manageable and the labs are very reasonable. I had more problems with the wank TA though in any other class. Good ol' TJ
+---
+Course: EEE335
+Date: Dec 18th, 2008
+Quality: 2.5/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: In class: Funny, clear, and excellent at explaining concepts. Out of class: Total and complete Jerk. Unbelievably condescending in his office hours to EVERYONE! Having said that, he is a very fair teacher and knows what he's talking about. But according to everyone who talked to him after hours, he's just a lousy person and hard to respect.
+---

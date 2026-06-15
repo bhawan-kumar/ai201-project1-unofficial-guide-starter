@@ -1,0 +1,357 @@
+Professor: Adil Ahmad
+Department: CSE
+Overall Rating: 3.5/5
+Would Take Again: 66%
+Total Reviews: 32
+========================================
+
+Course: CSE536
+Date: Nov 2nd, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: AMAZING LECTURES, LOTS OF HOMEWORK, RESPECTED
+Comment: The class is challenging and very fast pace. However, he makes his lectures really interesting and fun to participate in. The projects are important in the class but they are challenging and take a lot of time. If you plan on taking this class make sure to not take many other challenging classes as you will need a lot of time.
+---
+Course: CSE330
+Date: May 13th, 2025
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, EXTRA CREDIT, CARING
+Comment: Although the course is challenging, the professor made it doable and easy for us to understand the conceptual materials. He is very generous compared to other trifecta professors, giving us extra credit projects and regrade opportunities to succeed. His teaching style implies that he cares for his students.
+---
+Course: CSE330
+Date: May 13th, 2025
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: GET READY TO READ, EXTRA CREDIT, LECTURE HEAVY
+Comment: Prof Ahmad is passionate about his class. 330 wasn't SUPER interesting, but Ahmad made it ok. The course is super lecture-heavy. The only assignments were projects and 2 exams. Projects get harder as you go - always start early. If you prepare well, it's not bad. The professor isn't the reason the course is hard, it's just a lot of content.
+---
+Course: CSE330
+Date: May 9th, 2025
+Quality: 3.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Tags: TOUGH GRADER, LECTURE HEAVY, GRADED BY FEW THINGS
+Comment: Class was mostly project based which was nice, but clarity on those projects were incredibly ambiguous. Astounding lecturer, it's a true shame he has to talk about the most boring stuff known to man. Content is not at all engaging. Nice guy with great presentation skills. Instructions are a little messy.
+---
+Course: CSE330
+Date: May 8th, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, AMAZING LECTURES
+Comment: Great professor. Tests and assignments were difficult (start early) but he offered more extra credit than I've ever seen in any of my other college classes and the class is already generously curved as well. I recommend reviewing all the slides and using flashcards to study for the test.
+---
+Course: CSE536
+Date: May 8th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: C
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ, LOTS OF HOMEWORK
+Comment: This is the WORST subject given by THE WORST professor at ASU. There are a lot more better courses to take in the University. DO NOT take this course. He doesnt care about students. The course content has nothing to do with the projects. The projects are on another level and are so tough that you might just get a 0. I regret taking this course
+---
+Course: CSE330
+Date: May 4th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Comment: The class is just straight up horrendous and has killed my interests in OS. Like, I'm not gonna understand how to use this random method defined in this random header file. TA's aren't helpful at all. I've attended every class, yet I don't know what to do for projects. Class is like learning physics, projects are like building an engine.
+---
+Course: CSE536
+Date: Mar 17th, 2025
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+Tags: GET READY TO READ, AMAZING LECTURES, LOTS OF HOMEWORK
+Comment: CSE 536 is hands down the most learning i have had in any course , it is though if you are not comfortable with c , but you will have ample amount of time to learn the required skills , The projects are time consuming and lectures are awesome and content heavy - do not plagiarise from github or peers , you will not be able to get away with it .
+---
+Course: CSE536
+Date: Mar 3rd, 2025
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, AMAZING LECTURES
+Comment: Heavy coding projects but very useful and practical. He's a very good lecturer, logical and in a good pace. Recommend this course.
+---
+Course: CSE330
+Date: Feb 24th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: LOTS OF HOMEWORK, TEST HEAVY, GRADED BY FEW THINGS
+Comment: Absolutely atrocious with communicating. NO INFO about the exam beforehand, everything was last minute. NOTHING about the projects, just assigned them and called it a day. Lecture material barely connected to the projects so there was SUPER HIGH learning curve. Provided no topic list to focus on for exams. Absolutely horrible, choose someone else.
+---
+Course: CSE536
+Date: Jan 30th, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, CLEAR GRADING CRITERIA, GIVES GOOD FEEDBACK
+Comment: This is a heavy course, requiring 2~3 times workload of a typical course. Exams need comprehensive understanding to do well. Projects(~50%) are really helpful for solidifying concepts but are time-consuming. This is one of the most useful courses where I truly felt I learned a lot. You should take this if you are also interested in systems.
+---
+Course: CSE536
+Date: Jan 28th, 2025
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK, TEST HEAVY
+Comment: This class is incredibly bad. It doesn't teach anything useful and is filled with random jokes that make no sense. Many students hated it, and I wish I had never taken it. The classes are taught at a grade 5 level, while the exams are at a PhD level. And don't even get me started on the assignments. Not worth your effort and time, grades will drop.
+---
+Course: CSE536
+Date: Jan 15th, 2025
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: Yes
+Tags: AMAZING LECTURES, HILARIOUS, LECTURE HEAVY
+Comment: Amazing professor.
+---
+Course: CSE330
+Date: Jun 19th, 2024
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+Tags: PARTICIPATION MATTERS, EXTRA CREDIT, GROUP PROJECTS
+Comment: In class lectures are good you'll learn a ton if you pay attention. 2 Tests both hard he let us use a cheat sheet on the final. There are 4 group projects, These make up a ton of your grade around 60%. Go to Office hours the TA's are really helpful. The projects are time consuming so start early at least a week before they are assigned.
+---
+Course: CSE330
+Date: May 9th, 2024
+Quality: 4.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GROUP PROJECTS, AMAZING LECTURES, GRADED BY FEW THINGS
+Comment: He is new to undergrad teaching, so I would expect the following problems to improve: projects are vague and contained a few errors; grading scheme was too heavy on the projects; exams didn't cover all content well. Start the projects and studying early, as these will make or break your grade. Ahmad is an amazing lecturer, and I learned a ton.
+---
+Course: CSE330
+Date: May 3rd, 2024
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: N/A
+Tags: EXTRA CREDIT, GROUP PROJECTS, AMAZING LECTURES
+Comment: Dr. Ahmad is genuinely an amazing lecturer, but very tough professor. Exams and projects were a huge let down. Exams are very hard (60% avg). Projects are very vague and you are often told to "google it". However, I truly learned a lot DURING the lectures. I never want to touch OS development again, yet I am very thankful that I took Ahmad.
+---
+Course: CSE330
+Date: May 1st, 2024
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Comment: Any time the professor says "Hint: Google it!" then you know you're about to get railed
+---
+Course: CSE330
+Date: May 1st, 2024
+Quality: 2.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: N/A
+Tags: GROUP PROJECTS, GRADED BY FEW THINGS
+Comment: 4 Group projects, 2 exams, like 4 quizzes and thats ur grade. If youre a linux dweeb or OS fanboy youll love him. Hes really passionate about the subject but alot of the project/exam in comparison to the depth that the concepts are taught are not really fair. He gave a fat curve tho
+---
+Course: CSE330
+Date: Apr 26th, 2024
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: GROUP PROJECTS, CLEAR GRADING CRITERIA
+Comment: "My tests Average
+---
+Course: CSE330
+Date: Apr 24th, 2024
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: N/A
+Tags: GROUP PROJECTS
+Comment: Really solid guy, cares about his students, homework are frustrating, make sure to find a group. Tests are fair.
+---
+Course: CSE330
+Date: Apr 24th, 2024
+Quality: 5.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: LECTURE HEAVY
+Comment: Ahmad is a nice guy who cares about his teaching. The downside is, at least for me, CSE 330 is equivalent to CBT.
+---
+Course: CSE330
+Date: Mar 25th, 2024
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: LECTURE HEAVY, GRADED BY FEW THINGS
+Comment: Prof. Ahmad is very engaging and knows his stuff. Projects and exams are very difficult, but do-able. If you are interested in OS, you'll love him. If you dont like OS... you'll hate the class(but you'll hate it with the other professors too, but with Ahmad he's at least a cool guy)
+---
+Course: CSE536
+Date: Jan 5th, 2024
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B-
+Textbook: N/A
+Tags: GET READY TO READ, PARTICIPATION MATTERS, LOTS OF HOMEWORK
+Comment: If you take this course, definitely join the slack group. After joining, my assignment grades went from 40s (1&2) to 100 (3&4). Amazing lectures, so the exams would be no problems, but when quite new to the field you kinda need to be lucky to have generous people in the class to help you out with the assignments, or prepare to accept your destiny.
+---
+Course: CSE536
+Date: Dec 11th, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: N/A
+Tags: TOUGH GRADER, AMAZING LECTURES, LOTS OF HOMEWORK
+Comment: The professor has a lot of knowledge in the subject and his classes will be very interesting. Irrespective of the grade, I have learnt a lot about OS all thanks to prof Adil. I believe this knowledge of OS will be helpful for me in my job search.
+---
+Course: CSE536
+Date: May 5th, 2023
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Tags: TOUGH GRADER, LOTS OF HOMEWORK
+Comment: This was the first time the professor taught this and he does suffer from the curse of knowledge. -The professor is both knowledgeable and passionate about OSs, but unless you are also you will feel imposter syndrome. -Assignments are interesting but are unintentionally vague. -TAs will not help you. -Final exam was tough but reasonable.
+---
+Course: CSE536
+Date: Apr 26th, 2023
+Quality: 2.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: TOUGH GRADER, GET READY TO READ, EXTRA CREDIT
+Comment: Great at generating interest in the topic, very interactive class for sure. However, if you are not doing well, you are screwed. It's definitely hard to keep up, and there's no shortage of facing impostor syndrome in every session. I would suggest taking it only if you are prepared to do a lot of work. The assignments and exams are really hard.
+---
+Course: CSE536
+Date: Apr 26th, 2023
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: GET READY TO READ, LOTS OF HOMEWORK, TEST HEAVY
+Comment: Do not take this course! You always have a chance to chose way better class than this one. The professor is really bad at giving lecture. The teaching is always interrupted by student asking questions so it is really difficult for you to listen or follow. The course load is very heavy. Exam is hard, the midterm have an average lower than 60.
+---
+Course: CSE536
+Date: Apr 26th, 2023
+Quality: 3.0/5
+Difficulty: 5.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Incomplete
+Textbook: Yes
+Tags: TOUGH GRADER, GET READY TO READ, EXTRA CREDIT
+Comment: The course is very reading-heavy and the professor obfuscates the topic by not giving clear guides for assignments and supporting material. The course is complicated, and he does not make it easy to understand for sure. If you are not able to keep up, you are done. There's so much reading and if you are a masochist, then you can take this course.
+---
+Course: CSE536
+Date: Apr 20th, 2023
+Quality: 5.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+Tags: AMAZING LECTURES, ACCESSIBLE OUTSIDE CLASS
+Comment: Professor Adil is probably one of the best professors in ASU. The course is a bit hard though, be ready to dedicate time to it, but he is always accessible via slack or email
+---
+Course: CSE536
+Date: Apr 17th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Tags: AMAZING LECTURES, INSPIRATIONAL, RESPECTED
+Comment: Each Lecture is deep. Communicates the OS knowledge fluently. Clears doubts. Inspires students to ask doubts, to do research, to do bonus assignment, to learn, to take this domain seriously as a career option. Attending his class is like witnessing an artist discuss art. Midterm v.v.tough(10% only). 1hr15mins feels like 10 mins. Best Teacher Ever!!
+---
+Course: CSE536
+Date: Apr 4th, 2023
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Tags: GET READY TO READ, AMAZING LECTURES, HILARIOUS
+Comment: The classes are more interactive and the professor is accessible in slack and office hours. He includes lot of questions and code snippets in the slides, making it easier to follow. Assignments are challenging but not very hard. The course needs you to put considerable effort but its totally worth as you will learn a lot.
+---
+Course: CSE598
+Date: Nov 12th, 2022
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Tags: HILARIOUS, CARING, ACCESSIBLE OUTSIDE CLASS
+Comment: Super professor, really fun learning things under him. Would recommend to anyone.
+---

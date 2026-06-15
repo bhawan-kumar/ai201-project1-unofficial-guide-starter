@@ -1,0 +1,314 @@
+Professor: Sayfe Kiaei
+Department: ECE
+Overall Rating: 2.8/5
+Would Take Again: 34%
+Total Reviews: 30
+========================================
+
+Course: N/A
+Date: Apr 9th, 2025
+Quality: 2.0/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Tags: GRADED BY FEW THINGS
+Comment: Believe what the other reviews say. He is not a good teacher. This class was for Wireless & RF Transceiver Design and he teaches very high level. We didn't get to learn nearly half of what the syllabus says. We were graded on 5 things, which were easy. This class helped me learn a tiny bit more about RF. Don't expect much from this class.
+---
+Course: EEE524
+Date: Jun 23rd, 2022
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+Comment: I can say he is the worst professor you can find in entire united states or maybe planet earth !!!!!
+---
+Course: EEE433
+Date: May 7th, 2021
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B-
+Textbook: Yes
+Comment: Kiaei is by far the most disorganized and unhelpful professor I have ever had in my all-school years. His office hours are just a waste of time. He assumes that you know so many things and if you ask a question he makes fun of you. His exams are different from his lectures and his rare assignments. He cancels class and comes late often. Stay away
+---
+Course: EEE433
+Date: May 5th, 2021
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: TEST HEAVY
+Comment: It might have been different without COVID but he was the worst professor I have had at ASU. He was consistently 5-10 minutes late to his own lectures, took a full 2 months to grade the first exam, and for the last month just stopped lecturing at all, treating his lectures like office hours. He did not seem to care about his students.
+---
+Course: EEE433
+Date: Dec 18th, 2019
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Comment: Dr. Kiaei is by far the least detailed professors I have taken. Both lab, HW and Exams all had critical typos and conflicting design criteria. The pace of the class is slow compared to 335. Be prepared to derive formulas on exams.
+---
+Course: EEE433
+Date: May 20th, 2019
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: N/A
+Textbook: No
+Tags: GRADED BY FEW THINGS
+Comment: Most of the course work comes from the lab, but in the end 60% of the grade is from exams and only 25% from lab. 15% from HW and there were 3 HWs. If you miss or screw up even one HW, you'll lose a lot of points. He often travels and you will not learn much from him. If you must take 433, look out for different professors or take it in a later sem.
+---
+Course: EEE433
+Date: Feb 20th, 2019
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: He states that most of the learning is done in the lab, this is true. Ironically he isnt in the lab, his TAs are. Glad I paid so much to learn so little in the lecture and to struggle in the lab without the professor present. Hopefully you have nice TAs when you take this class with Kiaei.
+---
+Course: EEE433
+Date: Feb 11th, 2019
+Quality: 4.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: N/A
+Textbook: Yes
+Tags: GET READY TO READ, GRADED BY FEW THINGS
+Comment: Dr. Kiaei's EEE433 class is too easy. The first 10 weeks were review of EEE335. The lab is the most challenging part of the course and takes about 20 hours per lab (including hand calculations, simulation, and writing the report). The tests were super easy. I could have gotten an A on the tests with just my knowledge from 335.
+---
+Course: EEE433
+Date: Dec 4th, 2018
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Tags: GIVES GOOD FEEDBACK, HILARIOUS
+Comment: Professor is more knowledge based and communicates very effectively in the class. Exams were pretty easy and the Labs are pretty important. A lot of info to learn from the labs.
+---
+Course: EEE433
+Date: Jul 1st, 2018
+Quality: 3.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: No
+Tags: BEWARE OF POP QUIZZES, HILARIOUS
+Comment: Definitely agree he's quirky and pretty funny.. maybe too much so. Lot of wasted time in lectures and seemed a little unorganized so I didn't learn as much as I'm used to. He's all about the lab, so put in time and effort there and you'll get an A.
+---
+Course: EEE433
+Date: May 6th, 2018
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Tags: SKIP CLASS? YOU WON'T PASS., GRADED BY FEW THINGS
+Comment: The class is based on how well you do on labs. Read the lab manual and you'll do well. Make sure to read the book outside of class. He is very laid back and happy to help during office hours. Easy quizzes. Fair tests. Labs take more than several hours! Start labs early, read the lab manual, and analyze instead of playing with numbers.
+---
+Course: EEE433
+Date: May 30th, 2016
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+Comment: Easy quizzes. Regular light studying required
+---
+Course: EEE433
+Date: May 5th, 2016
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: No
+Comment: Class is basically a rehash of 335, but this time without formula sheets. He tests your conceptual understanding of the course, so that by the end, you should be able to look at basic amplifiers and by inspection, know gain, ro, etc. Expect him to be conceptual and not very structured, but he's a decent prof and is quite laid back. Tests are easy
+---
+Course: EEE433
+Date: Mar 26th, 2016
+Quality: 4.5/5
+Difficulty: 2.0/5
+For Credit: Yes
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Probably the most "interesting" (quirky) professor I've had at ASU. He keeps you on your toes, but its not to difficult.
+---
+Course: N/A
+Date: Feb 18th, 2014
+Quality: 5.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: B
+Textbook: Yes
+Comment: Excellent prof.
+---
+Course: EEE433
+Date: Dec 11th, 2013
+Quality: 4.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: Not_Sure_Yet
+Textbook: Yes
+Comment: Sayfe is one of those rare professors who has your back and is there for you. He's genuinely interested in you learning as much as you can while working with your struggles. He's the type who can tell when you're struggling outside of class and will call on you during class, by name, just to let you know he's happy you're in his class.
+---
+Course: EEE433
+Date: Nov 30th, 2013
+Quality: 1.0/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: VERY unclear class project specs class project. Changed class grading from syllabus halfway through the term. Puts little effort into lectures, and then forgets basics. Humiliates students with inappropriate "jokes" and mocks sincere questions. Hostile regarding test regrades. Seems to favor people from his country of origin. Often late to class.
+---
+Course: EEE591
+Date: Oct 27th, 2013
+Quality: 5.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: Mandatory
+Grade: N/A
+Textbook: No
+Comment: One of the best professors I've come across. His interest to make a student learn is a rarity. His sense of humor is probably the best I've seen and he inspires you a lot.
+---
+Course: EEE591
+Date: Dec 6th, 2012
+Quality: 1.0/5
+Difficulty: 5.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: He is really tough. The average grade he gave us is B. And there is no way to argue with him about the exam. He knows little about IC design except for showing his iphone on his class.
+---
+Course: EEE433
+Date: Nov 27th, 2010
+Quality: 4.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: excellent
+---
+Course: EEE524
+Date: Apr 29th, 2009
+Quality: 1.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: As others have commented, this man does not do what he says he will do. He claims to enjoy teaching, but is bad at it. He may have known something about IC design and RF at one point in his career, but he has surely forgotten it. His office hours are worthless, since he knows little. He gets good reviews by giving away unearned grades.
+---
+Course: EEE335
+Date: Mar 6th, 2008
+Quality: 3.5/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: labs were a mess. thank god for the TAs. some students bombed the first test b/c they cheated on the labs, and he let them retake (pretty much the same) test. he then adjusted the curve, so i went from an a to a b. at least he made some of his own hw so the cheaters suffered a bit. good guy, smart, allows stud. to argue for points. go to office hrs
+---
+Course: EEE335
+Date: Nov 8th, 2007
+Quality: 4.5/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: This is one of the best professors I've had so far. I guess he made his point by telling the class that a grade does not reflect what a student really knows about the field, so when some of us bombed the first test, he let us retake it for a second chance! He does not have lectures planned which makes him sloppy, but he always helps!
+---
+Course: EEE335
+Date: Oct 23rd, 2007
+Quality: 1.5/5
+Difficulty: 4.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: This professor doesn't lecture well and seems to enjoy telling students he'll do one thing but then does another. He actually offered a free A to anyone that wanted it if they came by his office and asked for it but left the class. The class laughed believing he was joking, but he said he was serious. This is a serious compromise of the dept.
+---
+Course: EEE335
+Date: Oct 17th, 2007
+Quality: 1.0/5
+Difficulty: 3.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Very poor lecturer; Makes many mistakes; Lacks knowledge; Dodges questions; Disorganization in lecture and especially in lab assignments; Rarely does what he says; Unfriendly in office hours
+---
+Course: EEE524
+Date: Sep 24th, 2007
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: No
+Comment: Initially I thought may be he is not a good teacher as he is from the industry but trust me this guy lacks basic knowledge in Electrical Engineering leave alone complex subject like Analog IC or RFIC. Please avoid if possible take Dr. Allee's course.
+---
+Course: EEE335
+Date: May 30th, 2007
+Quality: 4.5/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: Prof.Kiaei is simply one of the best professors. He knows what he is talking about, having been in the industry for a long time. I learned a lot from this class than the previous class,EEE334. He will go over the material several times if the class desn't understand. His tests are easy, with an option for final exam or project. Highly recomended.
+---
+Course: EEE335
+Date: Apr 24th, 2007
+Quality: 4.0/5
+Difficulty: 2.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: Yes
+Comment: He teaches very well. The pace is slower than usual but I learned a lot more in his class than any other class. highly reccoment him as a professor.
+---
+Course: N/A
+Date: Apr 17th, 2006
+Quality: 1.5/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: He is by far the worst professor. He just knows the bare basics and tries to develop on that, but screws up completely.
+---
+Course: EEE433
+Date: Dec 15th, 2005
+Quality: 3.0/5
+Difficulty: 1.0/5
+For Credit: N/A
+Attendance: N/A
+Grade: N/A
+Textbook: N/A
+Comment: Analogies in class to help student gain a better understanding of the material is great, and so are his tests. The labs are long as hell and he seems intimating if you attend his office hours.
+---
